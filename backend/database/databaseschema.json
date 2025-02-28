@@ -1,0 +1,40 @@
+[
+	{
+		"hospital_id":generate_id("hosp"),
+		"hospital_name":" ",
+		"address":{
+			"street":" ",
+			"city":" ",
+			"district":" ",
+			"state":" ",
+			"pin":" "
+		},"contact":{
+			"phone":" ",
+			"email":" ",
+			"website":" "
+		},"departments":[
+			{
+				"dept_id":generate_id("dept"),
+				"name":" ",
+				"doctors":[
+					{
+						"doctor_id":generate_id("doc"),
+						"name":" ",
+						"designation":" ",
+						"appointments":null
+
+					},{
+						"doctor_id":generate_id("doc"),
+						"name":" ",
+						"designation":" ",
+						"appointments":[
+                            {"day": "Monday", "timings": ["10:00 AM - 12:00 PM", "2:00 PM - 4:00 PM"]},
+                            {"day": "Wednesday", "timings": ["9:00 AM - 11:00 AM", "3:00 PM - 5:00 PM"]}
+                        ]
+					}
+
+				]
+			}
+		]
+	}
+]

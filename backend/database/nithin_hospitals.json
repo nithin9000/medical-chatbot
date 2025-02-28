@@ -1,0 +1,40 @@
+
+
+
+[
+	{
+		"hospital_id":generate_id("hosp"),
+		"hospital_name":"KIMSHealth Trivandrum",
+		"address":{
+			"street":"Anayara",
+			"city":"Trivandrum",
+			"district":"Trivandrum",
+			"state":"Kerala",
+			"pin":"695029"
+		},"contact":{
+			"phone":"+91 471 471 3400",
+			"email":"feedback.tvm@kimshealth.org",
+			"website":"www.kimshealth.org"
+		},"departments":[
+			{
+				"dept_id":generate_id("dept"),
+				"name":"Anesthesiology",
+				"doctors":[
+					{
+						"doctor_id":generate_id("doc"),
+						"name":"Dr. Ashwin Haridas",
+						"designation":"Associate Consultant",
+						"appointments":null,
+
+					},{
+						"doctor_id":generate_id("doc"),
+						"name":"Dr. Anil Radhakrishnan Pillai",
+						"designation":"Consultant",
+						"appointments":null
+					},
+
+				]
+			}
+		]
+	}
+]
