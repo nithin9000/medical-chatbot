@@ -1,0 +1,2822 @@
+[
+    {
+        "hospital_id": "hosp_5359",
+        "hospital_name": "Mother Hospital Thrissur",
+        "address": {
+            "street": "852 Emily Corners Apt. 040",
+            "city": "Thrissur",
+            "district": "Thrissur",
+            "state": "Kerala",
+            "pin": "54139"
+        },
+        "contact": {
+            "phone": "313.551.4399x2791",
+            "email": "woodskimberly@example.net",
+            "website": "https://www.motherhospitalthrissur.org"
+        },
+        "departments": [
+            {
+                "dept_id": "dept_1396",
+                "name": "General Medicine",
+                "doctors": [
+                    {
+                        "doctor_id": "doc_5521",
+                        "name": "Isabel Brown",
+                        "designation": "Social worker",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4730",
+                        "name": "Kevin Weiss",
+                        "designation": "Administrator",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3049",
+                        "name": "Kathy Williams MD",
+                        "designation": "Doctor, hospital",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2788",
+                        "name": "Benjamin Lewis",
+                        "designation": "Office manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5436",
+                        "name": "Julie Taylor",
+                        "designation": "Historic buildings inspector/conservation officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1959",
+                        "name": "Nicole Flores",
+                        "designation": "Special educational needs teacher",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6264",
+                        "name": "Deborah Mckenzie",
+                        "designation": "Barrister's clerk",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_9426",
+                        "name": "Dana Cox",
+                        "designation": "Editor, commissioning",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8623",
+                        "name": "Stephanie Vazquez",
+                        "designation": "Make",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5547",
+                        "name": "Kim Johnson",
+                        "designation": "Surveyor, insurance",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4908",
+                        "name": "Lindsey Wolfe",
+                        "designation": "Professor Emeritus",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5694",
+                        "name": "Melanie Chavez",
+                        "designation": "Development worker, international aid",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3793",
+                        "name": "Brian Villarreal",
+                        "designation": "Designer, graphic",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5508",
+                        "name": "Daniel Burton",
+                        "designation": "Psychologist, prison and probation services",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6747",
+                        "name": "Dr. Diana Kim",
+                        "designation": "Information officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2044",
+                        "name": "Matthew Fitzpatrick",
+                        "designation": "Tourist information centre manager",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3104",
+                        "name": "Sharon Hood",
+                        "designation": "Holiday representative",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9225",
+                        "name": "Melissa Stevens",
+                        "designation": "Fish farm manager",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4982",
+                        "name": "Courtney Kelly",
+                        "designation": "Clinical embryologist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3148",
+                        "name": "Jo White",
+                        "designation": "Insurance broker",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5016",
+                        "name": "Kurt Acosta",
+                        "designation": "Exhibition designer",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4615",
+                        "name": "Richard Jimenez",
+                        "designation": "Public affairs consultant",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4326",
+                        "name": "Taylor Wilson",
+                        "designation": "Charity officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4880",
+                        "name": "Phillip Clements",
+                        "designation": "Dispensing optician",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6719",
+                        "name": "Jennifer Bright",
+                        "designation": "Futures trader",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6787",
+                        "name": "Ryan Gilbert",
+                        "designation": "Teacher, adult education",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6377",
+                        "name": "Barbara Maxwell",
+                        "designation": "Brewing technologist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6588",
+                        "name": "Travis Kim",
+                        "designation": "Therapist, music",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_7393",
+                        "name": "James Gilbert",
+                        "designation": "Haematologist",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8586",
+                        "name": "Adam Erickson",
+                        "designation": "Multimedia specialist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5374",
+                        "name": "Denise Stewart",
+                        "designation": "Seismic interpreter",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4312",
+                        "name": "Angela Boyd",
+                        "designation": "Higher education lecturer",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1113",
+                        "name": "Randy Martinez",
+                        "designation": "Higher education careers adviser",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4054",
+                        "name": "Wesley Hamilton",
+                        "designation": "Surveyor, building",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_7447",
+                        "name": "Jessica Marshall",
+                        "designation": "Chiropodist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4260",
+                        "name": "Patricia Stein",
+                        "designation": "Engineer, aeronautical",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9204",
+                        "name": "Randy Gillespie",
+                        "designation": "Engineer, manufacturing systems",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9346",
+                        "name": "Roy Long",
+                        "designation": "Herpetologist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5045",
+                        "name": "Renee Campbell",
+                        "designation": "Pension scheme manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8173",
+                        "name": "Jessica Lane",
+                        "designation": "Music therapist",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4384",
+                        "name": "Wendy Michael",
+                        "designation": "Press sub",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1590",
+                        "name": "Victoria Kane",
+                        "designation": "Environmental health practitioner",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6515",
+                        "name": "Alexander Hodges",
+                        "designation": "Psychotherapist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6522",
+                        "name": "Andrea Lopez",
+                        "designation": "Insurance broker",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5881",
+                        "name": "Brian Hines",
+                        "designation": "Medical illustrator",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4697",
+                        "name": "Christopher Olson",
+                        "designation": "Buyer, retail",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1594",
+                        "name": "Timothy Sanders",
+                        "designation": "Stage manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3058",
+                        "name": "Leah Burns",
+                        "designation": "Pathologist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3539",
+                        "name": "Edward Martin",
+                        "designation": "Local government officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2611",
+                        "name": "Mckenzie Diaz",
+                        "designation": "Building services engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8316",
+                        "name": "Susan Ryan",
+                        "designation": "Osteopath",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2518",
+                        "name": "Melissa Medina",
+                        "designation": "Science writer",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5235",
+                        "name": "Carolyn Bailey",
+                        "designation": "Ecologist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2404",
+                        "name": "Dr. Timothy Schwartz",
+                        "designation": "Furniture designer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2492",
+                        "name": "Autumn Marquez",
+                        "designation": "Lecturer, further education",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8032",
+                        "name": "Allison Mitchell",
+                        "designation": "Programme researcher, broadcasting/film/video",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1530",
+                        "name": "Glenda Campbell",
+                        "designation": "Metallurgist",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2254",
+                        "name": "John Harris",
+                        "designation": "Museum/gallery curator",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9681",
+                        "name": "Logan Bennett",
+                        "designation": "Cytogeneticist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9288",
+                        "name": "Charles Holland",
+                        "designation": "Teacher, adult education",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9829",
+                        "name": "Joseph Shannon",
+                        "designation": "Press photographer",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7473",
+                        "name": "Brandon Smith",
+                        "designation": "Bonds trader",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4954",
+                        "name": "Michael Moss",
+                        "designation": "Agricultural engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2995",
+                        "name": "Ryan Peterson",
+                        "designation": "Materials engineer",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4109",
+                        "name": "Dave Flores",
+                        "designation": "Computer games developer",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4034",
+                        "name": "Frank Smith",
+                        "designation": "Secondary school teacher",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5664",
+                        "name": "James Banks",
+                        "designation": "Television/film/video producer",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8713",
+                        "name": "Travis Lewis",
+                        "designation": "Embryologist, clinical",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8376",
+                        "name": "Lauren Clark",
+                        "designation": "Health promotion specialist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3156",
+                        "name": "David Smith",
+                        "designation": "Engineer, energy",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2625",
+                        "name": "Amy Miller",
+                        "designation": "Physiotherapist",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8077",
+                        "name": "Brett Roberts",
+                        "designation": "Accounting technician",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3684",
+                        "name": "Tammy Kelly",
+                        "designation": "Radiographer, diagnostic",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5670",
+                        "name": "Stephanie Carr",
+                        "designation": "Chiropodist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2313",
+                        "name": "Robert Taylor",
+                        "designation": "Make",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_9040",
+                        "name": "Daniel Cardenas",
+                        "designation": "Special educational needs teacher",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4502",
+                        "name": "Tiffany Finley",
+                        "designation": "Chief Financial Officer",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7731",
+                        "name": "Ashley Williams",
+                        "designation": "Illustrator",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5240",
+                        "name": "Michael Wagner",
+                        "designation": "Copy",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3420",
+                        "name": "David Warren",
+                        "designation": "Rural practice surveyor",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2245",
+                        "name": "Michael Rivera",
+                        "designation": "Facilities manager",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2812",
+                        "name": "Robert Wheeler",
+                        "designation": "Volunteer coordinator",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2643",
+                        "name": "Karen Hawkins",
+                        "designation": "Arboriculturist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4372",
+                        "name": "Dawn Wolf",
+                        "designation": "Art therapist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8053",
+                        "name": "Nicholas Hammond",
+                        "designation": "Corporate investment banker",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4031",
+                        "name": "Sydney Brown",
+                        "designation": "Water engineer",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7770",
+                        "name": "Lori Beard",
+                        "designation": "Chief Technology Officer",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4695",
+                        "name": "Amanda Mccall",
+                        "designation": "Location manager",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1417",
+                        "name": "William Gonzales",
+                        "designation": "Special educational needs teacher",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4417",
+                        "name": "Kyle Estrada",
+                        "designation": "Warehouse manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1264",
+                        "name": "Charles Winters",
+                        "designation": "Designer, graphic",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6310",
+                        "name": "Lori Gilmore",
+                        "designation": "Medical illustrator",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9296",
+                        "name": "William Lawson",
+                        "designation": "Charity fundraiser",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3573",
+                        "name": "Jonathan Riley",
+                        "designation": "Legal executive",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5523",
+                        "name": "Lisa James",
+                        "designation": "Therapist, music",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7018",
+                        "name": "Katie Boyle",
+                        "designation": "Photographer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5794",
+                        "name": "Sheryl Thomas",
+                        "designation": "Insurance underwriter",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7886",
+                        "name": "Jamie Alexander",
+                        "designation": "Education administrator",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8349",
+                        "name": "Brandy Tanner",
+                        "designation": "Research scientist (physical sciences)",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6062",
+                        "name": "Alfred Brown",
+                        "designation": "Conservator, furniture",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "dept_id": "dept_4944",
+                "name": "Cardiology",
+                "doctors": [
+                    {
+                        "doctor_id": "doc_4381",
+                        "name": "Howard Walsh",
+                        "designation": "Control and instrumentation engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1876",
+                        "name": "Charles Thomas",
+                        "designation": "Chief Operating Officer",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8843",
+                        "name": "Karen Moran",
+                        "designation": "Clinical scientist, histocompatibility and immunogenetics",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1745",
+                        "name": "Lisa Bishop",
+                        "designation": "Surveyor, minerals",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8089",
+                        "name": "Nancy Meyer",
+                        "designation": "Midwife",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6962",
+                        "name": "Kenneth Dalton",
+                        "designation": "Social researcher",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1881",
+                        "name": "Bobby Roberts",
+                        "designation": "Claims inspector/assessor",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1318",
+                        "name": "Robert Harrison",
+                        "designation": "Accounting technician",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8790",
+                        "name": "Mrs. Stephanie Lane",
+                        "designation": "Archivist",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6540",
+                        "name": "Evan Walker",
+                        "designation": "Sports therapist",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8084",
+                        "name": "Emma Pearson",
+                        "designation": "Environmental health practitioner",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6199",
+                        "name": "Tina Choi",
+                        "designation": "Medical technical officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6575",
+                        "name": "Madeline Rodriguez",
+                        "designation": "Mechanical engineer",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6736",
+                        "name": "Sarah Wyatt",
+                        "designation": "Intelligence analyst",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7853",
+                        "name": "Danielle Ayers",
+                        "designation": "Chemical engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3571",
+                        "name": "Emily Abbott",
+                        "designation": "Museum education officer",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9002",
+                        "name": "Tina Jackson",
+                        "designation": "Energy manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_7037",
+                        "name": "Christopher Kent",
+                        "designation": "Engineer, civil (consulting)",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4356",
+                        "name": "Heather Harris",
+                        "designation": "Designer, textile",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6799",
+                        "name": "Michael Becker",
+                        "designation": "Set designer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1071",
+                        "name": "Amanda Conner",
+                        "designation": "Psychologist, counselling",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1797",
+                        "name": "Leslie Hill",
+                        "designation": "Surveyor, planning and development",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8191",
+                        "name": "Madeline Hayes",
+                        "designation": "Diagnostic radiographer",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6886",
+                        "name": "David Sparks",
+                        "designation": "Multimedia programmer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2460",
+                        "name": "Roger Hill",
+                        "designation": "Dietitian",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3741",
+                        "name": "Stephen Henderson",
+                        "designation": "Restaurant manager, fast food",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5966",
+                        "name": "Cory Cantrell",
+                        "designation": "Surgeon",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7384",
+                        "name": "Scott Kelly",
+                        "designation": "Technical sales engineer",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6928",
+                        "name": "Jeffrey Ball MD",
+                        "designation": "Passenger transport manager",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1983",
+                        "name": "Richard Johnston",
+                        "designation": "Advertising copywriter",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7898",
+                        "name": "Kristi Case",
+                        "designation": "Solicitor",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3017",
+                        "name": "Jeffrey Nichols",
+                        "designation": "Administrator, charities/voluntary organisations",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6361",
+                        "name": "Jennifer Schmitt",
+                        "designation": "Scientist, water quality",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3444",
+                        "name": "Susan Clayton",
+                        "designation": "Ergonomist",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2089",
+                        "name": "Jean Casey",
+                        "designation": "Health service manager",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8932",
+                        "name": "Ashley Nelson",
+                        "designation": "Higher education lecturer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1818",
+                        "name": "Larry Lewis MD",
+                        "designation": "Surveyor, rural practice",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_9121",
+                        "name": "Becky Waller",
+                        "designation": "Furniture designer",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1830",
+                        "name": "Maureen Phillips",
+                        "designation": "Community development worker",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2991",
+                        "name": "Jane Davis",
+                        "designation": "Field seismologist",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1018",
+                        "name": "Patrick Armstrong",
+                        "designation": "Industrial/product designer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3963",
+                        "name": "Walter Sims",
+                        "designation": "Chartered accountant",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_7497",
+                        "name": "Kelly Morgan",
+                        "designation": "Surveyor, building control",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8662",
+                        "name": "Micheal Alexander",
+                        "designation": "Surveyor, rural practice",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2278",
+                        "name": "Thomas Johnson",
+                        "designation": "Energy manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8145",
+                        "name": "Kendra Jordan",
+                        "designation": "Journalist, broadcasting",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6070",
+                        "name": "Tanya Bartlett",
+                        "designation": "Environmental education officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2295",
+                        "name": "Eric Lawrence",
+                        "designation": "Therapist, horticultural",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3114",
+                        "name": "Courtney Daugherty",
+                        "designation": "Physicist, medical",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1166",
+                        "name": "Glenn Baldwin",
+                        "designation": "Technical sales engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1890",
+                        "name": "Ashley Clark",
+                        "designation": "Accountant, chartered certified",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_1383",
+                        "name": "Chelsey Hall",
+                        "designation": "Housing manager/officer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2664",
+                        "name": "John Williams",
+                        "designation": "Comptroller",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3608",
+                        "name": "Jacob Morrison",
+                        "designation": "Patent attorney",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5688",
+                        "name": "Colin Grant",
+                        "designation": "Air cabin crew",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4979",
+                        "name": "Robert Suarez",
+                        "designation": "Claims inspector/assessor",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3005",
+                        "name": "Michael Macdonald",
+                        "designation": "Company secretary",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_9212",
+                        "name": "Kristin Klein",
+                        "designation": "Building surveyor",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8366",
+                        "name": "Danielle Mcgee",
+                        "designation": "Primary school teacher",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3791",
+                        "name": "Rebekah Robinson",
+                        "designation": "Restaurant manager, fast food",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2837",
+                        "name": "Joshua Skinner",
+                        "designation": "Warehouse manager",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3920",
+                        "name": "Erin Johnson",
+                        "designation": "Agricultural engineer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8655",
+                        "name": "Douglas Robinson",
+                        "designation": "Occupational therapist",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_3678",
+                        "name": "Rebecca Cruz",
+                        "designation": "Music therapist",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9057",
+                        "name": "Julie Lewis",
+                        "designation": "Materials engineer",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5293",
+                        "name": "Tricia Vasquez",
+                        "designation": "Embryologist, clinical",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2778",
+                        "name": "Kent Garrett",
+                        "designation": "Facilities manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3659",
+                        "name": "Angela Cook",
+                        "designation": "Surveyor, minerals",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2840",
+                        "name": "Sandra Mcintosh",
+                        "designation": "Investment banker, operational",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2638",
+                        "name": "Mr. Brian Bowen MD",
+                        "designation": "Investment analyst",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_2589",
+                        "name": "Dominic Lambert",
+                        "designation": "Dispensing optician",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_9825",
+                        "name": "Suzanne Levy",
+                        "designation": "Forensic psychologist",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7694",
+                        "name": "Ashley Marshall",
+                        "designation": "Passenger transport manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_1015",
+                        "name": "Dana Perez",
+                        "designation": "Retail manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_7168",
+                        "name": "Isaac Rhodes",
+                        "designation": "Financial manager",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7517",
+                        "name": "Jeffrey Reed",
+                        "designation": "Comptroller",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3622",
+                        "name": "Thomas Walker",
+                        "designation": "Contractor",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2425",
+                        "name": "Amy Warren",
+                        "designation": "Accounting technician",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9639",
+                        "name": "Ian Brown",
+                        "designation": "Lighting technician, broadcasting/film/video",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6441",
+                        "name": "Jonathan Horne",
+                        "designation": "Exhibitions officer, museum/gallery",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5932",
+                        "name": "Anthony Carter",
+                        "designation": "Chief Strategy Officer",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6901",
+                        "name": "Matthew Taylor",
+                        "designation": "Systems developer",
+                        "appointments": [
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_6925",
+                        "name": "Cody Daugherty",
+                        "designation": "Building control surveyor",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4642",
+                        "name": "Gordon Wagner",
+                        "designation": "Leisure centre manager",
+                        "appointments": [
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9169",
+                        "name": "Christopher Gutierrez",
+                        "designation": "Biochemist, clinical",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3275",
+                        "name": "Katherine Esparza",
+                        "designation": "Statistician",
+                        "appointments": [
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Tuesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9243",
+                        "name": "Erin Nelson PhD",
+                        "designation": "Restaurant manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_6608",
+                        "name": "Madison Lawson",
+                        "designation": "Higher education careers adviser",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5680",
+                        "name": "Adrian Johnson",
+                        "designation": "Lawyer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_3637",
+                        "name": "Cindy Collins",
+                        "designation": "Fish farm manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_4403",
+                        "name": "Sharon Campbell",
+                        "designation": "Location manager",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_2984",
+                        "name": "Amanda Davis",
+                        "designation": "Writer",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_8349",
+                        "name": "Stephanie Bowers",
+                        "designation": "Product/process development scientist",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9364",
+                        "name": "Amy Smith",
+                        "designation": "Bookseller",
+                        "appointments": null
+                    },
+                    {
+                        "doctor_id": "doc_5785",
+                        "name": "Madeline Valdez",
+                        "designation": "Database administrator",
+                        "appointments": [
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Wednesday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_7538",
+                        "name": "Ashley Stout",
+                        "designation": "Surgeon",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_5909",
+                        "name": "Theresa Hall",
+                        "designation": "Engineer, energy",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_8823",
+                        "name": "Stephanie Nichols",
+                        "designation": "Office manager",
+                        "appointments": [
+                            {
+                                "day": "Saturday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Friday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_9882",
+                        "name": "Kelly Finley",
+                        "designation": "Management consultant",
+                        "appointments": [
+                            {
+                                "day": "Thursday",
+                                "timings": [
+                                    "10:00 AM - 12:00 PM",
+                                    "2:00 PM - 4:00 PM"
+                                ]
+                            },
+                            {
+                                "day": "Monday",
+                                "timings": [
+                                    "9:00 AM - 11:00 AM",
+                                    "3:00 PM - 5:00 PM"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "doctor_id": "doc_4420",
+                        "name": "Daniel Chavez",
+                        "designation": "Barrister's clerk",
+                        "appointments": null
+                    }
+                ]
+            }
+        ]
+    }
+]
