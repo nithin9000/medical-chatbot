@@ -49,7 +49,8 @@
 			},{
 				"dept_id":"generate_id(\"dept\")",
 				"name":"Cancer Care",
-				"doctors":[
+				"doctors":
+				[
 					{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Shali S Nair",
@@ -2788,7 +2789,7 @@
 				]
 			}
         ]
-     }
-  ]
- }
+    }
+]
+}
 ]
