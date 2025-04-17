@@ -760,8 +760,402 @@
 					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
-				  },
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.M Suresh Kumar",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Nithya R",
+					"designation": "Pediatric ENT Specialist",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Vinod Felix",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Mohammed Noushad",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
 				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Emergency Medicine Department",
+				"docrtors":[{
+						"doctor_id": "generate_id(\"doc\")",
+						"name": "Dr.Shameem K U",
+						"designation": "Consultant & Group Clinical and Academic Coordinator",
+						"appointments": [
+						  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+						]
+					  },{
+						"doctor_id": "generate_id(\"doc\")",
+						"name": "Dr.K Suresh Kumar",
+						"designation": "Emergency Physician",
+						"appointments": [
+						  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+						]
+					  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Endorcinology and Diabetes",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Akhil Krishna",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Gopinath S Sunil",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Thushanth Thomas",
+					"designation": "Cheif Coordinater and Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Family Medicine",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Midhun Mohan",
+					"designation": "Registrar",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Lizy Vincent",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Zuhara P M",
+					"designation": "Director - Emergency Medicine,Family Medicine and Pharmacy services",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Vishnu B S",
+					"designation": "Registrar and Academic coordinater",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Fertility Clinic",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Rabeeh Valiyathodi",
+					"designation": "Fertility Clinic",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Snehna Ann Abrahm",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Gastroenterology",
+				"docrtors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Simna L",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Devika Madhu",
+					"designation": "Associate Consultant - Medical Gastroenterology",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Madhu Sasidharan",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Ajith K Nair",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Harish Kareem",
+					"designation": "Senior COnsultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.",
+					"designation": "",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Arun P",
+					"designation": "Associate Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Arun P",
+					"designation": "Associate Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"doctor_id":"generate_id(\"doc\")",
+				"dept_name":"Gastrointestinal Surgery",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Subhlal M S",
+					"designation": "Hon. Sr. Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Anandkumar M",
+					"designation": "Hon. Sr. Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Renji Mathew",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.K.P.S. Vinayakhram",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"General and Minimally Invasive Surgery",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Najeeb A A",
+					"designation": "Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Maya Devi T J",
+					"designation": "Hon. Sr. Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Sanoop K Zachariah",
+					"designation": "Senior Consultant and Professor",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Shafy Ali Khan",
+					"designation": "Senior Consultant & Coordinater",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Reji J",
+					"designation": "Specialist",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Geriatrics ans Healthy living",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Athul Vyas V",
+					"designation": "Specialist and Associate Coordinater",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Ramesh Kumar G",
+					"designation": "Senior Consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  }
+				]
+			},{
+				"dept_id":"generate_id(\"doc\")",
+				"dept_name":"Hometology Clinic",
+				"doctors":[{
+					"doctor_id": "generate_id(\"doc\")",
+					"name": "Dr.Ashwin V Nair",
+					"designation": "Coordinator and senior consultant",
+					"appointments": [
+					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
+					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
+					]
+				  },]
 			}
 
 		]
@@ -770,5 +1164,4 @@
 
 ]
 
-}
-]
+}]
