@@ -2788,7 +2788,90 @@
 				]
 			}
         ]
-     }
+    },{
+		"hospital_id":"generate_id(\"hosp\")",
+		"hospital_name":"SP Fort Hospital",
+		"address":{
+			"street":"Anakottil St,West Fort",
+			"city":"Trivandrum",
+			"district":"Trivandrum",
+			"state":"Kerala",
+			"pin":"695023"
+		},"contact":{
+			"phone":"0471 245 0540",
+			"email":"info@spfort.com",
+			"website":"www.spfort.com"
+		},"departments":[
+			{
+				"dept_id":"generate_id(\"dept\")",
+				"name":"Orthopediacs",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Davis john Thelekatt",
+						"designation":"Orthopedic surgeon",
+						"appointments":null
+
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Praveeen S Jose",
+						"designation":"Consultant-pediatric Orthopediacs",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Aathithya",
+						"designation":"Orthopedic surgeon",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Rajesh V",
+						"designation":"Consultant-Orthopedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Bhupesh karthik",
+						"designation":"Orthopedic surgeon",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Arun Vishwanath ",
+						"designation":"Consultant Orthopedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Ashok Thomas",
+						"designation":"Consultant orthopedics(Spine)",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.G Hari Kumar ",
+						"designation":"Consultant-Orthopedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.A Dileep Kumar ",
+						"designation":"Consultant Orthopaedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Shibu John",
+						"designation":"Consultant-Orthopedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. C.S.Vikraman",
+						"designation":"Chief Consultant-Orthopaedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Cherian M Thomas",
+						"appointments":null
+					}
+				]
+			}
+		]
+	}
   ]
  }
 ]
