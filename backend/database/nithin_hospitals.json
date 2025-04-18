@@ -2869,6 +2869,418 @@
 						"appointments":null
 					}
 				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Spine surgery",
+				"doctors":
+				[
+					{
+					"doctor_id":"generate_id(\"doc\")",
+					"name":"Dr.Davis john Thelekatt",
+					"designation":"Orthopaedic Surgeon",
+					"appointments":null
+					},{
+					"doctor_id":"generate_id(\"doc\")",
+					"name":"DrAshok Thomas.",
+					"designation":"Consultant-Orthopaedics(Spine)",
+					"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Plastic and Microvascular",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Rajesh A",
+						"designation":"Medical Officer-Plastic and Reconstructive Surgery",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Pramod B Nair",
+						"designation":"Medical Officer-Plastic and Reconstructive Surgery",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P.Vijaya Kumar",
+						"designation":"Consultant-Plastic Reconstructive Surgery",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"General and Laparoscopic",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Mudassir",
+						"designation":"Medical officer-General Surgery",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anu Antony Varghese",
+						"designation":"Consultant - General,Laparoscopic and Bariatric Surgery",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P.P.Nayar",
+						"designation":"Consultant - General Surgery",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Emergency and Medical Service",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.V.Mohanakrishnan",
+						"designation":"Consultant - Emergency physician",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.B.R.Menon",
+						"designation":"Consultant-Deputy Medical Superintendent",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Critical Care",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.M.Mohamed Nazeem",
+						"designation":"Medical officer - critical care unit",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Bijoy Paulose",
+						"designation":"Consultant-Anaesthesiology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Urology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.N.P Sasikumar",
+						"designation":"Consultant-Urology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Nephrology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.G.Vishnu",
+						"designation":"Medical Officer-Nephrology",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Beena Uniikrishnan",
+						"designation":"Consultant - Nephrology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Gynecology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.M.K.Kanakamma",
+						"designation":"Consultant - Gynaecology",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P.Deepa",
+						"designation":"Consultant - Gynaecology",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.N.Syamala",
+						"designation":"Consultant - Gynaecology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"General Medicine",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Abraham Philip",
+						"designation":"Consultant - General Medicine",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Chest Disease and Thoracic Surgery",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P.Arjun",
+						"designation":"Consultant - Pulmonology",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.A.Pious",
+						"designation":"Consultant - Pulmonology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pediatrics and Pediatric Surgeory",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Aswathy.D.Pillai",
+						"designation":"Consultant",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Gisi Shibu",
+						"designation":"Consultant - Paediatrics",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Endorcinology and Diabetes",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Suresh Kumar",
+						"designation":"Consultant - General Medicine",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Dermatology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.S.Sunil Kumar",
+						"designation":"Consultant - Dermatology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"ENT",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Aruna Das",
+						"designation":"Consultant - ENT",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Asha Kumar",
+						"designation":"Consultant - ENT",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Cardiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Harihara Subramonia Sharma",
+						"designation":"Consultant - Cardiology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Neurology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Aruna Murthy",
+						"designation":"Consultant - Neurology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Neurosurgery",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Suresh Kumar.K.L",
+						"designation":"Consultant - Neuro Surgery",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sreejith.M.D",
+						"designation":"Orthopaedic Surgeon",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Anesthesiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.V.M.Rajasekharan",
+						"designation":"Consultant - Anaesthesiology",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Liza Joice",
+						"designation":"Consultant - Anaesthesiology",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Hyperbaric Medicine",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ajith Kumar.S",
+						"designation":"Consultant - General Medicine",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Dentistry and Maxillofacial",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Binitha Govind",
+						"designation":"Dental Surgeon - Dental",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. M.A Kishor",
+						"designation":"Maxillo Facial Surgery - Dental",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Family Medicine and Geriatrics",
+				"doctors":null
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Radio Diagnosis and Imaging",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.S.Sathish Babu",
+						"designation":"Orthopaedic Surgeon",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Psychiatry",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Cherian M Thomas",
+						"designation":"Chief Orthopaedic Surgeon",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. C.S.Vikraman",
+						"designation":"Chief Consultant-Orthopaedics",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P.Vijaya Kumar",
+						"designation":"Consultant - Plastic and Reconstructive Surgeory",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Infertility Clinics",
+				"doctors":null
+
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Laboratory Medicine",
+				"doctors":null
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Dietetics and Nutrition",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Joofiya Beegum",
+						"designation":"Dietician",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Physiotherapy and Rehab",
+				"doctors":null
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Development Therapy",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Mrs.Vidya",
+						"designation":"Development Therapist",
+						"appointments":null
+					}
+				]
+			}
+		]
+	},{
+		"hospital_id":"generate_id(\"hosp\")",
+		"hospital_name":"SP Fort Hospital",
+		"address":{
+			"street":"Anakottil St,West Fort",
+			"city":"Trivandrum",
+			"district":"Trivandrum",
+			"state":"Kerala",
+			"pin":"695023"
+		},"contact":{
+			"phone":"0471 245 0540",
+			"email":"info@spfort.com",
+			"website":"www.spfort.com"
+		},"departments":[
+			{
 			}
 		]
 	}
