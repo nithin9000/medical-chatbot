@@ -3268,19 +3268,192 @@
 		]
 	},{
 		"hospital_id":"generate_id(\"hosp\")",
-		"hospital_name":"SP Fort Hospital",
+		"hospital_name":"Ananthapuri Hospitals and Research Institute(AHRI)",
 		"address":{
-			"street":"Anakottil St,West Fort",
+			"street":"NH bypass 66,Airport Rd,near Courtyard Garden,Chackai",
 			"city":"Trivandrum",
 			"district":"Trivandrum",
 			"state":"Kerala",
-			"pin":"695023"
+			"pin":"695024"
 		},"contact":{
-			"phone":"0471 245 0540",
-			"email":"info@spfort.com",
-			"website":"www.spfort.com"
+			"phone":"0471 660 9900",
+			"email":"ahri@ahri.in",
+			"website":"www.anathapurihospitals.com"
 		},"departments":[
 			{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Neurology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anilkumar T.V",
+						"designation":"Senior Consultant - Neurologist",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ajith M",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Cardiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. Bahuleyan C",
+						"designation":"Senior Consultant and HOD",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.KrishnaKumar V V",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Shifas Babu M",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anand Marthanda Pillai",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Nephrology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. Kasi Viswesaran R",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sangeetha Sajeesh",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jishnu Mohan",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Gastroenterology and Hepatology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. KR Vinayakumar",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. KT Shenoy",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Rajeevan S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. K R Thankappan",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pediatrics",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Kamala S",
+						"designation":"Senior Consultant ",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Nazeer khan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Gopika Sekhar",
+						"designation":"Senior Consultant ",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. K E Elizabeth",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Mili Thomas",
+						"designation":"Senior Consultant ",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Rashmi Nair",
+						"designation":"Senior Consultant ",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Gaythri K",
+						"designation":"Junior Consultant",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pulmonology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Priti Nair",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Mohammed Kutty L R",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Thilaka S Vijayan",
+						"designation":"Consultant Pulmonologist",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Critical Care",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.AnilKumar Asokan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Harikrishnan S",
+						"designation":"",
+						"appointments":null
+					}
+				]
 			}
 		]
 	}
