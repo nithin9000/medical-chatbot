@@ -1988,7 +1988,7 @@
 				]
 			},{
 				"dept_id":"generate_id(\"doc\")",
-				"dept_name":"Gynecology",
+				"dept_name":"Gynaecology",
 				"doctors":[{
 					"doctor_id": "generate_id(\"doc\")",
 					"name": "Dr.Cinu A Nair",
@@ -2168,7 +2168,7 @@
 				]
 			},{
 				"dept_id":"generate_id(\"doc\")",
-				"dept_name":"Orthopedics and trauma",
+				"dept_name":"Orthopaedics and trauma",
 				"doctors":[{
 					"doctor_id": "generate_id(\"doc\")",
 					"name": "Dr.Rajesh V Pillai",
@@ -2826,7 +2826,7 @@
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Rajesh V",
-						"designation":"Consultant-Orthopedics",
+						"designation":"Consultant-Orthopaedics",
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
@@ -2836,17 +2836,17 @@
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr.Arun Vishwanath ",
-						"designation":"Consultant Orthopedics",
+						"designation":"Consultant Orthopaedics",
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Ashok Thomas",
-						"designation":"Consultant orthopedics(Spine)",
+						"designation":"Consultant orthopaedics(Spine)",
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr.G Hari Kumar ",
-						"designation":"Consultant-Orthopedics",
+						"designation":"Consultant-Orthopaaedics",
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
@@ -2856,7 +2856,7 @@
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Shibu John",
-						"designation":"Consultant-Orthopedics",
+						"designation":"Consultant-Orthopaedics",
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
@@ -2995,7 +2995,7 @@
 				]
 			},{
 				"dept_id":"generate_id(\"dept\")",
-				"dept_name":"Gynecology",
+				"dept_name":"Gynaecology",
 				"doctors":
 				[
 					{
@@ -3453,6 +3453,341 @@
 						"designation":"",
 						"appointments":null
 					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Gynaecology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Chithra Sureshkumar",
+						"designation":"Senior Consultant ",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr.Sarada Devi.B",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. Syamala N",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. Seetha M M",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sonam M",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Deivanai N Madavan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Binu Purushothaman",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Cemmi Noble",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Suni S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Rajeswari U",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Orthopaedics",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Gopala .A",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jubily Radhakrishnan Unnithan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Emil Genistopher N",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Harish Chandran",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Urology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Venu Velayudhan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Vikraman K R",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Tejaswi Shashikanth",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"PROF. Dr. Syam k ramesh",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Gopakumar N",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			}
+		]
+	},{
+		"hospital_id":"generate_id(\"hosp\")",
+		"hospital_name":"Sree Uthradom Thirunal(SUT) Hospital ",
+		"address":{
+			"street":"Palace view Road,Vrindavan Gardens,Pattom",
+			"city":"Trivandrum",
+			"district":"Trivandrum",
+			"state":"Kerala",
+			"pin":"695004"
+		},"contact":{
+			"phone":"0471 407 7777",
+			"email":"gro@sutpattom.com",
+			"website":"www.sutpattom.com"
+		},"departments":[
+			{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Neurology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ayyappan K",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Susanth M J",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Thomas Iype",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Anaesthesia",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Alice Baby K",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ananad M Kurian",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Renny Alexander",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Seema Paul",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"ENT",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ammu",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anu Thampy",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Vinod Felix",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Cardiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.A.C.Rao",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anupkumar S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Praveen G K",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Rajalakshmi S",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Plastic Surgery",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Amrita B Rao",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pulmonology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Ann Mary jacob",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sofia salim malik",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Internal Medicine",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Annie Alexander",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sinu Jayaprasad",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Dhanya V Unnikrishnan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.G.Ramesh Pillai",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Hemalatha P",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Orthopaedics",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Anoop S Pillai",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Arun Jyothi",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Unnikuttan D",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Vishwanathan K",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Surgical Oncology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Aquib K Shaick",
+						"designation":"",
+						"appointments":null
+					},
 				]
 			}
 		]
