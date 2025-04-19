@@ -3669,7 +3669,7 @@
 						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
-						"name":"Dr.",
+						"name":"Dr.Shanthala Prabhu",
 						"designation":"",
 						"appointments":null
 					},{
@@ -3685,6 +3685,11 @@
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr.Rajalakshmi S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Yoganandhan Nampoothiry M N",
 						"designation":"",
 						"appointments":null
 					}
@@ -3787,7 +3792,307 @@
 						"name":"Dr.Aquib K Shaick",
 						"designation":"",
 						"appointments":null
-					},
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Obstetrics and Gynaecology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Bindu P S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Diana George",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.P Lekshmi Ammal",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Presannakumari",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sreekala S",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Susheela Anilkumar",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Susila Annelet Abraham",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Emergency Medicine",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Binu Bright",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Critical Care",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Dhanya M R",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Biju C Nair",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Shibu Saseendran",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Nephrology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jacob George",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Nayana Vijay",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Vishnu R S",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Oral Oncosurgery",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr. Jacob John Plackal",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Medical Gastroenterology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Janet lily Rasalam",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Laryngology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jayakumar R Menon",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Manju E Issac",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Opthalmology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jayalekshmi T",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sabitha Safar",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pathology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Jayasree Geothe",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Lekshmy K S",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Pediatrics",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Johny Thomas",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Prathibha Sukumar",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Dermatology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.K Prasanna Moorthy",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Prasanna Kumar",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Shalini V R",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sreerekha panicker",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"General Surgery",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Koshy Mathew Panicker",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Prameela Devi",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Raghavendra pratap",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sharad Soman Nair",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Neonatology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Kristin Indumathi",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Shajan Sam",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Radiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.M Sanal Kumar",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.M.Balakrishnan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Manju Annie rajan",
+						"designation":"",
+						"appointments":null
+					},{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Praveen A",
+						"designation":"",
+						"appointments":null
+					}
+				]
+			},{
+				"dept_id":"generate_id(\"dept\")",
+				"dept_name":"Microbiology",
+				"doctors":
+				[
+					{
+						"doctor_id":"generate_id(\"doc\")",
+						"name":"Dr.Sam Mathew",
+						"designation":"",
+						"appointments":null
+					}
 				]
 			}
 		]
