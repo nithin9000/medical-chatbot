@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+pymongo
+faiss-cpu
+sentence-transformers
+accelerate
+sentencepiece

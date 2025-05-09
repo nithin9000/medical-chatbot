@@ -38,7 +38,7 @@
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Hashir A",
 						"designation":"Consultant",
-						"appointments":nuwhichll
+						"appointments":null
 					},{
 						"doctor_id":"generate_id(\"doc\")",
 						"name":"Dr. Sherly John",
