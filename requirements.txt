@@ -7,3 +7,5 @@ faiss-cpu
 sentence-transformers
 accelerate
 sentencepiece
+llama-index
+langchain
