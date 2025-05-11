@@ -1,0 +1,184 @@
+Definition
+Allergy tests indicate a person’s allergic sensitivity
+to commonly encountered environmental substances.
+Purpose
+Allergy is a reaction of the immune system.
+Normally, the immune system responds to foreign
+microorganisms and particles, like pollen or dust,
+by producing specific proteins called antibodies that
+are capable of binding to identifying molecules, or
+antigens, on the foreign organisms. This reaction
+between antibody and antigen sets off a series of
+reactions designed to protect the body from infection. Sometimes, this same series of reactions is
+triggered by harmless, everyday substances. This is
+the condition known as allergy, and the offending
+substance is called an allergen. Common inhaled
+allergens include pollen, dust, and insect parts from
+tiny house mites. Common food allergens include
+nuts, fish, and milk.
+Allergic reactions involve a special set of cells
+in the immune system known as mast cells. Mast
+cells serve as guards in the tissues where the body
+meets the outside world: the skin, the mucous
+membranes of the eyes and other areas, and the linings of the respiratory and digestive systems. Mast
+cells display a special type of antibody, called immunoglobulin type E (IgE), on their surface. Inside,
+mast cells store reactive chemicals in small packets,
+called granules. When the antibodies encounter allergens, they trigger the release of granules, which spill
+out their chemicals onto neighboring cells, including
+blood vessels and nerve cells. One of these chemicals,
+histamine, binds to the surfaces of these other cells,
+through special proteins called histamine receptors.
+Interaction of histamine with receptors on blood
+vessels causes neighboring cells to become leaky,
+leading to the fluid collection, swelling, and increased
+redness characteristic of a runny nose and red, irritated eyes. Histamine also stimulates pain receptors,
+causing the itchy, scratchy nose, eyes, and throat
+common in allergic rhinitis.
+The particular allergens to which a person is sensitive can be determined through allergy testing.
+Allergy tests may be performed on the skin or using
+blood serum in a test tube. During skin tests, potential
+allergens are placed on the skin and the reaction
+is observed. In radio-allergosorbent allergy testing
+(RAST), a patient’s blood serum is combined
+with allergen in a test tube to determine if serum antibodies react with the allergen. Provocation testing
+involves direct exposure to a likely allergen, either
+through inhalation or ingestion. Positive reactions
+from any of these tests may be used to narrow the
+candidates for the actual allergen causing the allergy.
+Identification of the allergenic substance may
+allow the patient to avoid the substance and reduce
+allergic reactions. In addition, allergy testing may
+be done in those with asthma that is difficult to
+manage, eczema, or skin rashes to determine if an
+allergy is causing the condition or making it worse.
+Allergy tests may also be done before allergen desensitization to ensure the safety of more extensive exposure.
+Skin testing is the most common type of allergy test.
+There are two forms: percutaneous and intradermal. In
+percutaneous or prick testing, allergen solutions are
+placed on the skin, and the skin is then pricked with a
+needle, allowing the allergen to enter the skin and
+become exposed to mast cells. Scratch testing, in which
+the skin is scratched instead of punctured, is used less
+often. Intradermal testing involves directly injecting
+allergen solutions into the skin. In both tests, a reddened,
+swollen spot develops at the injection site for each
+substance to which the person is sensitive. Skin reactivity
+is seen for allergens regardless of whether they usually
+affect the skin. In other words, airborne and food allergens cause skin reactions equally well.
+The range of allergens used for testing is chosen to
+reflect possible sources in the environment and may
+include the following:
+
+pollen from a variety of trees, common grasses, and
+weeds
+
+mold and fungus spores
+
+house dust
+
+house mites
+
+animal skin cells (dander) and saliva
+
+food extracts
+
+antibiotics
+
+insect venoms
+Radio-allergosorbent testing (RAST) is a laboratory test performed when a person may be too sensitive to risk skin testing or when medications or skin
+conditions prevent it.
+Provocation testing is done to positively identify
+suspected allergens after preliminary skin testing.
+A purified preparation of the allergen is inhaled or
+ingested in increasing concentrations to determine if
+it will provoke a response. In 2004, scientists introduced an optical method to continuously measure the
+changes in nasal mucosa (lining) changes with an
+infrared light to help improve the accuracy of provocation testing. Food testing is much more tedious than
+inhalation testing, since full passage through the digestive system may take a day or more.
+Precautions
+While allergy tests are quite safe for most people,
+the possibility of a condition known as anaphylaxis
+exists. Anaphylaxis is a potentially dangerous condition that can result in difficulty breathing and a sharp
+drop in blood pressure. People with a known history
+of anaphylaxis should inform the testing clinician.
+Skin tests should never include a substance known to
+cause anaphylaxis in the person being tested.
+Provocation tests may cause an allergic reaction.
+Therefore, treatment medications should be available
+following the tests, to be administered, if needed.
+Description
+In prick testing, a drop of each allergen to be tested
+is placed on the skin, usually on the forearm or the back.
+A typical battery of tests may involve two dozen allergen
+drops, including a drop of saline solution that should
+not provoke a reaction (negative control) and a drop of
+histamine that should provoke a reaction (positive control). A small needle is inserted through the drop, and
+used to prick the skin below. A new needle is used for
+each prick. The sites are examined over the next 20 minutes for evidence of swelling and redness, indicating a
+positive reaction. In some instances, a tracing of the set
+of reactions may be made by placing paper over
+the tested area. Similarly, in intradermal testing, separate injections are made for each allergen tested.
+Observations are made over the next 20 minutes.
+In RAST testing, a blood sample is taken for use in
+the laboratory, where the antibody- containing serum
+is separated from the blood cells. The serum is then
+exposed to allergens bound to a solid medium. If a
+person has antibodies to a particular allergen, those
+antibodies will bind to the solid medium and remain
+behind after a rinse. Location of allergen-antibody combinations is done by adding antibody-reactive antibodies, so called anti-antibodies, that are chemically linked
+with a radioactive dye. By locating radioactive spots on
+the solid medium, the reactive allergens are discovered.
+Provocation testing may be performed to identify
+airborne or food allergens. Inhalation testing is performed only after a patient’s lung capacity and
+response to the medium used to dilute the allergen
+has been determined. Once this has been determined,
+the patient inhales increasingly concentrated samples
+of a particular allergen, followed each time by measurement of the exhalation capacity. Only one allergen
+is tested per day. Testing for food allergies is usually
+done by removing the suspect food from the diet for
+two weeks, followed by eating a single portion of the
+suspect food and follow-up monitoring
+Preparation
+Skin testing is preceded by a brief examination of
+the skin. The patient should refrain from using antiallergy drugs for at least 48 hours before testing. Prior
+to inhalation testing, patients with asthma who can
+tolerate it may be asked to stop any asthma medications.
+Testing for food allergies requires the person to avoid
+all suspect food for at least two weeks before testing.
+Aftercare
+Skin testing does not usually require any aftercare.
+A generalized redness and swelling may occur in the test
+area, but it will usually resolve within a day or two.
+Inhalation tests may cause delayed asthma
+attacks, even if the antigen administered in the test
+initially produced no response. Severe initial reactions
+may justify close professional observation for at least
+12 hours after testing.
+Risks
+Intradermal testing may inadvertently result in
+the injection of the allergen into the circulation, with
+an increased risk of adverse reactions. Inhalation tests
+may provoke an asthma attack. Exposure to new or
+unsuspected allergens in any test carries the risk of
+anaphylaxis. Because patients are monitored following allergy testing, an anaphylactic reaction is usually
+recognized and treated promptly. Occasionally, a
+delayed anaphylactic response can occur that will
+require immediate care. Proper patient education
+regarding how to recognize anaphylaxis is vital.
+Normal results
+Lack of redness or swelling on a skin test indicates
+no allergic response. In an inhalation test, the exhalation capacity should remain unchanged. In a food
+challenge, no symptoms should occur.
+Abnormal results
+Presence of redness or swelling, especially over
+5 mm (1/4 inch) in diameter, indicates an allergic
+response. This does not mean the substance actually
+causes the patient’s symptoms, however, since he or
+she may have no regular exposure to the allergen. In
+fact, the actual allergen may not have been included in
+the test array.
+Following allergen inhalation, reduction in exhalation capacity of more than 20%, and for at least 10-20
+minutes, indicates a positive reaction to the allergen.
+Gastrointestinal symptoms within 24 hours
+following the ingestion of a suspected food allergen
+indicates a positive response.
