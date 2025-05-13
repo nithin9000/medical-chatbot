@@ -1,0 +1,368 @@
+Definition
+Antianemia drugs are therapeutic agents which
+increase either the number of red cells or the amount
+of hemoglobin in the blood.
+Purpose
+Anemia is a general term for a large number of
+conditions marked by a reduction in the oxygencarrying capacity of blood. Red blood cells carry
+oxygen in hemoglobin, so that anemia may be caused
+by a deficiency of blood or red blood cells or of hemoglobin. These conditions may be caused by a variety
+of other conditions. Injury can cause blood loss, which
+in turn can cause anemia. Nutritional deficiency,
+inadequate amounts of some of the vitamins and
+minerals that are needed for hemoglobin production,
+may also cause anemia. Because hemoglobin is the
+pigment that makes blood cells red, a lack of hemoglobin will cause the cells to be a paler color, leading
+to the term hypochromic, lacking in color.
+Other conditions can also cause anemia. For
+example, certain diseases cause the condition. These
+can include infections and kidney disease, in which
+there is a deficiency of erythropoietin, a material produced in the kidneys which is essential for the production of red blood cells. Certain genetic conditions
+affect the absorption of nutrients and may lead to
+anemia. In sickle cell anemia, a genetic condition in
+which the red cells are curved rather than flat, the red
+cells have reduced ability to carry oxygen.
+The Merck Manual reduces all types of anemia to
+three classes:
+
+blood loss
+
+inadequate production of blood
+
+excessive breakdown of blood cells
+Anemia may be caused by one or a combination
+of these three factors. Drug therapy is available for
+many types of anemia; however, the selection of the
+drug depends on proper diagnosis of the cause of the
+anemia.
+Description
+Anemia caused by blood loss is normally treated
+with either blood volume expanders such as plasma or
+with related blood products. More severe blood loss
+may require transfusions of red blood cells.
+In some cases, blood loss may be due to ulcers of
+the stomach or intestines. In these cases, treatment of
+the underlying cause will normally correct the anemia.
+Iron deficiency
+The most common cause of anemia in adults is
+iron deficiency. Although the typical American diet
+contains enough iron to meet normal needs, individuals
+who are less able to absorb and store iron may experience inadequate hemoglobin production. Although the
+best way to meet daily iron requirements is through
+improved diet, iron supplements are widely used.
+Iron is normally taken in the form of ferrous
+sulfate. Although other iron salts are commercially
+available and make claims of fewer or less severe side
+effects, these benefits may be related to the fact that
+other preparations contain less iron by weight.
+Ferrous sulfate contains about 37% iron, while ferrous gluconate contains only about 13% iron. People
+who have trouble with the side effects of ferrous
+sulfate may benefit from some of the specialty preparations available, but ferrous sulfate normally
+offers the greatest amount of iron of all commercial
+products.Recommended dosage
+Dosage should be calculated by iron needs, based
+on laboratory tests. Manufacturers recommend one
+tablet a day, containing 65 mg of iron, as a supplement
+for patients over the age of 12 years.
+Precautions
+Iron can lead to lethal poisoning in children. All
+iron supplements should be kept carefully out of reach
+of children.
+Some types of anemia do not respond to iron
+therapy, and the use of iron should be avoided in
+these cases. People with acquired hemolytic anemia,
+autoimmune hemolytic anemia, hemochromatosis,
+hemolytic anemia and hemosiderosis should not take
+iron supplements. Hemolytic anemia is caused by
+the increased breakdown of red blood cells.
+Hemochromatosis and hemosiderosis and are conditions in which there is too much, rather than too little,
+absorption of iron.
+Iron supplements should also be avoided by people who have gastric or intestinal ulcers, ulcerative
+colitis, or Crohn’s disease. These conditions marked
+by inflammation of the digestive tract, which would be
+made worse by use of iron.
+Side effects
+The most common side effects of iron consumption are stomach and intestinal problems, including
+stomach upset with cramps, constipation, diarrhea,
+nausea, and vomiting. At least 25% of patients have
+one or more of these side effects. The frequency and
+severity of the side effects increases with the dose of
+iron. Less frequent side effects include heartburn and
+urine discoloration.
+Interactions
+Iron supplements should not be taken at the same
+time as antibiotics of either the tetracycline or quinolone types. The iron will reduce the effectiveness of the
+antibiotic. Also, iron supplements reduces the effectiveness of levodopa, which is used in treatment of
+Parkinson’s disease.
+Iron supplements should not be used with magnesium trisilicate, an antacid, or with penicillamine,
+which is used for some types of arthritis.
+Taking iron with vitamin C increases the absorption of iron, with no increase in side effects.
+Folic acid
+Folic acid is found in many common foods,
+including liver, dried peas, lentils, oranges, wholewheat products, asparagus, beets, broccoli, brussel
+sprouts, and spinach. However, in some cases, patients
+have difficulty absorbing folic acid or in converting it
+from the form found in foods to the form that is active
+in blood formation. In these cases, folic acid tablets are
+appropriate for use.
+RECOMMENDED DOSAGE. For treatment of anemia, a daily dose of 1 mg is generally used. Patients
+who have trouble absorbing folic acid may require
+higher doses.
+Maintenance doses are:
+
+infants: 0.1 mg/day
+
+children (under 4 years of age): up to 0.3 mg/day
+
+children (over 4 years of age) and adults: 0.4 mg/day
+
+pregnant and lactating women: 0.8 mg/day
+ PRECAUTIONS.
+Before treating an anemia with
+folic acid, diagnostic tests must be performed to verify
+the cause of the anemia. Pernicious anemia caused by
+lack of vitamin B12 shows symptoms that are very
+similar to those of folic acid deficiency but also causes
+nerve damage which shows up as a tingling sensation
+and feelings of numbness. Giving folic acid to patients
+with B12 deficiency anemia improves the blood cell
+count, but the nerve damage continues to progress.
+SIDE EFFECTS. Folic acid is considered extremely
+safe, and there are no predictable side effects. Where
+side effects have been reported, they have been among
+patients taking many times more than the normal
+therapeutic dose of the drug.
+On rare occasions allergic reactions to folic acid
+have been reported.
+ INTERACTIONS.
+ Phenytoins, used to treat seizure
+disorders, interact with folic acid with a reduction in
+phenytoin effectiveness and an increased risk of
+seizures. If the two drugs must be used together, phenytoin blood levels should be monitored, and the dose
+may have to be increased.
+Trimethoprim (an antibacterial) and methotrexate (originally an anti-cancer drug, which is also used
+for arthritis and psoriasis) act by reducing the metabolism of folic acid. Regular blood monitoring is
+required, and dose adjustments may be needed.
+Vitamin B12
+Vitamin B12 is also known as cyanocobalamine
+and hydroxocobalamine. Cyanocobalamine may be
+given by mouth, while hydroxocobalamine must be
+injected. The vitamin has many functions in the
+body, including maintaining the nervous system, but
+in treatment of anemia B12 is needed for the metabolism of folic acid. Lack of B12 causes pernicious anemia, a type of anemia which is marked by a low red cell
+count and lack of hemoglobin. There are many other
+symptoms of pernicious anemia, including a feeling of
+tingling or numbness, shortness of breath, muscle
+weakness, faintness, and a smooth tongue. If pernicious anemia is left untreated for more than three
+months, permanent damage to the nerves of the spinal
+cord may result.
+RECOMMENDED DOSAGE. While vitamin B12 can
+be given by mouth for mild vitamin deficiency states,
+pernicious anemia should always be treated with injections, either under the skin (subcutaneous) or into
+muscle (intramuscular). Hydroxocobalamine should
+only be injected into muscle. Intravenous injections
+are not used because the vitamin is eliminated from
+the body too quickly when given this way. Elderly
+patients, whose ability to absorb vitamin B12 through
+the stomach may be impaired, should also be treated
+with injections only.
+The normal dose of cyanocobalamine is 100 mcg
+(micrograms) daily for six to seven days. If improvement is seen, the dose may be reduced to 100 mcg every
+other day for seven doses and then 100 mcg every three
+to four days for two to three weeks. After that,
+monthly injections may be required for life.
+ PRECAUTIONS. Although vitamin B12 has a very
+high level of safety, commercial preparations may
+contain preservatives which may cause allergic
+responses.
+In patients with pernicious anemia, treatment
+with vitamin B12 may lead to loss of potassium.
+Patients should be monitored for their potassium
+levels.
+SIDE EFFECTS. Diarrhea and itching of the skin
+have been reported on rare occasions. Moreover,
+there have been reports of severe allergic reactions to
+cyanocobalamine.
+ INTERACTIONS. Aminosalicylic acid may reduce
+the effectiveness of vitamin B12. Also, colchicine, a
+drug used for gout, may reduce the effectiveness
+of vitamin B12. Other, infrequently used drugs and
+excessive use of alcohol may also affect the efficacy
+of vitamin B12. Patients being treated for anemia
+should discuss all medications, both prescription
+and nonprescription, with their physician or
+pharmacist.
+Anabolic steroids
+The anabolic steroids (nandrolone, oxymetholone, oxandrolone, and stanzolol) are the same drugs
+that are used improperly by body builders to increase
+muscle mass. Two of these drugs, nandrolone and
+oxymetholone, are approved for use in treatment of
+anemia. Nandrolone is indicated for treatment of anemia caused by kidney failure, while oxymetholone
+may be used to treat anemia caused by insufficient
+red cell production, such as aplastic anemia.
+All anabolic steroids are considered to be drugs of
+abuse under United States federal law.
+RECOMMENDED DOSAGE. The information that
+follows is specific only to oxymetholone; however,
+the warnings and precautions apply to all drugs in
+the class of anabolic steroids.
+The dosage of oxymetholone must be individualized. The most common dose is 1 to 2 mg per kilogram
+of body weight per day, although doses as high as 5 mg
+per kilogram per day have been used. The response to
+these drugs is slow, and it may take several months to
+see if there is any benefit.
+ PRECAUTIONS.
+  All anabolic steroids are dangerous. The following warnings represent the most
+significant hazards of these drugs. For a complete
+list, patients should consult the manufacturer’s package insert.
+
+Peliosis hepatitis, a condition in which liver and
+sometimes spleen tissue is replaced with blood-filled
+cysts, has occurred in patients receiving androgenic
+anabolic steroids. Although this condition is usually
+reversible by discontinuing the drug, if it is left undetected and untreated, it may lead to life-threatening
+liver failure or bleeding.
+
+Liver tumors may develop. Although most of these
+tumors are benign and will go away when the drug is
+discontinued, liver cancers may also result.
+
+Anabolic steroids may cause changes in blood lipids,
+leading to atherosclerosis with greatly increased risk
+of heart attack.
+
+Because anabolic steroids are derived from male sex
+hormones, masculinization may occur when they are
+used by women.
+
+Elderly men who use these drugs may be at increased
+risk of prostate enlargement and prostate cancer.
+
+Increased water retention due to anabolic steroids
+may lead to heart failure.
+
+Anabolic steroids should not be used during
+pregnancy, since this may cause masculinization of
+the fetus.
+Anabolic steroids should be used in children only if
+there is no possible alternative. These drugs may
+cause the long bones of the legs to stop growing
+prematurely, leading to reduction in adult height.
+Regular monitoring is essential.
+
+In patients with epilepsy, the frequency of seizures
+may be increased.
+
+In patients with diabetes, glucose tolerance may be
+altered. Careful monitoring is essential.
+SIDE EFFECTS. The list of side effects associated
+with anabolic steroids is extremely long. The following
+list covers only the most commonly observed effects:
+
+acne
+
+increased urinary frequency
+
+breast growth in males
+
+breast pain
+
+persistent, painful erections
+
+masculinization in women
+ INTERACTIONS. Anabolic steroids should not be
+used in combination with anticoagulants such as warfarin. Anabolic steroids increase the effects of the
+anticoagulant, possibly leading to bleeding. If the
+combination cannot be avoided, careful monitoring
+is essential.
+Epoetin alfa
+Epoetin alfa is a synthetic form of a protein produced by the kidneys that stimulates the production
+and release of red blood cells. A similar drug, darepoetin alpha, is available with the same properties, but
+it remains active longer and so requires fewer injections each week. Because epoetin alfa is approved for
+more types of anemia than darepoetin, this discussion
+deals only with the older drug.
+Epoetin alpha is approved by the Food and Drug
+Administration for the following uses:
+
+anemia associated with chronic renal failure
+
+anemia related to zidovudine therapy in HIVinfected patients
+
+anemia in cancer patients on chemotherapy
+
+reduction in blood transfusions in surgical patients
+In addition, epoetin alpha may be useful in anemia from many other causes. These include but are not
+limited to anemia of prematurity, sickle cell anemia,
+and the anemia associated with rheumatoid arthritis.
+The drug has been abused by athletes due to the
+theory that increasing the red blood cell count
+improves athletic performance. The potential benefits
+of misuse of the drug are limited, and the risks are
+significant. The United States and International
+Olympic Committees and the National Collegiate
+Athletic Association consider the use of epoetin alfa
+to enhance athletic ergogenic potential inappropriate
+and unacceptable because its use by athletes is contrary to the rules and ethical principles of athletic
+competition. As of the early 200s, tests to detect the
+misuse of epoetin alfa by athletes are increasingly
+reliable.
+RECOMMENDED DOSAGE. Dosing schedules may
+vary with the cause of the anemia. All doses should
+be individualized. In general, epoetin alpha dosing
+in adults is started at 50 to 100 units per kilogram
+given three times a week, either by vein or subcutaneously.
+The dose should be reduced if the hemoglobin
+level reaches 12 grams per decaliter or if the hemoglobin level increases by more than 1 gram per decaliter in
+any two-week period. The drug should be interrupted
+if hemoglobin levels reach 13 grams or more per
+decaliter.
+The dose should be increased if the hemoglobin
+level does not increase by at least 2 grams per decaliter
+after eight weeks of treatment.
+Maintenance doses, if required, should be individualized to keep the hemoglobin levels within the
+range of 10 to 12 grams per decaliter.
+ PRECAUTIONS. Epoetin alpha should not be given
+to patients with severe, uncontrolled hypertension.
+Other conditions in which epoetin alpha should be
+used only when the benefits clearly outweigh the risks
+are as follows:
+
+constitutional aplastic anemia
+
+hypertension
+
+thromboembolism
+Side effects
+The most common adverse effects of erythopoetin
+alpha are:
+
+joint pain
+
+chest pain
+
+diarrhea
+
+swelling
+
+fatigue
+
+fever
+
+weakness
+headache
+
+high blood pressure
+
+irritation at injection site
+
+nausea
+
+vomiting
+
+rapid heart beat
+A large number of additional adverse effects have
+been reported. Patients should consult the manufacturer’s package insert for the full list.
+Interactions
+According to the manufacturer, as of 2004 no
+evidence of interaction of epoetin alfa with other
+drugs was observed.
