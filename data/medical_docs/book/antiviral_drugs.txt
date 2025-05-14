@@ -1,0 +1,109 @@
+Definition
+Antiviral drugs are medicines that cure or control
+virus infections.
+Purpose
+Antivirals are used to treat infections caused by
+viruses. Unlike antibacterial drugs, which may cover a
+wide range of pathogens, antiviral agents tend to be
+narrow in spectrum, and have limited efficacy.
+Description
+Exclusive of the antiretroviral agents used in HIV
+(AIDS) therapy, there are currently only 11 antiviral
+drugs available, covering four types of virus. Acyclovir
+(Zovirax), famciclovir (Famvir), and valacyclovir
+(Valtrex) are effective against herpesvirus, including
+herpes zoster and herpes genitalis. They may also be of
+value in either conditions caused by herpes, such as
+chickenpox and shingles. These drugs are not curative,
+but may reduce the pain of a herpes outbreak and
+shorten the period of viral shedding.
+Amantadine (Symmetrel), oseltamivir (Tamiflu),
+rimantidine (Flumadine), and zanamivir (Relenza) are
+useful in treatment of influenza virus. Amantadine,
+rimantadine, and oseltamivir may be administered
+throughout the flu season as preventatives for patients
+who cannot take influenza virus vaccine.
+Cidofovir (Vistide), foscarnet (Foscavir), and
+ganciclovir (Cytovene) have been beneficial in treatment of cytomegalovirus in immunosupressed
+patients, primarily HIV-positive patients and transplant recipients. Ribavirin (Virazole) is used to treat
+respiratory syncytial virus. In combination with
+interferons, ribavirin has shown some efficacy
+against hepatitis C, and there have been anecdotal
+reports of utility against other types of viral
+infections.
+As a class, the antivirals are not curative, and
+must be used either prophylactically or early in the
+development of an infection. Their mechanism of
+action is typically to inactivate the enzymes needed
+for viral replication. This will reduce the rate of viral
+growth, but will not inactive the virus already present.
+Antiviral therapy must normally be initiated within 48
+hours of the onset of an infection to provide any
+benefit. Drugs used for influenza may be used
+throughout the influenza season in high risk patients,
+or within 48 hours of exposure to a known carrier.
+Antiherpetic agents should be used at the first signs of
+an outbreak. Anti-cytomegaloviral drugs must routinely be used as part of a program of secondary prophylaxis (maintenance therapy following an initial
+response) in order to prevent reinfection in immunocompromised patients.
+Recommended dosage
+Dosage varies with the drug, patient age and condition, route of administration, and other factors. See
+specific references.
+Precautions
+Ganciclovir is available in intravenous injection,
+oral capsules, and intraoccular inserts. The capsules
+should be reserved for prophylactic use in organ transplant patients, or for HIV infected patients who cannot be treated with the intravenous drug. The toxicity
+profile of this drug when administered systemically
+includes granulocytopenia, anemia and thrombocytopenia. The drug is in pregnancy category C, but has
+caused significant fetal abnormalities in animal studies
+including cleft palate and organ defects. Breast feeding
+is not recommended.
+Cidofovir causes renal toxicity in 53% of patients.
+Patients should be well hydrated, and renal function
+should be checked regularly. Other common adverse
+effects are nausea and vomiting in 65% or patients,
+asthenia in 46% and headache and diarrhea, both
+reported in 27% of cases. The drug is category C in
+pregnancy, due to fetal abnormalities in animal
+studies. Breast feeding is not recommended.
+Foscarnet is used in treatment of immunocompromised patients with cytomegalovirus infections
+and in acyclovir-resistant herpes simples virus. The
+primary hazard is renal toxicity. Alterations in electrolyte levels may cause seizures. Foscarnet is category C during pregnancy. The drug has caused
+skeletal abnormailities in developing fetuses. It is
+not known whether foscarnet is excreted in breast
+milk, however the drug does appear in breast milk in
+animal studies.
+Valaciclovir is metabolized to acyclovir, so that
+the hazards of the two drugs are very similar. They
+are generally well tolerated, but nausea and headache
+are common adverse effects. They are both pregnancy category B. Although there have been no
+reports of fetal abnormalities attributable to either
+drug, the small number of reported cases makes it
+impossible to draw conclusions regarding safety in
+pregnancy. Acyclovir is found in breast milk, but
+no adverse effects have been reported in the newborn. Famciclovir is similar in actions and adverse
+effects.
+Ribavirin is used by aerosol for treatment of hospitalized infants and young children with severe lower
+respiratory tract infections due to respiratory syncytial
+virus (RSV). When administered orally, the drug has
+been used in adultys to treat other viral diseases
+including acute and chronic hepatitis, herpes genitalis,
+measles, and Lassa fever, however there is relatively
+little information about these uses. In rare cases, initiation of ribavirin therapy has led to deterioration of
+respiratory function in infants. Careful monitoring is
+essential for safe use.
+The anti-influenza drugs are generally well tolerated. Amantadine, which is also used for treatment
+of Parkinsonism, may show more frequent CNS
+effects, including sedation and dizziness. Rapid discontinuation of amantidine may cause an increase in
+Parkinsonian symptoms in patients using the drug
+for that purpose. All are schedule C for pregnancy.
+In animal studies, they have caused fetal malformations in doses several times higher than the normal
+human dose. Use caution in breast feeding.
+Interactions
+Consult specific references for information on
+drug interactions.
+Use particular caution in HIV-positive patients,
+since these patients are commonly on multi-drug regimens with a high frequency of interactions.
+Ganciclovir should not be used with other drugs
+which cause hematologic toxicity, and cidofovir
+should not be used with other drugs that may cause
+kidney damage.
