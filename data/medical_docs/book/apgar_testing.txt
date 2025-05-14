@@ -1,0 +1,92 @@
+Definition
+Apgar testing is the assessment of the newborn
+rating color, heart rate, stimulus response, muscle
+tone, and respirations on a scale of zero to two, for a
+maximum possible score of 10. It is performed twice,
+first at one minute and then again at five minutes after
+birth.
+Purpose
+Apgar scoring was originally developed in the
+1950s by the anesthesiologist Virginia Apgar to assist
+practitioners attending a birth in deciding whether or
+not a newborn was in need of resuscitation. Using a
+scoring method fosters consistency and standardization among different practitioners. A February 2001
+study published in the New England Journal of
+Medicine investigated whether Apgar scoring continues to be relevant. Researchers concluded that
+‘‘The Apgar scoring system remains as relevant for
+the prediction of neonatal survival today as it was
+almost 50 years ago.’’
+Description
+The five areas are scored as follows:
+ Appearance, or color: 2 if the skin is pink all over; 1
+for acrocyanosis, where the trunk and head are pink,
+but the arms and legs are blue; and 0 if the whole
+body is blue. Newborns with naturally darker skin
+color will not be pink. However, pallor is still noticeable, especially in the soles and palms. Color is
+related to the neonate’s ability to oxygenate its
+body and extremities, and is dependent on heart
+rate and respirations. A perfectly healthy newborn
+will often receive a score of 9 because of some blueness in the hands and feet.
+ Pulse (heart rate): 2 for a pulse of 100+ beats per
+minute (bpm); 1 for a pulse below 100 bpm; 0 for no
+pulse. Heart rate is assessed by listening with a
+stethoscope to the newborn’s heart and counting
+the number of beats.
+ Grimace, or reflex irritability: 2 if the neonate
+coughs, sneezes, or vigorously cries in response to a
+stimulus (such as the use of nasal suctioning, stroking
+the back to assess for spinal abnormalities, or having
+the foot tapped); 1 for a slight cry or grimace in
+response to the stimulus; 0 for no response.
+ Activity, or muscle tone: 2 for vigorous movements
+of arms and legs; 1 for some movement; 0 for no
+movement, limpness.
+ Respirations: 2 for visible breathing and crying; 1
+for slow, weak, irregular breathing; 0 for apnea,
+or no breathing. A crying newborn can adequately oxygenate its lungs. Respirations are best
+assessed by watching the rise and fall of the neonate’s abdomen, as infants are diaphragmatic
+breathers.
+The combined first letters in these five areas spell
+Apgar.
+Preparation
+No preparation is needed to perform the test.
+However, while being born the neonate may receive
+nasal and oral suctioning to remove mucus and
+amniotic fluid. This may be done when the head of
+the newborn is safely out, while the mother rests
+before she continues to push.
+Aftercare
+Since the test is primarily observational in nature,
+no aftercare is needed. However, the test may flag the
+need for immediate intervention or prolonged
+observation.
+Normal results
+The maximum possible score is 10, the minimum
+is zero. It is rare to receive a true 10, as some acrocyanosis in the newborn is considered normal, and therefore not a cause for concern. Most infants score
+between 7 and 10. These infants are expected to have
+an excellent outcome. A score of 4, 5, or 6 requires
+immediate intervention, usually in the form of oxygen
+and respiratory assistance, or perhaps just suctioning
+if breathing has been obstructed by mucus. While
+suctioning is being done, a source of oxygen may be
+placed near, but not over the newborn’s nose and
+mouth. This form of oxygen is referred to as blow-by.
+A score in the 4-6 range indicates that the neonate is
+having some difficulty adapting to extrauterine life.
+This may be due to medications given to the mother
+during a difficult labor, or at the very end of labor,
+when these medications have an exaggerated effect on
+the neonate.
+Abnormal results
+With a score of 0-3, the newborn is unresponsive,
+apneic, pale, limp and may not have a pulse.
+Interventions to resuscitate will begin immediately.
+The test is repeated at five minutes after birth and
+both scores are documented. Should the resuscitation
+effort continue into the five-minute time period, interventions will not stop in order to perform the test. The
+one-minute score indicates the need for intervention at
+birth. It addresses survival and prevention of birthrelated complications resulting from inadequate
+oxygen supply. Poor oxygenation may be due to
+inadequate neurological and/or chemical control of
+respiration. The five-minute score appears to have a
+more predictive value for morbidity and normal development, although research studies on this are inconsistent in their conclusions.
