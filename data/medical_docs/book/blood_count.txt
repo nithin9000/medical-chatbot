@@ -1,0 +1,121 @@
+ Definition
+ One of the most commonly ordered clinical
+ laboratory tests, a blood count, also called a com
+plete blood count (CBC), is a basic evaluation of
+ the cells (red blood cells, white blood cells, and plate
+lets) suspended in the liquid part of the blood
+ (plasma). It involves determining the numbers, con
+centrations, and conditions of the different types of
+ blood cells.
+ Purpose
+ The CBC is a useful screening and diagnostic test
+ that is often done as part of a routine physical exam
+ination. It can provide valuable information about the
+ blood and blood-forming tissues (especially the bone
+ marrow), as well as other body systems. Abnormal
+ results can indicate the presence of a variety of condi
+tions—including anemias, leukemias, and infections—
+ sometimes before the patient experiences symptoms of
+ the disease.
+ Description
+ Acompletebloodcountis actually a series of tests
+ in which the numbers of red blood cells, white blood
+ cells, and platelets in a given volume of blood are
+ counted. The CBCalsomeasuresthehemoglobincon
+tent and the packed cell volume (hematocrit) of the red
+ bloodcells, assesses the size and shape of the red blood
+ cells, and determines the types and percentages of
+ white blood cells. Components of the complete blood
+ count (hemoglobin, hematocrit, white blood cells,
+ platelets, etc.) can also be tested separately, and are
+ sometimes done that way when a doctor wants to
+ monitor a specific condition, such as the white cell
+ count of a patient diagnosed with leukemia, or the
+ hemoglobin of a patient who has recently received a
+ blood transfusion. Because of its value, though, as an
+ indicator of a person’s overall health, the CBC pack
+age is most frequently ordered.
+ The blood count is performed relatively inexpen
+sively and quickly. Most laboratories routinely use
+ some type of automated equipment to dilute the
+ blood, sample a measured volume of the diluted sus
+pension, and count the cells in that volume. In addi
+tion to counting actual numbers of red cells, white
+ cells, and platelets, the automated cell counters also
+ measure the hemoglobin and calculate the hematocrit
+ and the red blood cell indices (measures of the size and
+ hemoglobin content of the red blood cells).  Technologists then examine a stained blood smear
+ under the microscope to identify any abnormalities
+ in the appearance of the red blood cells and to report
+ the types and percentages of white blood cells
+ observed.
+ The red blood cell (RBC) count determines the
+ total number ofredcells (erythrocytes) in a sample of
+ blood. The red cells, the most numerous of the cellu
+lar elements, carry oxygen from the lungs to the
+ body’s tissues. Hemoglobin (Hgb) is the protein
+iron compound in the red blood cells that enables
+ them to transport oxygen. Its concentration corre
+sponds closely to the RBC count. Also closely tied
+ to the RBC and hemoglobin values is the hematocrit
+ (Hct), which measures the percentage of red blood
+ cells in the total blood volume. The hematocrit
+ (expressed as percentage points) is normally about
+ three times the hemoglobin concentration (reported
+ as grams per deciliter).
+ Red blood cell indices provide information
+ about the size and hemoglobin content of the red
+ cells. They are useful in differentiating types of ane
+mias. The indices include four measurements that are
+ calculated using the RBC count, hemoglobin, and
+ hematocrit results. Mean corpuscular volume
+ (MCV) is a measurement of the average size of the
+ red blood cells and indicates whether that is small,
+ large ornormal.The red blood cell distribution width (RDW)isanindicationofthevariationinRBCsize.
+ Mean corpuscular hemoglobin (MCH) measures the
+ average amount (weight) of hemoglobin within a red
+ bloodcell. Asimilarmeasurement,meancorpuscular
+ hemoglobin concentration (MCHC), expresses the
+ average concentration of hemoglobin in the red
+ blood cells.  Thewhitebloodcell(WBC)countdeterminesthe
+ total number of white cells (leukocytes) in the blood
+ sample. Fewer in number than the red cells, WBCs
+ are the body’s primary means of fighting infection.
+ There are five main types of white cells (neutrophils,
+ lymphocytes, monocytes, eosinophils, and baso
+phils), each of whichplays adifferent role in respond
+ing to the presence of foreign organisms in the body.
+ A differential white cell count is done by staining a
+ smear of the patient’s blood with a Wright’s stain,
+ allowing the different types of white cells to be clearly
+ seen under the microscope. A technologist then
+ counts a minimum of 100 WBCs and reports each
+ type of white cell as a percentage of the total white
+ blood cells counted.
+ Theplatelet count is an actual countofthe number
+ of platelets (thrombocytes) in a given volumeofblood.
+ Platelets, the smallest of the cellular elements of blood,
+ are involved in blood clotting. Because platelets
+ can clump together, the automated counting method
+ is subject to a certain level of error and may not
+ be accurate enough for low platelet counts. For this
+ reason, very low platelet levels are often counted
+ manually.
+ Normal results
+ Blood count values can vary by age and sex. The
+ normal red blood cell count ranges from 4.2–5.4 mil
+lion RBCspermicroliter of blood for men and 3.6–5.0
+ million for women. Hemoglobin values range
+ from 14–18 grams per deciliter of blood for men and
+ 12–16 grams for women. The normal hematocrit is
+ 42–54%formenand36–48%forwomen.Thenormal
+ number of white blood cells for both men and women
+ is approximately 4,000–10,000 WBCspermicroliter of
+ blood.
+ Abnormal results
+ Abnormal blood count results are seen in a vari
+ety of conditions. One of the most common is ane
+mias, which are characterized by low RBC counts,
+ hemoglobins, and hematocrits. Infections and leuke
+mias are associated with increased numbers of
+ WBCs. 
