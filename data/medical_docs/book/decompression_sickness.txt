@@ -1,0 +1,126 @@
+Definition
+Decompression sickness (DCS) is a dangerous
+and occasionally lethal condition caused by nitrogen
+bubbles that form in the blood and other tissues of
+scuba divers who surface too quickly.
+Description
+According to the Divers Alert Network (DAN), a
+worldwide organization devoted to safe-diving research
+and promotion, less than 1% of divers fall victim to DCS
+or the rarer bubble problem called gas embolism, air
+embolism, or arterial gas embolism (AGE). A study of
+theUnited Statesmilitary communityinOkinawa,where
+tens of thousands of sport and military dives are made
+each year, identified 84 DCS and 10 AGE cases in 1989–
+95, including nine deaths. This translated into estimates
+of one case in every 7,400 dives and one death in every
+76,900 dives.DCS symptoms can be quitemild, however,
+and many cases certainly go unnoticed by divers.
+At times the terminology adopted by writers onDCS
+can be confusing. Some substitute the term decompression illness (DCI) for DCS. Others treat DCI as a label
+encompassing both DCS and AGE. An older term for
+DCS is caisson disease, coined in the nineteenth century
+when it was discovered that bridge construction crews
+working at the bottom of lakes and rivers in large pressurized enclosures (caissons) were experiencing joint pain
+(a typical DCS symptom) on returning to the surface.
+Causes and symptoms
+The air we breathe is mostly a mixture of two gases,
+nitrogen (78%) and oxygen (21%). Unlike oxygen,
+nitrogen is a biologically inert gas, meaning that it is
+not metabolized (converted into other substances) by
+the body. For this reason, most of the nitrogen we
+inhale is expelled when we exhale, but some is dissolved
+into the blood and other tissues. During a dive, however, the lungs take in more nitrogen than usual. This
+happens because the surrounding water pressure is
+greater than the air pressure at sea level (twice as great
+at 33 ft [10 m], for instance). As the water pressure
+increases, so does the pressure of the nitrogen in the
+compressed air inhaled by the diver. Because increased
+pressure causes an increase in gas density, the diver
+takes in more nitrogen with each breath than he or she
+would at sea level. Instead of being exhaled, however,
+the extra nitrogen safely dissolves into the tissues, where
+it remains until the diver begins his or her return to the
+surface (under some circumstances the extra nitrogen
+can cause nitrogen narcosis, but that condition is distinct from DCS). On the way up, decompression occurs
+(in other words, the water pressure drops), and with the
+change in pressure, the extra nitrogen gradually diffuses
+out of the tissues and is delivered by the bloodstream to
+the lungs, which expel it from the body. If the diver
+surfaces too quickly, however, potentially dangerous
+nitrogen bubbles can form in the tissues and cause
+ DCS. These bubbles can compress nerves, obstruct
+arteries, veins, and lymphatic vessels, and trigger harmful chemical reactions in the blood. The precise reasons
+for bubble formation remain unclear.
+How much extra nitrogen enters the tissues varies
+with the dive’s depth and duration. Dive tables prepared
+by the U.S. Navy and other organizations specify how
+long most divers can safely remain at a particular depth.
+If the dive table limits are exceeded, the diver must pause
+on the way up to allow the nitrogen to diffuse into the
+bloodstream without forming bubbles; these pauses are
+called decompression stops, and are carefully calibrated.
+DCS can occur, however, even when a diver obeys safe
+diving rules. In such cases, the predisposing factors
+include fatigue, obesity, dehydration, hypothermia, and
+recent alcohol use. People who fly or travel to highaltitude locations without letting 12–24 hours pass
+after their last dive are at risk for DCS as well because
+their bodies undergo further decompression. This is true
+even when flying in commercial aircraft. Many travelers
+are unaware that to save money on fuel the cabin pressure in commercial aircraft is set much lower than the
+pressure at sea level. At 30,000 ft (9,144 m), for instance,
+cabin pressure is usually equivalent to the pressure at
+7,000–8,000 ft (2,133–2,438 m) above sea level, a safe
+setting for everyone but recent divers. Exactly how long
+a diver should wait before flying or traveling to a highaltitude location depends on how much diving he or she
+has done and other considerations. If thereis uncertainty
+about the appropriate waiting period, the sensible
+course of action is to let the full 24 hours pass.
+Because the nitrogen bubbles that cause DCS can
+affect any of the body’s tissues, including the blood,
+bones, nerves, and muscles, many kinds of symptoms are
+possible. Symptoms can appear minutes after a diver surfaces, and in about 80% of cases do so within eight hours.
+Pain is often the only symptom; this is sometimes called
+the bends, althoughmany peopleincorrectly use that term
+as a synonym for DCS itself. The pain, which ranges from
+mild to severe,isusuallylimited to thejoints,butcanbe felt
+anywhere. Severe itching (pruritis), skin rashes, and
+skin mottling (cutis marmorata) are other possible symptoms. All of these are sometimes classified as manifestations of type 1 or ‘‘mild’’ DCS. Type 2 or ‘‘serious’’ DCS
+can lead, among other things, to paralysis, brain damage,
+heart attacks, and death. Many DCS victims, however,
+experience both type 1 and type 2 symptoms.
+Diagnosis
+Diagnosis requires taking a medical history (questioning the patient about his or her health and recent
+activities) and conducting a physical examination.
+Treatment
+DCS is treated by giving the patient oxygen and
+placing him or her in a hyperbaric chamber, an
+enclosure in which the air pressure is first gradually
+increased and then gradually decreased. This shrinks
+the bubbles and allows the nitrogen to safely diffuse
+out of the tissues. Hyperbaric chamber facilities exist
+throughout the United States. No matter how mild
+one’s symptoms may appear, immediate transportation to a facility is essential. Treatment is necessary
+even if the symptoms clear up before the facility is
+reached, because bubbles may still be in the bloodstream and pose a threat. DAN maintains a list of
+facilities and a 24-hour hotline that can provide advice
+on handling DCS and other diving emergencies.
+Prognosis
+DCS sufferers who undergo chamber treatment
+within a few hours of symptom onset usually enjoy a
+full recovery. If treatment is delayed the consequences
+are less predictable, although many people have been
+helped even after several days have passed. A 1992
+DAN report on diving accidents indicated that full
+recovery following chamber treatment was immediate
+for about 50% of divers. Some people, however, suffer
+numbness, tingling, or other symptoms that last weeks,
+months, or even a lifetime. In the Okinawa study, six
+of the 94 patients experienced ‘‘long-lasting’’ symptoms even after repeated chamber treatments.
+Prevention
+The obvious way to minimize the risk of falling
+victim to DCS is to follow the rules on safe diving and
+air travel after a dive. People who are obese, suffer
+from lung or heart problems, or are otherwise in poor
+health should not dive. And because the effect of nitrogen diffusion on the fetus remains unknown,
+diving while pregnant is not recommended.
