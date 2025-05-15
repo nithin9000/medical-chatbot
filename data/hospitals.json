@@ -267,7 +267,6 @@
 					}
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"name":"Clinical Nutrition",
 				"doctors":[
 					{
@@ -301,11 +300,10 @@
 							{"day": "friday", "timings": ["10:00 AM - 02:00 PM","02:15 PM - 03:45 PM"]}
 						]
 					},{
-						"dept_id": "generate_id(\"doc\")",
 						"name": "Critical Care",
 						"doctors": [
 						  {
-							"doctor_id": "generate_id(\"doc\")",
+
 							"name": "Dr. Deepa Das",
 							"designation": "Senior Consultant",
 							"appointments": [
@@ -316,7 +314,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Shameen A",
 							"designation": "Associate Consultant - Critical care medicine",
 							"appointments": [
@@ -327,7 +324,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Rajesh Sasikumaran",
 							"designation": "Consultant",
 							"appointments": [
@@ -338,7 +334,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Ajmal Abdul Kharim",
 							"designation": "Associate Consultant",
 							"appointments": [
@@ -349,7 +344,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Deepak V",
 							"designation": "Clinical Director and Coordinator",
 							"appointments": [
@@ -360,7 +354,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Rithu Krishna K",
 							"designation": "Associate Consultant",
 							"appointments": [
@@ -371,7 +364,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Prijith RS",
 							"designation": "Associate Consultant - Transplant Anesthesia",
 							"appointments": [
@@ -382,7 +374,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Abhijith S",
 							"designation": "Associate Consultant",
 							"appointments": [
@@ -393,7 +384,6 @@
 							]
 						  },
 						  {
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Cherian Roy",
 							"designation": "Associate Consultant",
 							"appointments": [
@@ -405,10 +395,8 @@
 						  }
 						]
 					  },{
-						"dept_id":"generate_id(\"doc\")",
 						"name":"Dental",
 						"doctors":[{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Rajesh Raveendranath",
 							"designation": "Neuro Muscular Dentist",
 							"appointments": [
@@ -418,7 +406,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Fazeela Beegum",
 							"designation": "Periodontist",
 							"appointments": [
@@ -428,7 +415,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Jithu Joseph",
 							"designation": "Endodontist",
 							"appointments": [
@@ -438,7 +424,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Sreejith K R",
 							"designation": "Senior Pediatric Dentist",
 							"appointments": [
@@ -448,7 +433,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Aswin S",
 							"designation": "Pediatric Dentist",
 							"appointments": [
@@ -458,7 +442,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Nair Parvathi Unnikrishnan ",
 							"designation": "Aesthetic Dentist",
 							"appointments": [
@@ -468,7 +451,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Shekhar S",
 							"designation": "Maxillofacial Surgeon",
 							"appointments": [
@@ -478,7 +460,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Dhanya Krishnan ",
 							"designation": "Pediatric Dentist",
 							"appointments": [
@@ -488,7 +469,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Evana M Roy",
 							"designation": "general dentist",
 							"appointments": [
@@ -498,7 +478,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Dixit Raj",
 							"designation": "Laser peridontist and Implantologist",
 							"appointments": [
@@ -508,7 +487,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Cucoo",
 							"designation": "Oral Physician",
 							"appointments": [
@@ -518,7 +496,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Shabnam U",
 							"designation": "Oral pathologist",
 							"appointments": [
@@ -528,7 +505,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Abdul Shameer C K",
 							"designation": "Consultant Orthodontist",
 							"appointments": [
@@ -538,7 +514,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Vinayak Padmakumar",
 							"designation": "Pediatric Dentist",
 							"appointments": [
@@ -548,7 +523,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Augustine Thomas",
 							"designation": "Prosthodontist",
 							"appointments": [
@@ -558,7 +532,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Sooraj S",
 							"designation": "Senior Maxillofacial Surgeon",
 							"appointments": [
@@ -568,7 +541,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Ajilal SK",
 							"designation": "Microscopic Endodontist",
 							"appointments": [
@@ -578,7 +550,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Oomenn Aju Jacob",
 							"designation": "Senior Maxillofacial Surgeon",
 							"appointments": [
@@ -588,7 +559,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Ravi Aravind",
 							"designation": "Prosthodontist",
 							"appointments": [
@@ -598,7 +568,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Biju Sebastian",
 							"designation": "Senior Orthodontist",
 							"appointments": [
@@ -610,10 +579,8 @@
 						  }
 						]
 					  },{
-						"dept_id":"generate_id(\"doc\")",
 						"name":"Dermatology and Cosmetology",
 						"doctors":[{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Saji Firoz",
 							"designation": "Consultant",
 							"appointments": [
@@ -623,7 +590,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr. Asha Zacharia",
 							"designation": "Consultant",
 							"appointments": [
@@ -633,7 +599,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Rema Devi TJ",
 							"designation": "Consultant",
 							"appointments": [
@@ -643,7 +608,6 @@
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
 						  },{
-							"doctor_id": "generate_id(\"doc\")",
 							"name": "Dr.Mini P N",
 							"designation": "Consultant",
 							"appointments": [
@@ -652,24 +616,13 @@
 							  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
 							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 							]
-						  },{
-							"doctor_id": "generate_id(\"doc\")",
-							"name": "Dr.",
-							"designation": "",
-							"appointments": [
-							  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
-							  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
-							  { "day": "thursday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
-							  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
-							]
-						}
+						  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"name":"Development Pediatrics",
 				"doctors":[{
 
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr. Arya Dhanapal",
 						"designation": "Pediatric Occupational therapist",
 						"appointments": [
@@ -679,7 +632,7 @@
 						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 						]
 					  },{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Sunitha M S",
 						"designation": "",
 						"appointments": [
@@ -689,7 +642,7 @@
 						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 						]
 					  },{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Babu George",
 						"designation": "Senior Consultant",
 						"appointments": [
@@ -699,7 +652,7 @@
 						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 						]
 					  },{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Deepa Binod",
 						"designation": "Consultant",
 						"appointments": [
@@ -709,7 +662,7 @@
 						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 						]
 					  },{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Charlotte Louieza Dsouza",
 						"designation": "Speech therapist",
 						"appointments": [
@@ -720,7 +673,7 @@
 						]
 					  },
 					  {
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Saranya S",
 						"designation": "Speech Therapist",
 						"appointments": [
@@ -732,10 +685,9 @@
 					  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"ENT",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Salil Kumar K",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -745,7 +697,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.K Shakthesh",
 					"designation": "",
 					"appointments": [
@@ -755,7 +707,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.M Suresh Kumar",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -765,7 +717,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Nithya R",
 					"designation": "Pediatric ENT Specialist",
 					"appointments": [
@@ -775,7 +727,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vinod Felix",
 					"designation": "Consultant",
 					"appointments": [
@@ -785,7 +737,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mohammed Noushad",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -797,10 +749,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Emergency Medicine Department",
 				"doctors":[{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.Shameem K U",
 						"designation": "Consultant & Group Clinical and Academic Coordinator",
 						"appointments": [
@@ -810,7 +761,7 @@
 						  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 						]
 					  },{
-						"doctor_id": "generate_id(\"doc\")",
+
 						"name": "Dr.K Suresh Kumar",
 						"designation": "Emergency Physician",
 						"appointments": [
@@ -822,10 +773,9 @@
 					  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Endorcinology and Diabetes",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Akhil Krishna",
 					"designation": "Consultant",
 					"appointments": [
@@ -835,7 +785,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Gopinath S Sunil",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -845,7 +795,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Thushanth Thomas",
 					"designation": "Cheif Coordinater and Consultant",
 					"appointments": [
@@ -857,10 +807,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Family Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Midhun Mohan",
 					"designation": "Registrar",
 					"appointments": [
@@ -870,7 +819,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Lizy Vincent",
 					"designation": "Consultant",
 					"appointments": [
@@ -880,7 +829,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Zuhara P M",
 					"designation": "Director - Emergency Medicine,Family Medicine and Pharmacy services",
 					"appointments": [
@@ -890,7 +839,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vishnu B S",
 					"designation": "Registrar and Academic coordinater",
 					"appointments": [
@@ -902,10 +851,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Fertility Clinic",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rabeeh Valiyathodi",
 					"designation": "Fertility Clinic",
 					"appointments": [
@@ -915,7 +863,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Snehna Ann Abrahm",
 					"designation": "Consultant",
 					"appointments": [
@@ -927,10 +875,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Gastroenterology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Simna L",
 					"designation": "Consultant",
 					"appointments": [
@@ -940,7 +887,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Devika Madhu",
 					"designation": "Associate Consultant - Medical Gastroenterology",
 					"appointments": [
@@ -950,7 +897,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Madhu Sasidharan",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -960,7 +907,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ajith K Nair",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -970,9 +917,9 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Harish Kareem",
-					"designation": "Senior COnsultant",
+					"designation": "Senior Consultant",
 					"appointments": [
 					  { "day": "monday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
 					  { "day": "tuesday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] },
@@ -980,7 +927,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.",
 					"designation": "",
 					"appointments": [
@@ -990,7 +937,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arun P",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1000,7 +947,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arun P",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1012,10 +959,10 @@
 				  }
 				]
 			},{
-				"doctor_id":"generate_id(\"doc\")",
+
 				"dept_name":"Gastrointestinal Surgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Subhlal M S",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -1025,7 +972,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Anandkumar M",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -1035,7 +982,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Renji Mathew",
 					"designation": "Consultant",
 					"appointments": [
@@ -1045,7 +992,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.K.P.S. Vinayakhram",
 					"designation": "Consultant",
 					"appointments": [
@@ -1057,10 +1004,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"General and Minimally Invasive Surgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Najeeb A A",
 					"designation": "Consultant",
 					"appointments": [
@@ -1070,7 +1016,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Maya Devi T J",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -1080,7 +1026,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sanoop K Zachariah",
 					"designation": "Senior Consultant and Professor",
 					"appointments": [
@@ -1090,7 +1036,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shafy Ali Khan",
 					"designation": "Senior Consultant & Coordinater",
 					"appointments": [
@@ -1100,7 +1046,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Reji J",
 					"designation": "Specialist",
 					"appointments": [
@@ -1112,10 +1058,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Geriatrics ans Healthy living",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Athul Vyas V",
 					"designation": "Specialist and Associate Coordinater",
 					"appointments": [
@@ -1125,7 +1070,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ramesh Kumar G",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1137,10 +1082,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Hometology Clinic",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ashwin V Nair",
 					"designation": "Coordinator and senior consultant",
 					"appointments": [
@@ -1150,7 +1094,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.saifudeen A",
 					"designation": "Senior consultant ,Benign Hematology",
 					"appointments": [
@@ -1160,7 +1104,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mathew Thomas",
 					"designation": "Professor and senior Consultant",
 					"appointments": [
@@ -1172,10 +1116,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Liver Transplant Surgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shiraz Ahmad Rather",
 					"designation": "Consultant and head of multivesceral Transplant",
 					"appointments": [
@@ -1185,7 +1128,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shabeerali T U",
 					"designation": "Cheif Coordinater and Senior Consultant",
 					"appointments": [
@@ -1195,7 +1138,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Govind Jayan",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1205,7 +1148,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Varghese Yeldho",
 					"designation": "Consultant",
 					"appointments": [
@@ -1217,10 +1160,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"High Risk Pregnancy and Fatal Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vidyalekshmy R",
 					"designation": "Senior Consultant & Coordinater",
 					"appointments": [
@@ -1230,7 +1172,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Brinda Sabu",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1240,7 +1182,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Asima Khan",
 					"designation": "Consultant",
 					"appointments": [
@@ -1252,10 +1194,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Holistic Child development Center",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms.Prayln Rubysha",
 					"designation": "Occupational Therapist",
 					"appointments": [
@@ -1265,7 +1206,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms. Devi Priya G",
 					"designation": "Speech Language Pathologist",
 					"appointments": [
@@ -1275,7 +1216,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms. Sheeja Kaithayil Bahuleyan",
 					"designation": "Sensory Integration Therapist",
 					"appointments": [
@@ -1285,7 +1226,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jamila K Warrier",
 					"designation": "Coordinator and Consultant Psychologist/Educational Therapist ",
 					"appointments": [
@@ -1295,7 +1236,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms. Sneha A Manuel",
 					"designation": "Psychologist /Remedial Educator",
 					"appointments": [
@@ -1305,7 +1246,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms.Aswathy Chandran",
 					"designation": "Cousellor/Behaviour Therapist",
 					"appointments": [
@@ -1315,7 +1256,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "MS. Devika Jain",
 					"designation": "Occupational Therapist",
 					"appointments": [
@@ -1325,7 +1266,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms.Supriya G R",
 					"designation": "Senior Remedial Educator",
 					"appointments": [
@@ -1335,7 +1276,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms.Praseetha G S",
 					"designation": "Senior Psycologist/Remdial Educator",
 					"appointments": [
@@ -1345,7 +1286,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Ms.Reshmi S R",
 					"designation": "Speech Language Pathologist",
 					"appointments": [
@@ -1357,10 +1298,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Imaging and Intervenrional Radiology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Harikrishnan T ",
 					"designation": "Consultant",
 					"appointments": [
@@ -1370,7 +1310,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Pradeep S",
 					"designation": "Consultant",
 					"appointments": [
@@ -1380,7 +1320,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Deepthi",
 					"designation": "Consultant",
 					"appointments": [
@@ -1390,7 +1330,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Manoj K S",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1400,7 +1340,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Binish Paul",
 					"designation": "Consultant",
 					"appointments": [
@@ -1410,7 +1350,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jobin Mathew Jose",
 					"designation": "Consultant",
 					"appointments": [
@@ -1420,7 +1360,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Madhavan Unni",
 					"designation": "Senior Consultant & Chief Coordinater",
 					"appointments": [
@@ -1430,7 +1370,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Zunimol P K M",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1440,7 +1380,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Deepasree J",
 					"designation": "Consultant",
 					"appointments": [
@@ -1450,7 +1390,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Sherin Nazeer",
 					"designation": "Consultant",
 					"appointments": [
@@ -1460,7 +1400,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Muhammed Niyas",
 					"designation": "Consultant",
 					"appointments": [
@@ -1470,7 +1410,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rajalakshmi A",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1480,7 +1420,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Manoj Pazhampallil Mathews",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1492,10 +1432,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Internal Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.M Safarulla",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -1505,7 +1444,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mohemed Sanowfer",
 					"designation": "Consultant and Coordinater - Hospitalist Services",
 					"appointments": [
@@ -1515,7 +1454,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Anu Elizabeth Mathew",
 					"designation": "Consultant",
 					"appointments": [
@@ -1525,7 +1464,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shaji Mohamed Haneefa",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1535,7 +1474,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Nahas A",
 					"designation": "Specialist",
 					"appointments": [
@@ -1545,7 +1484,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Gopinatha Menon",
 					"designation": "Co-Ordinator and Senior Consultant",
 					"appointments": [
@@ -1555,7 +1494,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Hari T A",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1565,7 +1504,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ganesh Vishwanathan",
 					"designation": "Consultant and Head Clinical and Innovations",
 					"appointments": [
@@ -1575,7 +1514,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Wilson A P",
 					"designation": "Consultant",
 					"appointments": [
@@ -1585,7 +1524,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jacob C Pilla",
 					"designation": "Consultant",
 					"appointments": [
@@ -1595,7 +1534,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vijayalekshmi N",
 					"designation": "Prof. and Hon. Senior Consultant",
 					"appointments": [
@@ -1605,7 +1544,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ajit Thomas",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1617,10 +1556,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Laboratory Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Neetu S Dathan",
 					"designation": "Consultant Laboratory medicine",
 					"appointments": [
@@ -1630,7 +1568,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rachel Abraham",
 					"designation": "Consultant and Dy Coordinator",
 					"appointments": [
@@ -1642,10 +1580,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Laryngology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ragitha Binu Krishnan",
 					"designation": "Consultant",
 					"appointments": [
@@ -1655,7 +1592,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Roshan daniel",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1667,10 +1604,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Medical Oncology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arun V",
 					"designation": "Consultant",
 					"appointments": [
@@ -1680,7 +1616,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Azgar Abdul Rasheed",
 					"designation": "Asoociate Consultant",
 					"appointments": [
@@ -1690,7 +1626,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Bijay P. Nair",
 					"designation": "Specialist",
 					"appointments": [
@@ -1702,10 +1638,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Neonatology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jyothi prabhakar",
 					"designation": "Consultant",
 					"appointments": [
@@ -1715,7 +1650,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Femitha Pournami",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1725,7 +1660,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Naveena Jain",
 					"designation": "Coordinater and senior Consultant",
 					"appointments": [
@@ -1735,7 +1670,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arif A K",
 					"designation": "Associate Consultant - Neontology",
 					"appointments": [
@@ -1745,7 +1680,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ajai Kumar Prithvi",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1757,10 +1692,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Nephrology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Satish Balan",
 					"designation": "Consultant",
 					"appointments": [
@@ -1770,7 +1704,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Praveen Murildharan",
 					"designation": "Medical Superintendent and Senior consultant",
 					"appointments": [
@@ -1780,7 +1714,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vinayak M",
 					"designation": "Consultant",
 					"appointments": [
@@ -1790,7 +1724,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Prasad Nair",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1800,7 +1734,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Manish Kumar Yadav",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1812,10 +1746,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Radiology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Simi M Ismail",
 					"designation": "Consultant",
 					"appointments": [
@@ -1825,7 +1758,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Santhosh Joseph",
 					"designation": "Senior Consultant and Clinical Lead",
 					"appointments": [
@@ -1837,10 +1770,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Neurology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr. Syamlal S",
 					"designation": "Group Cordinator",
 					"appointments": [
@@ -1850,7 +1782,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.K Radhakrishnan",
 					"designation": "Senior Consultant and head Advanced Comprhensive Epilepsy",
 					"appointments": [
@@ -1860,7 +1792,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Suresh Chandran C J",
 					"designation": "Coordinater and senior Consultant",
 					"appointments": [
@@ -1870,7 +1802,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jayakrishnan C",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -1880,7 +1812,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ashok V P",
 					"designation": "Consultant",
 					"appointments": [
@@ -1890,7 +1822,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Krishnasree K S",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -1902,10 +1834,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Neurosurgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shobha sara Mathew",
 					"designation": "Hon. Consultant",
 					"appointments": [
@@ -1915,7 +1846,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ajith R",
 					"designation": "Sr Consultant and Coordinator",
 					"appointments": [
@@ -1925,7 +1856,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sushant B",
 					"designation": "Hon.Consultant",
 					"appointments": [
@@ -1935,7 +1866,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Abu Madan",
 					"designation": "Hon. Consultant",
 					"appointments": [
@@ -1945,7 +1876,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Navas N S",
 					"designation": "Hon. Consultant",
 					"appointments": [
@@ -1955,7 +1886,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arun P S",
 					"designation": "Consultant",
 					"appointments": [
@@ -1965,7 +1896,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Bobby Iype",
 					"designation": "Hon. Consultant",
 					"appointments": [
@@ -1977,10 +1908,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Gynaecology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Cinu A Nair",
 					"designation": "",
 					"appointments": [
@@ -1990,7 +1920,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sajith Mohan R",
 					"designation": "Consultant",
 					"appointments": [
@@ -2000,7 +1930,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Roshini Ambat",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2010,7 +1940,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Neeta Ravindranathan",
 					"designation": "Consultant",
 					"appointments": [
@@ -2020,7 +1950,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vinoo Balakrishnan",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2030,7 +1960,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Syamala Devi P K",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2040,7 +1970,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Simi Haris",
 					"designation": "Consultant Gynaecologist",
 					"appointments": [
@@ -2050,7 +1980,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Geetha P",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2060,7 +1990,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Valsamma Chacko",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2070,7 +2000,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Lumiya Malik",
 					"designation": "Consultant",
 					"appointments": [
@@ -2080,7 +2010,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rafeekha P",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2090,7 +2020,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.J V Shyja",
 					"designation": "Consultant",
 					"appointments": [
@@ -2102,10 +2032,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Opthalmology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sarath Ravi",
 					"designation": "Consultant-Vitreo Retinal Surgeon",
 					"appointments": [
@@ -2115,7 +2044,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Susheela B Nair",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2125,7 +2054,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Asgar Abbas",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2135,7 +2064,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mary thomas",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2145,7 +2074,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Daisy Karan",
 					"designation": "Consultant",
 					"appointments": [
@@ -2157,10 +2086,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Orthopaedics and trauma",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rajesh V Pillai",
 					"designation": "Consultant",
 					"appointments": [
@@ -2170,7 +2098,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Chandhan M",
 					"designation": "Consultant Spine Surgeon",
 					"appointments": [
@@ -2180,7 +2108,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vinod Krishnan V",
 					"designation": "Paediatric Orthopaedics Consultant",
 					"appointments": [
@@ -2190,7 +2118,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Muhammed Nazeer",
 					"designation": "Senior consultant",
 					"appointments": [
@@ -2200,7 +2128,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ranjith Unnikrishnan",
 					"designation": "Consultant Spine Surgeon",
 					"appointments": [
@@ -2210,7 +2138,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.B Madan Mohan",
 					"designation": "Consultant",
 					"appointments": [
@@ -2220,7 +2148,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Manoj haridas",
 					"designation": "Senior Consultant Hand and microvascular Surgeon",
 					"appointments": [
@@ -2232,10 +2160,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Pediatric Surgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ram Mohan C V",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2245,7 +2172,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Asok Kumar G M",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2255,7 +2182,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Aswathy Ravikumar",
 					"designation": "Consultant",
 					"appointments": [
@@ -2265,7 +2192,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Noorsathar N S",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2275,7 +2202,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Reju Joseph Thomas",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2287,10 +2214,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Pediatrics",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Shijukumar C",
 					"designation": "Consultant and Chief Intensivist",
 					"appointments": [
@@ -2300,7 +2226,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Bhavya S",
 					"designation": "Consultant",
 					"appointments": [
@@ -2310,7 +2236,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sabrinathan K",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2320,7 +2246,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Neetu Gupta",
 					"designation": "Consultant",
 					"appointments": [
@@ -2330,7 +2256,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.D Kalpana",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2340,7 +2266,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Prameela Joji",
 					"designation": "Medical Superintendent and Senior consultant",
 					"appointments": [
@@ -2350,7 +2276,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.P A Mohammed kunju",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2360,7 +2286,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sanuja Titus Santosh",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2370,7 +2296,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Prijo Philip",
 					"designation": "Pediatric Nephrologist Consultant",
 					"appointments": [
@@ -2380,7 +2306,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Divakar Jose R R",
 					"designation": "Asoociate Consultant",
 					"appointments": [
@@ -2390,7 +2316,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Saddiq M H",
 					"designation": "Paediatric Coordinator",
 					"appointments": [
@@ -2400,7 +2326,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vijaykumar B",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2410,7 +2336,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mani Varghese",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2420,7 +2346,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Gisi Shibu",
 					"designation": "Consultant",
 					"appointments": [
@@ -2432,10 +2358,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Physical Medicine and Rehabilation",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Fathima Haneena P",
 					"designation": "Specialist",
 					"appointments": [
@@ -2445,7 +2370,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Nitha J",
 					"designation": "Consultant",
 					"appointments": [
@@ -2455,7 +2380,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Hariharan s",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2467,10 +2392,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Plastic,Reconstructive,Microvascular Surgery",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Saffia P M",
 					"designation": "Sr. Consultant and Vice Dean Academics",
 					"appointments": [
@@ -2480,7 +2404,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Manesh Senan",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2490,7 +2414,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Migita M D'cruz",
 					"designation": "Consultant",
 					"appointments": [
@@ -2500,7 +2424,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Kumar K A",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2512,10 +2436,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Psychiatry and Behavioral Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Muraleedharan K K",
 					"designation": "Hon. Consultant",
 					"appointments": [
@@ -2525,7 +2448,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Jitha G",
 					"designation": "Specialist",
 					"appointments": [
@@ -2535,7 +2458,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Susha John",
 					"designation": "Consultant",
 					"appointments": [
@@ -2545,7 +2468,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ashraf Ali A",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2557,10 +2480,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Psychology and corporate Wellness",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Aravind thampi",
 					"designation": "Coordinater and senior Consultant",
 					"appointments": [
@@ -2572,10 +2494,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Respiratory Medicine",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rohith S",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2585,7 +2506,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.M Joshi",
 					"designation": "Prof Emertius and Senior consultant",
 					"appointments": [
@@ -2595,7 +2516,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Aswathy G",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -2605,7 +2526,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ameer K A",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2615,7 +2536,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.P Arjun",
 					"designation": "Senior Consultant",
 					"appointments": [
@@ -2625,7 +2546,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Vinod Kumar Kesavan",
 					"designation": "Seniort Consultant",
 					"appointments": [
@@ -2635,7 +2556,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sujith Varghese Abraham",
 					"designation": "Senior Registrar",
 					"appointments": [
@@ -2645,7 +2566,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Aswathy Thazhakottuvalappil",
 					"designation": "Consultant",
 					"appointments": [
@@ -2655,7 +2576,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Ajay Ravi",
 					"designation": "Consultant-Interventional Pulmonology",
 					"appointments": [
@@ -2665,7 +2586,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Nishanth P S",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -2675,7 +2596,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.M Bhuvanesh",
 					"designation": "Consultant",
 					"appointments": [
@@ -2687,10 +2608,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Rheumatology and Clinical Immunology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Arathi V Nair",
 					"designation": "Associate Consultant",
 					"appointments": [
@@ -2700,7 +2620,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Rajesh S",
 					"designation": "Senior consultant",
 					"appointments": [
@@ -2710,7 +2630,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.B Jayanand Sunil",
 					"designation": "Senior Consultant & coordinater",
 					"appointments": [
@@ -2720,7 +2640,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Sanooja Pinki",
 					"designation": "Senior Registrar and Coordinator",
 					"appointments": [
@@ -2732,10 +2652,9 @@
 				  }
 				]
 			},{
-				"dept_id":"generate_id(\"doc\")",
 				"dept_name":"Urology",
 				"doctors":[{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Renu thomas",
 					"designation": "Senior Consultant and Coordinator",
 					"appointments": [
@@ -2745,7 +2664,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Syam K Ramesh",
 					"designation": "Hon. Sr. Consultant",
 					"appointments": [
@@ -2755,7 +2674,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Mayank Bharti",
 					"designation": "Consultant",
 					"appointments": [
@@ -2765,7 +2684,7 @@
 					  { "day": "friday", "timings": ["10:00 AM - 02:00 PM", "02:15 PM - 03:45 PM"] }
 					]
 				  },{
-					"doctor_id": "generate_id(\"doc\")",
+
 					"name": "Dr.Nithya R",
 					"designation": "Consultant",
 					"appointments": [
@@ -2865,12 +2784,12 @@
 				"doctors":
 				[
 					{
-					"doctor_id":"generate_id(\"doc\")",
+
 					"name":"Dr.Davis john Thelekatt",
 					"designation":"Orthopaedic Surgeon",
 					"appointments":null
 					},{
-					"doctor_id":"generate_id(\"doc\")",
+
 					"name":"DrAshok Thomas.",
 					"designation":"Consultant-Orthopaedics(Spine)",
 					"appointments":null
