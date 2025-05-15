@@ -1,0 +1,117 @@
+Definition
+Diabetes insipidus (DI) is a disorder that causes
+the patient to produce tremendous quantities of urine.
+The massively increased urine output is usually
+accompanied by intense thirst.
+Description
+The balance of fluid within the body is maintained
+through a number of mechanisms. One important
+chemical involved in fluid balance is called antidiuretic
+hormone (ADH). ADH is produced by the pituitary, a
+small gland located at the base of the brain. In a
+healthy person and under normal conditions, ADH
+is continuously released. ADH influences the amount
+of fluid that the kidneys reabsorb into the circulatory
+system and the amount of fluid that the kidneys pass
+out of the body in the form of urine.
+Production of ADH is regulated by the osmolality
+of the circulating blood. Osmolality refers to the concentration of dissolved chemicals (such as sodium,
+potassium, and chloride; together called solute) circulating in the fluid base of the blood (plasma). When
+there is very little fluid compared to the concentration
+of solute, the pituitary will increase ADH production.
+This tells the kidneys to retain more water and to
+decrease the amount of urine produced. As fluid is
+retained, the concentration of solute will normalize.
+At other times, when the fluid content of the blood is
+high in comparison to the concentration of solute,
+ADH production will decrease. The kidneys are then
+free to pass an increased amount of fluid out of the
+body in the urine. Again, this will allow the plasma
+osmolality to return to normal.
+Diabetes insipidus occurs when either the amount
+of ADH produced by the pituitary is below normal
+(central DI), or the kidneys’ ability to respond to
+ADH is defective (nephrogenic DI). In either case, a
+person with DI will pass extraordinarily large quantities of urine, sometimes reaching 10 or more liters each
+day. At the same time, the patient’s blood will be very
+highly concentrated, with low fluid volume and high
+concentrations of solute.
+DI occurs on average when a person is about 24
+years old, and occurs more frequently in males than in
+females.
+Causes and symptoms
+DI may run in families. The cause of this type of DI
+is unknown. Other times, central DI can be caused by:
+ an injury to the head
+ brain surgery
+ cancers that have spread to the pituitary gland (most
+commonly occurring with breast cancer)
+sarcoidosis (or other related disorders), causing
+destruction of the pituitary gland
+ any condition or illness that causes decreased oxygen
+delivery to the brain
+ the use of certain medications that decrease ADH
+production (like the antiseizure drug phenytoin)
+ the excessive use of alcohol
+Central DI may also occur in women who are
+pregnant or have just given birth, and in patients
+with AIDS who have suffered certain types of
+brain infections. Nephrogenic DI sometimes occurs
+in patients who are taking the medication lithium,
+patients who have high levels of blood calcium, and
+patients who are pregnant.
+DI is easily confused with an entirely unrelated
+disorder, psychogenic polydipsia. Polydipsia refers
+to drinking large amounts of water. Psychogenic
+polydipsia is a psychiatric problem that makes a
+person drink huge quantities of water uncontrollably.
+Symptoms of DI include extreme thirst and the
+production of tremendous quantities of urine.
+Patients with DI typically drink huge amounts of
+water, and usually report a specific craving for cold
+water. When the amount of water passed in the
+urine exceeds the patient’s ability to drink ample
+replacement water, the patient may begin to suffer
+from symptoms of dehydration. These symptoms
+include weakness, fatigue, fever, low blood pressure,
+increased heart rate, dizziness, and confusion. If left
+untreated, the patient could lapse into unconsciousness and die.
+Diagnosis
+Diagnosis should be suspected in any patient
+with sudden increased thirst and urination.
+Laboratory examination of urine will reveal very
+dilute urine, made up mostly of water with no
+solute. Examination of the blood will reveal very
+concentrated blood, high in solute and low in fluid
+volume.
+A water deprivation test may be performed. This
+test requires a patient to stop all fluid intake. The
+patient is weighed just before the test begins, and
+urine is collected and examined hourly. The test is
+stopped when:
+ the patient has lost more than 5% of his or her
+original body weight
+ the patient has reached certain limits of low blood
+pressure and increased heart rate
+ the urine is no longer changing significantly from
+one sample to the next in terms of solute
+concentration.
+The next step of the test involves injecting a synthetic form of ADH, with one last urine sample examined 60 minutes later. Comparing plasma and urine
+osmolality allows the doctor to diagnose either central
+DI, nephrogenic DI, partial DI, or psychogenic
+polydipsia.
+Treatment
+A number of medications can be given to
+decrease the quantity of fluid passed out into the
+urine. These include rasoprassin (Pitressin) injected
+and desmopressin acetate (DDAVP) inhaled through
+the nose. Other medications that may be given
+include some antidiuretic drugs (chlorpropamide,
+clofibrate, carbamazepine). Patients with nephrogenic DI, however, will also require special diets
+that restrict the amount of solute taken in. These
+patients are also treated with a type of medication
+called a thiazide diuretic.
+Prognosis
+Uncomplicated diabetes insipidus is controllable
+with adequate intake of water and most patients can
+lead normal lives.

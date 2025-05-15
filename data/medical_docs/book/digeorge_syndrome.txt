@@ -1,0 +1,127 @@
+Definition
+DiGeorge syndrome (also called 22q11 deletion
+syndrome, congenital thymic hypoplasia, or third
+and fourth pharyngeal pouch syndrome) is a birth
+defect that is caused by an abnormality in chromosome 22 and affects the baby’s immune system. The
+disorder is marked by absence or underdevelopment
+of the thymus and parathyroid glands. It is named for
+Angelo DiGeorge, the pediatrician who first described
+it in 1965. Some researchers prefer to call it DiGeorge
+anomaly, or DGA, rather than DiGeorge syndrome,
+on the grounds that the defects associated with the
+disorder represent the failure of a part of the human
+embryo to develop normally rather than a collection
+of symptoms caused by a single disease.
+Description
+The prevalence of DiGeorge syndrome is debated;
+the estimates range from 1:4000 to 1:6395. Because the
+symptoms caused by the chromosomal abnormality
+vary somewhat from patient to patient, the syndrome
+probably occurs much more often than was previously
+thought. DiGeorge syndrome is sometimes described
+as one of the ‘‘CATCH 22’’ disorders, so named
+because of their characteristics—cardiac defects,
+abnormal facial features, thymus underdevelopment,
+cleft palate, and hypocalcemia—caused by a deletion
+of several genes in chromosome 22. The specific facial
+features associated with DiGeorge syndrome include
+low-set ears, wide-set eyes, a small jaw, and a short
+groove in the upper lip. The male/female ratio is 1:1.
+The syndrome appears to be equally common in all
+racial and ethnic groups.
+Causes and symptoms
+DiGeorge syndrome is caused either by inheritance of a defective chromosome 22 or by a new defect
+in chromosome 22 in the fetus. The type of defect that
+is involved is called deletion. A deletion occurs when
+the genetic material in the chromosomes does not
+recombine properly during the formation of sperm or
+egg cells. The deletion means that several genes from
+chromosome 22 are missing in DiGeorge syndrome
+patients. Although efforts have been made in the
+early 2000s to identify individual candidate genes for
+DGA, it appears that a combination of several genes in
+the deleted area is responsible for the disorder. Detailed
+genetic mapping of chromosome 22 has, however, identified a so-called DiGeorge critical region (DGCR),
+which has been completely sequenced.
+According to a 1999 study, 6% of children with
+DiGeorge syndrome inherited the deletion from a
+parent, while 94% had a new deletion. Other conditions that are associated with DiGeorge syndrome are
+diabetes (a condition where the pancreas no longer
+produces enough insulin) in the mother and fetal alcohol syndrome (a pattern of birth defects, and learning
+and behavioral problems affecting individuals whose
+mothers consumed alcohol during pregnancy). Other
+chromosomal abnormalities that have been found in
+patients diagnosed with DGA include deletions on
+chromosomes 10p13, 17p13, and 18q21.
+The loss of the genes in the deleted material means
+that the baby’s third and fourth pharyngeal pouches
+fail to develop normally during the twelfth week of
+pregnancy. This developmental failure results in a
+completely or partially absent thymus gland and parathyroid glands. In addition, 74% of fetuses with
+DiGeorge syndrome have severe heart defects. The
+child is born with a defective immune system and an
+abnormally low level of calcium in the blood. Some
+children with DGA are also born with malformations
+of the genitals or urinary tract.
+These defects usually become apparent within
+48 hours of birth. The infant’s heart defects may lead
+to heart failure, or there may be seizures and other
+evidence of a low level of calcium in the blood
+(hypocalcemia) DiGeorge syndrome is also associated with an
+increased risk of autoimmune disorders. Cases have
+been reported of DGA in association with Graves’
+disease, immune thrombocytopenic purpura, juvenile
+rheumatoid arthritis, and severe eczema.
+Diagnosis
+Diagnosis of DiGeorge syndrome can be made by
+ultrasound examination around the eighteenth week
+of pregnancy, when abnormalities in the development
+of the heart or the palate can be detected. Another
+technique that is used to diagnose the syndrome before
+birth is called fluorescence in situ hybridization, or FISH. This technique uses DNA probes from the
+DiGeorge region on chromosome 22. FISH can be
+performed on cell samples obtained by amniocentesis
+as early as the fourteenth week of pregnancy. It confirms about 95% of cases of DiGeorge syndrome.
+If the mother has not had prenatal testing, the
+diagnosis of DiGeorge syndrome is sometimes suggested by the child’s facial features at birth. In other
+cases, the doctor makes the diagnosis during heart
+surgery when he or she notices the absence or abnormal location of the thymus gland. The diagnosis can
+be confirmed by blood tests for calcium, phosphorus,
+and parathyroid hormone levels, and by the sheep cell
+test for immune function.
+Treatment
+Hypocalcemia
+Hypocalcemia in DiGeorge patients is unusually
+difficult to treat. Infants are usually given calcium and
+vitamin D by mouth. Severe cases have been treated by
+transplantation of fetal thymus tissue or bone marrow.
+Heart defects
+Infants with life-threatening heart defects are treated surgically.
+Defective immune function
+Children with DiGeorge syndrome should be kept
+on low-phosphorus diets and kept away from crowds
+or other sources of infection. They should not be
+immunized with vaccines made from live viruses or
+given corticosteroids.
+Prognosis
+The prognosis is variable; many infants with
+DiGeorge syndrome die from overwhelming infection,
+seizures, or heart failure within the first year. One
+study of a series of 558 patients reported 8% mortality
+within six months of birth, with heart defects accounting for all but one of the deaths. Infections resulting
+from severe immune deficiency are the second most
+common cause of death in patients with DGA.
+Advances in heart surgery indicate that the prognosis
+is most closely linked to the severity of the heart
+defects and the partial presence of the thymus gland.
+In most children who survive, the number of T cells, a
+type of white blood cell, in the blood rises spontaneously as they mature. Survivors are likely to be
+mentally retarded, however, and to have other developmental difficulties, including seizures or other psychiatric and neurological problems in later life.
+Prevention
+Genetic counseling is recommended for parents of
+children with DiGeorge syndrome because the disorder
+can be detected prior to birth. Although most children
+with DiGeorge syndrome did not inherit the chromosome deletion from their parents, they have a 50%
+chance of passing the deletion on to their own children.
+Because of the association between DiGeorge syndrome and fetal alcohol syndrome, pregnant women
+should avoid drinking alcoholic beverages.

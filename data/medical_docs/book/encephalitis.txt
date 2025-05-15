@@ -1,0 +1,170 @@
+Definition
+Encephalitis is an inflammation of the brain,
+usually caused by a direct viral infection or a hypersensitivity reaction to a virus or foreign protein. Brain
+inflammation caused by a bacterial infection is sometimes called cerebritis. When both the brain and spinal
+cord are involved, the disorder is called encephalomyelitis. An inflammation of the brain’s covering, or
+meninges, is called meningitis.
+Description
+Encephalitis is an inflammation of the brain. The
+inflammation is a reaction of the body’s immune system to infection or invasion. During the inflammation,
+the brain’s tissues become swollen. The combination
+of the infection and the immune reaction to it can
+cause headache and a fever, as well as more severe
+symptoms in some cases.
+Approximately 2,000 cases of encephalitis are
+reported to the Centers for Disease Control in Atlanta,
+GA each year. The viruses causing primary encephalitis
+can be epidemic or sporadic. The polio virus is an epidemic cause. Arthropod-borne viral encephalitis is
+responsible for most epidemic viral encephalitis. The
+viruses live in animal hosts and mosquitos that transmit
+the disease. The most common form of non-epidemic or
+sporadic encephalitis is caused by the herpes simplex
+virus, type 1 (HSV-1) and has a high rate of death.
+Mumps is another example of a sporadic cause.
+Causes and symptoms
+Causes
+There are more than a dozen viruses that can cause
+encephalitis, spread by either human-to human contact
+or by animal bites. Encephalitis may occur with several
+common viral infections of childhood. Viruses and
+viral diseases that may cause encephalitis include:
+ chickenpox
+ measles
+ mumps
+ Epstein-Barr virus (EBV)
+ cytomegalovirus infection
+ HIV
+ herpes simplex
+ herpes zoster (shingles)
+ herpes B
+ polio
+ rabies
+ mosquito-borne viruses (arboviruses)
+Primary encephalitis is caused by direct infection
+by the virus, while secondary encephalitis is due to a
+post-infectious immune reaction to viral infection elsewhere in the body. Secondary encephalitis may occur
+with measles, chickenpox, mumps, rubella, and EBV.
+In secondary encephalitis, symptoms usually begin
+five to 10 days after the onset of the disease itself and
+are related to the breakdown of the myelin sheath that
+covers nerve fibers.
+In rare cases, encephalitis may follow vaccination
+against some of the viral diseases listed above.
+Creutzfeldt-Jakob disease, a very rare brain disorder
+caused by an infectious particle called a prion, may
+also cause encephalitis.
+Mosquitoes spread viruses responsible for equine
+encephalitis (eastern and western types), St. Louis encephalitis, California encephalitis, and Japanese encephalitis. Lyme disease, spread by ticks, can cause
+encephalitis, as can Colorado tick fever. Rabies is most
+often spread by animal bites from dogs, cats, mice, raccoons, squirrels, and bats and may cause encephalitis.
+Equine encephalitis is carried by mosquitoes that
+do not normally bite humans but do bite horses and
+birds. It is occasionally picked up from these animals
+by mosquitoes that do bite humans. Japanese encephalitis and St. Louis encephalitis are also carried by
+mosquitoes. The risk of contracting a mosquitoborne virus is greatest in mid- to late summer, when
+mosquitoes are most active, in those rural areas where
+these viruses are known to exist. Eastern equine encephalitis occurs in eastern and southeastern United
+States; western equine and California encephalitis
+occur throughout the West; and St. Louis encephalitis
+occurs throughout the country. Japanese encephalitis
+does not occur in the United States, but is found
+throughout much of Asia. The viruses responsible
+for these diseases are classified as arbovirus and these
+diseases are collectively called arbovirus encephalitis.
+Herpes simplex encephalitis, the most common
+form of sporadic encephalitis in western countries, is
+a disease with significantly high mortality. It occurs in
+children and adults and both sides of the brain are
+affected. It is theorized that brain infection is caused
+by the virus moving from a peripheral location to the
+brain via two nerves, the olfactory and the trigeminal
+(largest nerves in the skull).Herpes simplex encephalitis is responsible for
+10% of all encephalitis cases and is the main cause of
+sporadic, fatal encephalitis. In untreated patients, the
+rate of death is 70% while the mortality is 15–20% in
+patients who have been treated with acyclovir. The
+symptoms of herpes simplex encephalitis are fever,
+rapidly disintegrating mental state, headache, and
+behavioral changes.
+Symptoms
+The symptoms of encephalitis range from very
+mild to very severe and may include:
+ headache
+ fever
+ lethargy (sleepiness, decreased alertness, and fatigue)
+ malaise
+ nausea and vomiting
+ visual disturbances
+ tremor
+ decreased consciousness (drowsiness, confusion,
+delirium, and unconsciousness)
+ stiff neck
+ seizures
+Symptoms may progress rapidly, changing from
+mild to severe within several days or even several
+hours.
+Diagnosis
+Diagnosis of encephalitis includes careful questioning to determine possible exposure to viral
+sources. Tests that can help confirm the diagnosis
+and rule out other disorders include:
+ Blood tests. These are to detect antibodies to viral
+antigens, and foreign proteins.
+ Cerebrospinal fluid analysis (spinal tap). This detects
+viral antigens, and provides culture specimens for the
+virus or bacteria that may be present in the cerebrospinal fluid.
+ Electroencephalogram (EEG).
+ CT and MRI scans.
+A brain biopsy (surgical gathering of a small tissue
+sample) may be recommended in some cases where
+treatment to date has been ineffective and the cause
+of the encephalitis is unclear. Definite diagnosis by
+biopsy may allow specific treatment that would otherwise be too risky.
+Treatment
+Choice of treatment for encephalitis will depend
+on the cause. Bacterial encephalitis is treated with
+antibiotics. Viral encephalitis is usually treated with
+antiviral drugs including acyclovir, ganciclovir, foscarnet, ribovarin, and AZT. Viruses that respond to
+acyclovir include herpes simplex, the most common
+cause of sporadic (non-epidemic) encephalitis in the
+United States.
+The symptoms of encephalitis may be treated with
+a number of different drugs. Corticosteroids, including
+prednisone and dexamethasone, are sometimes prescribed to reduce inflammation and brain swelling.
+Anticonvulsant drugs, including dilantin and phenytoin, are used to control seizures. Fever may be
+reduced with acetaminophen or other fever-reducing
+drugs.
+A person with encephalitis must be monitored
+carefully, since symptoms may change rapidly. Blood
+tests may be required regularly to track levels of fluids
+and salts in the blood.
+Prognosis
+Encephalitis symptoms may last several weeks.
+Most cases of encephalitis are mild, and recovery is
+usually quick. Mild encephalitis usually leaves no residual neurological problems. Overall, approximately
+10% of those with encephalitis die from their infections or complications such as secondary infection.
+Some forms of encephalitis have more severe courses,
+including herpes encephalitis, in which mortality is
+15–20% with treatment, and 70–80% without.
+Antiviral treatment is ineffective for eastern equine
+encephalitis, and mortality is approximately 30%.
+Permanent neurological consequences may follow
+recovery in some cases. Consequences may include
+personality changes, memory loss, language difficulties, seizures, and partial paralysis.
+Prevention
+Because encephalitis is due to infection, it may be
+prevented by avoiding the infection. Minimizing contact with others who have any of the viral illness listed
+above may reduce the chances of becoming infected.
+Most infections are spread by hand-to-hand or handto-mouth contact; frequent hand washing may reduce
+the likelihood of infection if contact cannot be avoided.
+Mosquito-borne viruses may be avoided by preventing mosquito bites. Mosquitoes are most active at
+dawn and dusk, and are most common in moist areas
+with standing water. Minimizing exposed skin and use
+of mosquito repellents on other areas can reduce the
+chances of being bitten.
+Vaccines are available against some viruses,
+including polio, herpes B, Japanese encephalitis, and
+equine encephalitis. Rabies vaccine is available for
+animals; it is also given to people after exposure.
+Japanese encephalitis vaccine is recommended for
+those traveling to Asia and staying in affected rural
+areas during transmission season.

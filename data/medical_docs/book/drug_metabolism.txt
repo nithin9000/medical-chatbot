@@ -1,0 +1,156 @@
+Definition
+Drug metabolism is the process by which the body
+breaks down and converts medication into active
+chemical substances.
+Precautions
+Drugs can interact with other drugs, foods, and
+beverages. Interactions can lessen or magnify the
+desired therapeutic effect of a drug, or may cause
+unwanted or unexpected side effects. There are thousands of possible drug-to-drug and drug-to-food interactions, and many medications and supplements are
+contraindicated (not recommended) under certain
+conditions or in patients with specific diseases and
+disorders. This is why it is imperative that patients
+always keep their physician fully informed about
+all drugs and dietary supplements (including herbal
+remedies) they are taking.
+Description
+The primary site of drug metabolism is the liver,
+the organ that plays a major role in metabolism, digestion, detoxification, and elimination of substances
+from the body. Enzymes in the liver are responsible
+for chemically changing drug components into
+substances known as metabolites. Metabolites are
+then bound to other substances for excretion through
+the lungs, or bodily fluids such as saliva, sweat, breast
+milk, and urine, or through reabsorption by the intestines. The primary mode of excretion is through the
+kidneys.The family of liver isoenzymes known as cytochrome P-450 are crucial to drug metabolism. These
+enzymes (labeled CYP1A2, CYP2C9, CYP2C19,
+CYP2D6, and CYP3A4) have a catabolic action on
+substances, breaking them down into metabolites.
+Consequently, they also act to lower the concentration
+of medication in the bloodstream.
+Drug interactions can occur when one drug inhibits or induces a P-450 that acts on another drug. An
+example is nicotine, a drug contained in tobacco, and
+known to induce P-450s. Individuals with liver disease
+(e.g., cirrhosis) may also have insufficient levels of
+P-450 enzymes. As a result, the concentration of
+drugs metabolized by these enzymes (e.g., amprenavir
+and other protease inhibitors) remains high and can
+build up to toxic levels in the bloodstream. In addition,
+certain medications and foods, such as grapefruit
+juice, can inactivate or lessen the metabolic activity
+of P-450s. Changing the drug dosage can alleviate the
+problem in some cases.
+The metabolic rate can vary significantly from
+person to person, and drug dosages that work quickly
+and effectively in one individual may not work well for
+another. Factors such as genetics, environment,
+nutrition, and age also influence drug metabolism;
+infants and elderly patients may have a reduced capacity to metabolize certain drugs, and may require
+adjustments in dosage.
+Causes and symptoms
+Drugs that commonly interact with other medications include:
+ Diuretics. Diuretics such as hydrochlorothiazide can
+reduce serum potassium and sodium electrolyte
+levels when taken with digoxin and lithium,
+respectively.
+ Monoamine oxidase inhibitors (MAOIs). MAOI
+antidepressants can cause convulsions and other serious side effects when used with tricyclic antidepressants (e.g., Imipramine, Nortriptyline), selective
+serotonin reuptake inhibitors (SSRIs), or sympathomimetic drugs (e.g., amphetamines).
+ Antibiotics. Antibiotics may reduce the efficiency of
+oral contraceptives.
+ Metals. Medications containing metals, such as antacids with aluminum additives and iron supplements,
+can reduce the absorption of tetracyclines and
+fluoroquinolones.
+ Drugs that inhibit liver enzyme function. Drugs that
+slow drug metabolism include ciprofloxacin,
+erythromycin, fluoxetine, nefazodone, paroxetine,
+and ritonavir. The therapeutic effect of other medications taken with these drugs may be amplified.
+Warfarin, a blood thinner, should be used with
+great caution in individuals taking these drugs.
+Foods and beverages that may interact with drugs
+include:
+ Grapefruit juice. Grapefruit juice inhibits the metabolism of many medications, including cyclosporine,
+felodipine, nifedipine, nitrendipine, nisoldipine,
+carbamazepine, triazolam, and midazolam.
+ Foods and beverages with tyramines. Red wine,
+malted beers, smoked foods (e.g., fish and meats),
+dried fruits, and aged cheeses may contain tyramines,
+and can cause a severe and dangerous elevation in
+blood pressure when taken with MAOI inhibitors
+(a class of antidepressants).
+ Dairy products. Milk, cream, and other dairy products containing calcium can prevention the absorption of antibiotics such as tetracycline, doxycycline,
+and ciprofloxacin when they are taken with the drug.
+In addition, whole milk with vitamin D can cause
+milk-alkali syndrome in patients taking aluminum
+hydroxide antacids.
+ Caffeinated beverages. The caffeine contained in
+coffee and colas can influence drug metabolism.
+ Alcohol. Alcohol is a central nervous system depressant, and should not be taken with other CNS
+depressants (e.g., antipsychotics, antihistamines). In
+addition, certain fermented beverages may contain
+tyramines.
+This list is not all-inclusive and individuals should
+always let their doctor and pharmacist know when
+they are taking other medications, herbal remedies,
+or dietary supplements. Anyone who experiences a
+serious reaction to a drug that is not consistent with
+its product labeling should report the event to their
+doctor and/or the MedWatch adverse event reporting
+system of the United States Food and Drug
+Administration (FDA).
+Alternative treatment
+The growing use of herbal supplements has also
+increased the opportunity for adverse drug and herbal
+interactions. In 2000, the FDA issued a warning on the
+popular herb St. John’s wort (Hypericum perforatum).
+The supplement was found to inhibit the effect of
+indinavir, a protease inhibitor used in the treatment
+of HIV. It may also affect the action of cyclosporine
+and other protease inhibitors (e.g., amprenavir,ritonavir). Further clinical studies are still necessary to
+determine the full metabolic effects of the herb.
+Other herbs which may interact with allopathic
+medications include gingko bilboa, ginseng, and garlic, which may all heighten the blood thinning effect of
+the anticoagulant warfarin. Because herbs are regulated by the FDA as dietary supplements, they do not
+require the same extensive clinical trials and premarket testing as drugs do before they are cleared for sale
+in the United States. As such, there is still much
+to learn about the potential interactions and adverse
+effects associated with herbal supplements.
+Individuals who experience serious side effects from
+dietary supplements should report them to FDA’s
+MedWatch program.
+Diagnosis
+Drug interactions can be difficult to detect. In
+some cases, adverse reactions may closely resemble
+the symptoms of the disease or condition the medication was prescribed to treat. Patients who take a number of medications or self-treat with over-the-counter
+drugs and/or herbal remedies may not be able to
+determine which drug actually triggered the interaction. A 2001 study by University of Florida researchers found that less than half of the women
+participating disclosed their use of herbal therapies
+to their healthcare providers. In cases where a serious
+drug or herb interaction occurs, withholding this
+information can delay diagnosis and put the patient
+at increased risk.
+Treatment
+Treatment of a drug interaction is dependant on a
+number of factors, including the medication(s) or supplements used and the medical history of the patient.
+A dosage adjustment may reverse the effects of some
+interactions. Serious or life-threatening interactions
+will require more aggressive therapies.
+Prevention
+Patients with chronic health conditions, particularly those with liver disorders, should always
+inform their healthcare professional before taking
+any over-the-counter (OTC) medications or dietary
+supplements. Because of the risk for a drug-to-drug
+interaction, individuals should also let their doctor
+know if they are taking drugs prescribed by other
+physicians. Individuals should closely follow
+instructions for use and package directions on
+both prescription and over-the-counter drugs.
+Consulting with a pharmacist and/or physician
+may be beneficial if package directions are unclear
+to the patient.
+As a rule, grapefruit juice should not be taken
+with medication unless recommended by a doctor.
+Patients taking MAOI inhibitors should always
+check food and beverage labels to ensure tyramines
+are not included, and should avoid all fermented
+drinks.
