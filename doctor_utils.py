@@ -21,6 +21,27 @@ SPECIALIST_SYNONYMS = {
     "speech therapist": "development pediatrics"
 }
 
+from db import hospitals_col
+
+def find_specialist_doctors(city, specialist):
+    results = []
+
+    hospitals = hospitals_col.find({ "address.city": {"$regex": city, "$options": "i"} })
+
+    for hospital in hospitals:
+        for dept in hospital.get("departments", []):
+            dept_name = dept.get("name") or dept.get("dept_name") or ""
+            if specialist.lower() in dept_name.lower():
+                for doctor in dept.get("doctors", []):
+                    results.append({
+                        "name": doctor.get("name", "Unknown"),
+                        "designation": doctor.get("designation", "Unknown"),
+                        "hospital": hospital.get("hospital_name", "Unknown"),
+                        "location": f"{hospital['address'].get('city', '')}, {hospital['address'].get('state', '')}"
+                    })
+    return results
+
+'''
 def find_specialist_doctors(city, specialist):
     results = []
 
@@ -43,4 +64,4 @@ def find_specialist_doctors(city, specialist):
                         "location": f"{hospital['address'].get('city', '')}, {hospital['address'].get('state', '')}"
                     })
 
-    return results
+    return results'''

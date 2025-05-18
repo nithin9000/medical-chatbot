@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MedBot 🩺 | Doctor Finder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col items-center py-10">
+
+    <h1 class="text-3xl font-bold mb-8">🩺 MedBot - Doctor Finder</h1>
+
+    <form method="post" class="bg-white p-6 rounded-lg shadow-md w-full max-w-md">
+        <div class="mb-4">
+            <label for="city" class="block text-sm font-medium">City</label>
+            <input type="text" id="city" name="city" placeholder="Enter your city" required
+                   class="mt-1 w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+
+        <div class="mb-4">
+            <label for="specialist" class="block text-sm font-medium">Specialist</label>
+            <input type="text" id="specialist" name="specialist" placeholder="e.g. Cardiologist" required
+                   class="mt-1 w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+
+        <button type="submit"
+                class="w-full bg-blue-600 text-white py-2 rounded-md hover:bg-blue-700 transition">
+            🔍 Search Doctors
+        </button>
+    </form>
+	{% if error %}
+    <div class="text-red-600 font-semibold mt-4">
+        ⚠️ {{ error }}
+    </div>
+{% endif %}
+
+    {% if doctors is defined %}
+        <div class="mt-10 w-full max-w-2xl">
+            <h2 class="text-xl font-semibold mb-4">
+                Results for <span class="text-blue-600">{{ specialist }}</span> in <span class="text-blue-600">{{ city }}</span>
+            </h2>
+
+            {% if doctors %}
+                <div class="grid gap-4">
+                    {% for doc in doctors %}
+                        <div class="p-4 border rounded-lg bg-white shadow-sm">
+                            <h3 class="font-bold text-lg">{{ doc.name }}</h3>
+                            <p class="text-sm text-gray-600">{{ doc.designation }}</p>
+                            <p class="text-sm"><strong>Hospital:</strong> {{ doc.hospital }}</p>
+                            <p class="text-sm"><strong>Location:</strong> {{ doc.location }}</p>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <p class="text-red-600 font-semibold">❌ No matching doctors found.</p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+</body>
+</html>
