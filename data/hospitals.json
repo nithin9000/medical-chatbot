@@ -44,15 +44,8 @@
 				"doctors":[
 					{
 						"name":"Dr. Shali S Nair",
-						"designation":"Registrar",
-						"appointments":[
-                            {"day": "monday", "timings": ["9:30 AM - 04:30 PM"]},
-                            {"day": "tuesday", "timings": ["9:30 AM - 04:30 PM"]},
-							{"day": "wednesday", "timings": ["9:30 AM - 04:30 PM"]},
-							{"day": "thursday", "timings": ["9:30 AM - 04:30 PM"]},
-							{"day": "friday", "timings": ["9:30 AM - 04:30 PM"]},
-							{"day": "saturday", "timings": ["9:30 AM - 04:30 PM"]}
-                        ]
+						"designation":"Registrar"
+
 					},{
 						"name":"Dr. Amrita B Rao",
 						"designation":"Associate Consultant, Plastic Micro Reconstructive Surgery",

@@ -1,0 +1,2091 @@
+[
+  {
+    "hospital_name": "MIOT International Chennai Branch 1",
+    "address": {
+      "street": "Anna Salai 1",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "583160"
+    },
+    "contact": {
+      "phone": "+91 8734400699",
+      "email": "contact1@miotinternationalchennaibranch1.com",
+      "website": "https://miotinternationalchennaibranch1.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Anita Iyer",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Divya Iyer",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Divya Reddy",
+            "designation": "Specialist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Aster Hospitals Chennai Branch 2",
+    "address": {
+      "street": "Station Road 2",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "675541"
+    },
+    "contact": {
+      "phone": "+91 7990839305",
+      "email": "contact2@asterhospitalschennaibranch2.com",
+      "website": "https://asterhospitalschennaibranch2.com"
+    },
+    "departments": [
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Sharma",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Arjun Nair",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Divya Kumar",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Attending Physician"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "MIOT International Chennai Branch 3",
+    "address": {
+      "street": "Main Road 3",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "563102"
+    },
+    "contact": {
+      "phone": "+91 7172237026",
+      "email": "contact3@miotinternationalchennaibranch3.com",
+      "website": "https://miotinternationalchennaibranch3.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Rao",
+            "designation": "Junior Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Kauvery Hospital Chennai Branch 4",
+    "address": {
+      "street": "Main Road 4",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "663573"
+    },
+    "contact": {
+      "phone": "+91 9583211831",
+      "email": "contact4@kauveryhospitalchennaibranch4.com",
+      "website": "https://kauveryhospitalchennaibranch4.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Sharma",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Rao",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Divya Rao",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Divya Kumar",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Kumar",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Nair",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Junior Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Rainbow Children's Hospital Chennai Branch 5",
+    "address": {
+      "street": "Station Road 5",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "521194"
+    },
+    "contact": {
+      "phone": "+91 8883544312",
+      "email": "contact5@rainbowchildren'shospitalchennaibranch5.com",
+      "website": "https://rainbowchildren'shospitalchennaibranch5.com"
+    },
+    "departments": [
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Reddy",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Karthik Kumar",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Rekha Nair",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Manipal Hospitals Chennai Branch 6",
+    "address": {
+      "street": "Anna Salai 6",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": "688816"
+    },
+    "contact": {
+      "phone": "+91 7758288123",
+      "email": "contact6@manipalhospitalschennaibranch6.com",
+      "website": "https://manipalhospitalschennaibranch6.com"
+    },
+    "departments": [
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Divya Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Divya Nair",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Anita Iyer",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Anita Reddy",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Rainbow Children's Hospital Mumbai Branch 1",
+    "address": {
+      "street": "Station Road 1",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "684066"
+    },
+    "contact": {
+      "phone": "+91 8718299742",
+      "email": "contact1@rainbowchildren'shospitalmumbaibranch1.com",
+      "website": "https://rainbowchildren'shospitalmumbaibranch1.com"
+    },
+    "departments": [
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Rao",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Raj Nair",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Iyer",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Meena Kumar",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Anita Iyer",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Arjun Rao",
+            "designation": "Junior Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Rainbow Children's Hospital Mumbai Branch 2",
+    "address": {
+      "street": "Anna Salai 2",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "597250"
+    },
+    "contact": {
+      "phone": "+91 8958219576",
+      "email": "contact2@rainbowchildren'shospitalmumbaibranch2.com",
+      "website": "https://rainbowchildren'shospitalmumbaibranch2.com"
+    },
+    "departments": [
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Rao",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Raj Nair",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Reddy",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Sharma",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Karthik Sharma",
+            "designation": "Surgeon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Kauvery Hospital Mumbai Branch 3",
+    "address": {
+      "street": "Station Road 3",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "565438"
+    },
+    "contact": {
+      "phone": "+91 8417546457",
+      "email": "contact3@kauveryhospitalmumbaibranch3.com",
+      "website": "https://kauveryhospitalmumbaibranch3.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Continental Hospitals Mumbai Branch 4",
+    "address": {
+      "street": "Main Road 4",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "658327"
+    },
+    "contact": {
+      "phone": "+91 8453156836",
+      "email": "contact4@continentalhospitalsmumbaibranch4.com",
+      "website": "https://continentalhospitalsmumbaibranch4.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Arjun Iyer",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Karthik Reddy",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Kumar",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Arjun Kumar",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Specialist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Fortis Hospital Mumbai Branch 5",
+    "address": {
+      "street": "Anna Salai 5",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "564439"
+    },
+    "contact": {
+      "phone": "+91 7885731021",
+      "email": "contact5@fortishospitalmumbaibranch5.com",
+      "website": "https://fortishospitalmumbaibranch5.com"
+    },
+    "departments": [
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Kumar",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Nair",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Nair",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Arjun Kumar",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Fortis Hospital Mumbai Branch 6",
+    "address": {
+      "street": "Main Road 6",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": "503633"
+    },
+    "contact": {
+      "phone": "+91 9657353001",
+      "email": "contact6@fortishospitalmumbaibranch6.com",
+      "website": "https://fortishospitalmumbaibranch6.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Rao",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Arjun Sharma",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Nair",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Resident Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Sunshine Hospitals Bangalore Branch 1",
+    "address": {
+      "street": "Main Road 1",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pin": "638810"
+    },
+    "contact": {
+      "phone": "+91 7621520956",
+      "email": "contact1@sunshinehospitalsbangalorebranch1.com",
+      "website": "https://sunshinehospitalsbangalorebranch1.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Nair",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Rekha Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "MIOT International Bangalore Branch 2",
+    "address": {
+      "street": "Anna Salai 2",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pin": "534672"
+    },
+    "contact": {
+      "phone": "+91 9476039982",
+      "email": "contact2@miotinternationalbangalorebranch2.com",
+      "website": "https://miotinternationalbangalorebranch2.com"
+    },
+    "departments": [
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Sharma",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Arjun Nair",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Anita Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Resident Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Columbia Asia Bangalore Branch 3",
+    "address": {
+      "street": "Station Road 3",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pin": "591657"
+    },
+    "contact": {
+      "phone": "+91 7759173405",
+      "email": "contact3@columbiaasiabangalorebranch3.com",
+      "website": "https://columbiaasiabangalorebranch3.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Sharma",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Reddy",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Meena Sharma",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Sharma",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Aster Hospitals Bangalore Branch 4",
+    "address": {
+      "street": "Anna Salai 4",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pin": "622505"
+    },
+    "contact": {
+      "phone": "+91 9842700515",
+      "email": "contact4@asterhospitalsbangalorebranch4.com",
+      "website": "https://asterhospitalsbangalorebranch4.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Raj Nair",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Iyer",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Raj Iyer",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Kumar",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Specialist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Manipal Hospitals Bangalore Branch 5",
+    "address": {
+      "street": "Station Road 5",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pin": "526971"
+    },
+    "contact": {
+      "phone": "+91 7185315684",
+      "email": "contact5@manipalhospitalsbangalorebranch5.com",
+      "website": "https://manipalhospitalsbangalorebranch5.com"
+    },
+    "departments": [
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Reddy",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Junior Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Rainbow Children's Hospital Hyderabad Branch 1",
+    "address": {
+      "street": "Anna Salai 1",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "627086"
+    },
+    "contact": {
+      "phone": "+91 8159250977",
+      "email": "contact1@rainbowchildren'shospitalhyderabadbranch1.com",
+      "website": "https://rainbowchildren'shospitalhyderabadbranch1.com"
+    },
+    "departments": [
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Junior Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Nanavati Max Hyderabad Branch 2",
+    "address": {
+      "street": "Anna Salai 2",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "699189"
+    },
+    "contact": {
+      "phone": "+91 8400656249",
+      "email": "contact2@nanavatimaxhyderabadbranch2.com",
+      "website": "https://nanavatimaxhyderabadbranch2.com"
+    },
+    "departments": [
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Nair",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Raj Kumar",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Rao",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Reddy",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Arjun Iyer",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Kauvery Hospital Hyderabad Branch 3",
+    "address": {
+      "street": "Main Road 3",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "546467"
+    },
+    "contact": {
+      "phone": "+91 7901656680",
+      "email": "contact3@kauveryhospitalhyderabadbranch3.com",
+      "website": "https://kauveryhospitalhyderabadbranch3.com"
+    },
+    "departments": [
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Reddy",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Divya Nair",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Rao",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Arjun Iyer",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Resident Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Columbia Asia Hyderabad Branch 4",
+    "address": {
+      "street": "Anna Salai 4",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "588078"
+    },
+    "contact": {
+      "phone": "+91 9588186431",
+      "email": "contact4@columbiaasiahyderabadbranch4.com",
+      "website": "https://columbiaasiahyderabadbranch4.com"
+    },
+    "departments": [
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Kumar",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Divya Kumar",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Kumar",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Resident Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Columbia Asia Hyderabad Branch 5",
+    "address": {
+      "street": "Main Road 5",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "571118"
+    },
+    "contact": {
+      "phone": "+91 8554152054",
+      "email": "contact5@columbiaasiahyderabadbranch5.com",
+      "website": "https://columbiaasiahyderabadbranch5.com"
+    },
+    "departments": [
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Divya Rao",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Iyer",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Meena Rao",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Suresh Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Anita Reddy",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Rekha Kumar",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Rekha Rao",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Fortis Hospital Hyderabad Branch 6",
+    "address": {
+      "street": "Main Road 6",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "587124"
+    },
+    "contact": {
+      "phone": "+91 8348333737",
+      "email": "contact6@fortishospitalhyderabadbranch6.com",
+      "website": "https://fortishospitalhyderabadbranch6.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Nair",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "ENT",
+        "doctors": [
+          {
+            "name": "Dr. Divya Reddy",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Meena Iyer",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Suresh Kumar",
+            "designation": "Resident Doctor"
+          },
+          {
+            "name": "Dr. Suresh Sharma",
+            "designation": "Attending Physician"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Rainbow Children's Hospital Hyderabad Branch 7",
+    "address": {
+      "street": "Main Road 7",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "525897"
+    },
+    "contact": {
+      "phone": "+91 7516913759",
+      "email": "contact7@rainbowchildren'shospitalhyderabadbranch7.com",
+      "website": "https://rainbowchildren'shospitalhyderabadbranch7.com"
+    },
+    "departments": [
+      {
+        "name": "Dermatology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Kumar",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Arjun Reddy",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Raj Sharma",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Raj Nair",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Nair",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Karthik Rao",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Divya Reddy",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Anita Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Raj Reddy",
+            "designation": "Attending Physician"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Apollo Hospitals Hyderabad Branch 8",
+    "address": {
+      "street": "Main Road 8",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "686739"
+    },
+    "contact": {
+      "phone": "+91 8346615691",
+      "email": "contact8@apollohospitalshyderabadbranch8.com",
+      "website": "https://apollohospitalshyderabadbranch8.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Karthik Kumar",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Karthik Kumar",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Arjun Iyer",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Karthik Nair",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Rekha Nair",
+            "designation": "Junior Doctor"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Anita Nair",
+            "designation": "Resident Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Oncology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Sharma",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Meena Nair",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Senior Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Divya Kumar",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "MIOT International Hyderabad Branch 9",
+    "address": {
+      "street": "Anna Salai 9",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "647412"
+    },
+    "contact": {
+      "phone": "+91 8408337450",
+      "email": "contact9@miotinternationalhyderabadbranch9.com",
+      "website": "https://miotinternationalhyderabadbranch9.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Meena Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Anita Rao",
+            "designation": "Specialist"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Senior Consultant"
+          },
+          {
+            "name": "Dr. Divya Reddy",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "doctors": [
+          {
+            "name": "Dr. Divya Nair",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Specialist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "hospital_name": "Columbia Asia Hyderabad Branch 10",
+    "address": {
+      "street": "Station Road 10",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": "580672"
+    },
+    "contact": {
+      "phone": "+91 7970280909",
+      "email": "contact10@columbiaasiahyderabadbranch10.com",
+      "website": "https://columbiaasiahyderabadbranch10.com"
+    },
+    "departments": [
+      {
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "name": "Dr. Anita Iyer",
+            "designation": "Junior Doctor"
+          },
+          {
+            "name": "Dr. Rekha Iyer",
+            "designation": "Specialist"
+          },
+          {
+            "name": "Dr. Divya Rao",
+            "designation": "Attending Physician"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Surgeon"
+          },
+          {
+            "name": "Dr. Karthik Iyer",
+            "designation": "Attending Physician"
+          },
+          {
+            "name": "Dr. Meena Reddy",
+            "designation": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "General Medicine",
+        "doctors": [
+          {
+            "name": "Dr. Suresh Rao",
+            "designation": "Consultant"
+          },
+          {
+            "name": "Dr. Suresh Iyer",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Orthopedics",
+        "doctors": [
+          {
+            "name": "Dr. Arjun Rao",
+            "designation": "Consultant"
+          }
+        ]
+      },
+      {
+        "name": "Pediatrics",
+        "doctors": [
+          {
+            "name": "Dr. Rekha Sharma",
+            "designation": "Senior Consultant"
+          }
+        ]
+      }
+    ]
+  }
+]
