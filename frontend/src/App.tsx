@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { TypingDots } from "./components/TypingDots";
 import { ThemeToggle } from './components/ThemeToggle';
-import "./index.css"; // or index.css if you're importing Tailwind here
+import "./index.css"; 
 
 export type ChatMessage = {
   role: "user" | "bot";

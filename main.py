@@ -2,13 +2,14 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from doctor_utils import find_specialist_doctors
+from rag.llm import generate_response
 
 app = FastAPI()
 
-# Allow requests from React frontend
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # replace with frontend URL in prod
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"]
 )
@@ -16,6 +17,39 @@ app.add_middleware(
 class ChatRequest(BaseModel):
     message: str
 
+@app.post("/chat")
+async def chat(req: ChatRequest):
+    message = req.message.strip().lower()
+    print(f"[DEBUG] Received message: {message}")
+
+    if " in " in message:
+        try:
+            specialist, city = map(str.strip, message.split(" in ", 1))
+            print(f"[DEBUG] Routing to doctor search: {specialist=}, {city=}")
+            doctors = find_specialist_doctors(city, specialist)
+            if doctors:
+                response = f"Here are some {specialist.title()}s in {city.title()}:\n"
+                for doc in doctors[:5]:
+                    response += (
+                        f"\n🩺 {doc['name']} — {doc['designation']} "
+                        f"at {doc['hospital']} ({doc['location']})"
+                    )
+            else:
+                response = f"❌ Sorry, no {specialist.title()}s found in {city.title()}."
+        except Exception as e:
+            print(f"[ERROR] Doctor search failed: {e}")
+            response = f"⚠️ Doctor lookup failed: {str(e)}"
+    else:
+        try:
+            print("[DEBUG] Routing to Gemma LLM")
+            response = generate_response(message)
+        except Exception as e:
+            print(f"[ERROR] LLM generation failed: {e}")
+            response = f"❌ LLM Error: {str(e)}"
+
+    return {"response": response}
+
+'''
 @app.post("/chat")
 async def chat(request: ChatRequest):
     message = request.message
@@ -37,7 +71,7 @@ async def chat(request: ChatRequest):
     except Exception:
         response = "⚠️ Please use the format: `specialist in city`."
 
-    return {"response": response}
+    return {"response": response}'''
 '''from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates

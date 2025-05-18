@@ -1,6 +1,5 @@
 from db import hospitals_col
 
-# Manual synonym-to-department mapper
 SPECIALIST_SYNONYMS = {
     "cardiologist": "cardiology",
     "heart doctor": "cardiology",
@@ -26,7 +25,7 @@ SPECIALIST_SYNONYMS = {
 def find_specialist_doctors(city, specialist):
     results = []
 
-    # 🧠 Normalize user input using synonyms
+
     specialist_key = specialist.lower().strip()
     mapped_specialist = SPECIALIST_SYNONYMS.get(specialist_key, specialist_key)
 
@@ -36,7 +35,6 @@ def find_specialist_doctors(city, specialist):
         for dept in hospital.get("departments", []):
             dept_name = (dept.get("name") or dept.get("dept_name") or "").lower()
 
-            # 🎯 Match either way
             if mapped_specialist in dept_name or dept_name in mapped_specialist:
                 for doctor in dept.get("doctors", []):
                     results.append({
