@@ -5,33 +5,39 @@ SPECIALIST_SYNONYMS = {
     "cardiologist": "cardiology",
     "heart doctor": "cardiology",
     "heart": "cardiology",
-    "skin specialist": "dermatology and cosmetology",
-    "dermatologist": "dermatology and cosmetology",
-    "oncologist": "cancer care",
-    "cancer": "cancer care",
-    "diabetes": "endorcinology and diabetes",
-    "endocrinologist": "endorcinology and diabetes",
+    "skin specialist": "dermatology",
+    "dermatologist": "dermatology",
+    "oncologist": "oncology",
+    "cancer": "oncology",
+    "diabetes": "endocrinology",
+    "endocrinologist": "endocrinology",
     "ent": "ent",
     "ear nose throat": "ent",
-    "nutritionist": "clinical nutrition",
-    "dietician": "clinical nutrition",
-    "fertility": "fertility clinic",
+    "nutritionist": "nutrition",
+    "dietician": "nutrition",
+    "fertility": "fertility",
     "dentist": "dental",
-    "pediatrician": "development pediatrics",
-    "speech therapist": "development pediatrics"
+    "pediatrician": "pediatrics",
+    "speech therapist": "pediatrics",
+    "gynaecologist":"Obstetrics and Gynecology",
+    "gyna":"Obstetrics and Gynecology"
 }
-
-from db import hospitals_col
 
 def find_specialist_doctors(city, specialist):
     results = []
+
+    # 🧠 Normalize user input using synonyms
+    specialist_key = specialist.lower().strip()
+    mapped_specialist = SPECIALIST_SYNONYMS.get(specialist_key, specialist_key)
 
     hospitals = hospitals_col.find({ "address.city": {"$regex": city, "$options": "i"} })
 
     for hospital in hospitals:
         for dept in hospital.get("departments", []):
-            dept_name = dept.get("name") or dept.get("dept_name") or ""
-            if specialist.lower() in dept_name.lower():
+            dept_name = (dept.get("name") or dept.get("dept_name") or "").lower()
+
+            # 🎯 Match either way
+            if mapped_specialist in dept_name or dept_name in mapped_specialist:
                 for doctor in dept.get("doctors", []):
                     results.append({
                         "name": doctor.get("name", "Unknown"),
@@ -39,6 +45,7 @@ def find_specialist_doctors(city, specialist):
                         "hospital": hospital.get("hospital_name", "Unknown"),
                         "location": f"{hospital['address'].get('city', '')}, {hospital['address'].get('state', '')}"
                     })
+
     return results
 
 '''

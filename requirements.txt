@@ -1,11 +1,6 @@
 fastapi
 uvicorn
-transformers
-torch
+jinja2
 pymongo
-faiss-cpu
-sentence-transformers
-accelerate
-sentencepiece
-llama-index
-langchain
+python-multipart
+python-dotenv

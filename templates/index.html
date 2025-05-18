@@ -1,60 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>MedBot 🩺 | Doctor Finder</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8">
+  <title>MedBot Chat</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col items-center py-10">
+<body class="bg-gray-100 h-screen flex flex-col">
 
-    <h1 class="text-3xl font-bold mb-8">🩺 MedBot - Doctor Finder</h1>
+  <div class="max-w-2xl mx-auto w-full flex flex-col h-full p-4">
+    <h1 class="text-2xl font-bold text-center mb-4">🩺 MedBot - Doctor Chat</h1>
 
-    <form method="post" class="bg-white p-6 rounded-lg shadow-md w-full max-w-md">
-        <div class="mb-4">
-            <label for="city" class="block text-sm font-medium">City</label>
-            <input type="text" id="city" name="city" placeholder="Enter your city" required
-                   class="mt-1 w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
-        </div>
-
-        <div class="mb-4">
-            <label for="specialist" class="block text-sm font-medium">Specialist</label>
-            <input type="text" id="specialist" name="specialist" placeholder="e.g. Cardiologist" required
-                   class="mt-1 w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
-        </div>
-
-        <button type="submit"
-                class="w-full bg-blue-600 text-white py-2 rounded-md hover:bg-blue-700 transition">
-            🔍 Search Doctors
-        </button>
-    </form>
-	{% if error %}
-    <div class="text-red-600 font-semibold mt-4">
-        ⚠️ {{ error }}
-    </div>
-{% endif %}
-
-    {% if doctors is defined %}
-        <div class="mt-10 w-full max-w-2xl">
-            <h2 class="text-xl font-semibold mb-4">
-                Results for <span class="text-blue-600">{{ specialist }}</span> in <span class="text-blue-600">{{ city }}</span>
-            </h2>
-
-            {% if doctors %}
-                <div class="grid gap-4">
-                    {% for doc in doctors %}
-                        <div class="p-4 border rounded-lg bg-white shadow-sm">
-                            <h3 class="font-bold text-lg">{{ doc.name }}</h3>
-                            <p class="text-sm text-gray-600">{{ doc.designation }}</p>
-                            <p class="text-sm"><strong>Hospital:</strong> {{ doc.hospital }}</p>
-                            <p class="text-sm"><strong>Location:</strong> {{ doc.location }}</p>
-                        </div>
-                    {% endfor %}
-                </div>
+    <div id="chat-box" class="flex-1 overflow-y-auto bg-white p-4 rounded shadow mb-4">
+      {% if history %}
+        {% for message in history %}
+          <div class="mb-2">
+            {% if message.role == 'user' %}
+              <div class="text-right">
+                <div class="inline-block bg-blue-100 px-4 py-2 rounded-lg">{{ message.text }}</div>
+              </div>
             {% else %}
-                <p class="text-red-600 font-semibold">❌ No matching doctors found.</p>
+              <div class="text-left">
+                <div class="inline-block bg-gray-200 px-4 py-2 rounded-lg whitespace-pre-line">{{ message.text }}</div>
+              </div>
             {% endif %}
-        </div>
-    {% endif %}
+          </div>
+        {% endfor %}
+      {% else %}
+        <div class="text-center text-gray-500">Start the conversation by asking for a specialist in your city.</div>
+      {% endif %}
+    </div>
+
+    <form method="post" class="flex">
+      <input type="text" name="message" placeholder="Type something..." required
+             class="flex-1 px-4 py-2 rounded-l-md border-t border-l border-b focus:outline-none">
+      <button type="submit" class="bg-blue-600 text-white px-4 rounded-r-md hover:bg-blue-700">Send</button>
+    </form>
+  </div>
 
 </body>
 </html>
