@@ -1,0 +1,168 @@
+Definition
+Antepartum testing consists of a variety of tests
+performed late in pregnancy to verify fetal well-being,
+as judged by the baby’s heart rate and other characteristics. Antepartum tests include the nonstress test
+(NST), biophysical profile, and contraction stress
+test (CST).
+Purpose
+Antepartum testing is performed after 32 weeks of
+pregnancy so that the couple and the doctor can be
+warned of any problems that may necessitate further
+testing or immediate delivery. The results reflect the
+adequacy of blood flow (and oxygen delivery) to the
+fetus from the placenta.
+Antepartum tests are usually done in pregnancies
+at high risk for fetal complications. Various reasons
+include:
+
+any chronic illness in the mother, such as high blood
+pressure or diabetes
+
+problems with previous pregnancies, such as
+stillbirth
+
+fetal complications, such as intrauterine growth retardation (a slowing of growth of the fetus) or birth
+defects
+
+problems in the current pregnancy, including preeclampsia (serious pregnancy-induced high blood
+pressure), gestational (pregnancy-related) diabetes,
+premature rupture of the membranes, excessive
+amniotic fluid (the liquid that surrounds the fetus),
+vaginal bleeding, or placenta previa (a condition in
+which the placenta is positioned over the cervix
+instead of near the top of the uterus)
+
+twins or other multiple fetuses
+One of the most common indications for antepartum testing is post-term pregnancy. A pregnancy
+should not be allowed to continue past 42 weeks.
+(The usual pregnancy is 40 weeks in duration).
+Babies should be monitored with antepartum testing
+starting at 41 weeks. After 41 weeks, there is an
+increasing risk that the placenta cannot meet the growing baby’s needs for oxygen and nutrition. This may be
+reflected in decreased movements of the baby,
+decreased amniotic fluid, and changes in the heart
+rate pattern of the baby.
+Description
+Technology
+The NST and CST use a technique called electronic fetal monitoring to evaluate the heartbeat of the
+fetus. The biophysical profile is an ultrasound
+examination.
+NST
+The NST is usually the first antepartum test used to
+verify fetal well-being. It is based on the principle that
+when the fetus moves, its heartbeat normally speeds up.
+The NST assesses fetal health through monitoring
+accelerations of the heart rate in response to the
+baby’s own movements, i.e., in the absence of stress.
+The mother lays down or sits, and an electronic
+fetal monitor is placed on her abdomen to monitor the
+fetal heart rate. The doctor records the baby’s heartbeat on a graph or ‘‘tracing’’ to determine whether it
+demonstrates correct reactivity, or acceleration of the
+heart rate. To record fetal movements on the tracing,
+the mother presses a button every time she feels the
+baby move. If the baby is inactive, the mother may be
+asked to rub her abdomen to ‘‘awaken’’ it. Sometimes
+an instrument is used to produce a loud noise to arouse
+the fetus (vibroacoustic stimulation). The test usually
+takes between 20–45 minutes.
+A baby who is receiving enough oxygen should
+move at least twice in a 20 minute period. The baby’s
+heart rate should increase at least 20 beats per minute
+for at least 20 seconds during these movements. The
+NST is the simplest and cheapest antepartum test.
+Biophysical profile
+The biophysical profile is an ultrasound exam that
+can add additional information to the NST. During
+the biophysical profile, the examiner checks for various characteristics of the baby to evaluate its overall
+health. These include: fetal movement, fetal tone,
+breathing movements, and the amniotic fluid volume.
+Amniotic fluid volume is important because a
+decreased amount raises the possibility that the baby
+may be under stress. The five components of the test
+(NST is also included) are each given a score of 2 for
+normal (or present), 1 if decreased, and 0 for abnormal. The highest possible score is 10. The ‘‘modified’’
+biophysical profile is another option; this includes
+only the NST and amniotic fluid volume.
+CST
+The CST is like the NST, except that the fetus is
+evaluated in response to contractions of the mother’s
+uterus. Because it is a more complicated test, it is often
+used after an abnormal NST to confirm the results.
+Uterine contractions produce ‘‘stress’’ in the fetus
+because they temporarily stop the flow of blood and
+oxygen. The CST is used to confirm that the fetus does
+not respond to this stress by a decrease in the heart rate.
+The CST is performed with the same equipment as
+the NST. Maternal blood pressure and fetal heart rate
+are recorded along with the onset, relative intensity,
+and duration of any spontaneous contractions. For an
+accurate test, the contractions should be of sufficient
+duration and frequency. If uterine activity does not
+occur naturally, a drug called oxytocin may be given to
+the mother intravenously (hence the test’s alternate
+name, the oxytocin challenge test) to provoke
+contractions. Another option is self-stimulation of
+the mother’s nipples, because this releases natural
+oxytocin. The fetal heart rate is observed until, ideally,
+three moderate contractions occur within 10 minutes.
+Preparation
+The mother should eat just before the antepartum
+tests to help stimulate fetal activity.
+Risks
+There are no appreciable risks from the NST or
+the biophysical profile. Ultrasound used for the biophysical profile is painless and safe because it uses no
+harmful radiation, and no evidence has been found
+that sound waves cause any adverse effects on the
+mother or fetus.
+The frequency of antepartum testing depends on
+the reason for its use. All of the tests occasionally give
+incorrect results, which may prompt an unnecessary
+early delivery or cesarean. Repeat testing is important
+to double-check any abnormal findings.
+Normal results
+In general, ‘‘negative’’ or normal results on antepartum testing provide reassurance that the baby is
+healthy and should remain so for perhaps a week, with
+no need for immediate delivery. Unfortunately, the
+tests cannot guarantee that there are no problems,
+because falsely normal results can occur, though this
+is unusual. Even if all test results are normal, it is
+important to realize that this does not guarantee a
+‘‘perfect’’ baby.
+The NST is normal (‘‘reactive’’) if two or more
+distinct fetal movements occur in association with
+appropriate accelerations of the fetal heart rate within
+20 minutes. A biophysical profile score of 8-10 is considered reassuring. The CST is normal if the fetus
+shows no decelerations in heart rate in response to
+three uterine contractions within 10 minutes.
+Abnormal results
+A ‘‘positive’’ result suggests that the baby is not
+receiving enough oxygen for some reason. However, it
+is quite possible that the test result was falsely abnormal. To confirm or monitor a suspected disorder,
+follow-up testing with the same or an alternate test
+will probably be performed at least weekly.
+The NST is abnormal (‘‘nonreactive’’) if the fetal
+heart rate fails to speed up by at least 20 beats per
+minute at least two times during a 20-minute period.
+Abnormal decreases in the heart rate (decelerations)
+are also a cause for concern.
+A biophysical profile score of 6 is considered a
+cause for concern and should be followed by further
+testing. Scores of 4 or less may require immediate
+delivery of the fetus.
+Abnormal results on the CST include late decelerations, or abnormal slowing of the fetal heart rate
+after the uterine contractions. This can suggest that
+the baby is not receiving enough oxygen and may have
+difficulty withstanding the stress of labor and vaginal
+delivery. Cesarean section might be necessary so the
+baby can be spared the stress of labor. With either
+NST or CST, a severe deceleration (a period of very
+slow heartbeat) can also suggest fetal distress.
+The ultimate outcome will depend on the woman’s
+individual situation. In some cases, delivery can be postponed while medication is given to the mother (e.g., for
+high blood pressure) or the fetus (e.g., to speed up lung
+maturity before delivery).Depending upon the readiness
+of the mother’s cervix, the doctor may decide to induce
+labor. The extra-large fetus of a diabetic woman may
+require cesarean delivery; severe preeclampsia also may
+necessitate induction of labor or cesarean section. The
+doctor will determine the most prudent course of action.

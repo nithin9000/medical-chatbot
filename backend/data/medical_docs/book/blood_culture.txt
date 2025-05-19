@@ -1,0 +1,221 @@
+Definition
+ Ablood culture is done when a person has symp
+toms of a blood infection, also called bacteremia.
+ Blood is drawn from the person one or more times
+ and is tested in a laboratory to find and identify any
+ microorganism present and growing in the blood. If a
+ microorganism is found, more testing is done to deter
+minethe antibiotics that will be effective in treating the
+ infection.
+ Purpose
+ Bacteremia is a serious clinical condition and can
+ lead to death. To give the best chance for effective
+ treatment and survival, a blood culture is done as
+ soon as an infection is suspected.
+ Symptoms of bacteremia are fever, chills, mental
+ confusion, anxiety, rapid heart beat, hyperventilation,
+ blood clotting problems, and shock. These symptoms
+ are especially significant in a person who already has
+ another illness or infection, is hospitalized, or has
+ trouble fighting infections because of a weak immune
+ system. Often, the blood infection results from an
+ infection somewhere else in the body that has now
+ spread.
+ Additionally, blood cultures are done to find the
+ causes of other infections. These include bacterial
+ pneumonia (an infection of the lung), and infectious
+ endocarditis (an infection of the inner layer of the
+ heart). Both of these infections leak bacteria into the
+ blood.
+ After a blood infection has been diagnosed, con
+firmed by culture, and treated, an additional blood culture may be done to make sure the infection is
+ gone.
+ Description
+ Culture strategies
+ There are many variables involved in performing
+ a blood culture. Before the person’s blood is drawn,
+ the physician must make several decisions based on a
+ knowledge of infections and the person’s clinical con
+dition and medical history.
+ Several groups of microorganisms, including
+ bacteria, viruses, mold, and yeast, can cause blood
+ infections. The bacteria group can be further broken
+ down into aerobes and anaerobes. Most aerobes do
+ not need oxygen to live. They can grow with oxygen
+ (aerobic microbes) or without oxygen (anaerobic
+ microbes).
+ Based on the clinical condition of the patient, the
+ physician determines what group of microorganisms
+ is likely to be causing the infection and then orders
+ one or more specific types of blood culture, including
+ aerobic, anaerobic, viral, or fungal (for yeasts and
+ molds). Each specific type of culture is handled differ
+ently by the laboratory. Most blood cultures test for
+ both aerobic and anaerobic microbes. Fungal, viral,
+ and mycobacterial blood cultures can also be done,
+ but are less common.
+ Thephysician must also decide how many blood
+ cultures should be done. One culture is rarely
+ enough, but two to three are usually adequate.
+ Four cultures are occasionally required. Some fac
+tors influencing this decision are the specific micro
+organisms the physician expects to find based on the
+ person’s symptoms or previous culture results, and  whether or not the person has had recent antibiotic
+ therapy.
+ Thetime at whichthe cultures are to be drawn is
+ another decision made by the physician. During
+ most blood infections (called intermittent bactere
+mia) microorganisms enter the blood at various
+ time intervals. Blood drawn randomly may miss the
+ microorganisms. Since microorganisms enter the
+ blood 30–90 minutes before the person’s fever
+ spikes, collecting the culture just after the fever
+ spike offers the best likelihood of finding the micro
+organism. The second and third cultures may be
+ collected at the same time, but from different places
+ on the person, or spaced at 30-minute or one-hour
+ intervals, as the physician chooses. During continu
+ous bacteremia, such as infective endocarditis,
+ microorganisms are always in the blood and the
+ timing of culture collection is less important. Blood
+ cultures should always be collected before antibiotic
+ treatment has begun.
+ Laboratory analysis
+ Bacteria are the most common microorganisms
+ found in blood infections. Laboratory analysis of a
+ bacterial blood culture differs slightly from that of a
+ fungal culture and significantly from that of a viral
+ culture.
+ Blood is drawn from a person and put directly
+ into a blood culture bottle containing a nutritional
+ broth. After the laboratory receives the blood culture
+ bottle, several processes must be completed:
+ provide an environment for the bacteria to grow
+ detect the growth when it occurs
+ identify the bacteria that grow
+ test the bacteria against certain antibiotics to deter
+mine which antibiotic will be effective
+ There are several types of systems, both manual
+ and automated, available to laboratories to carry out
+ these processes.
+ The broth in the blood culture bottle is the first
+ step in creating an environment in which bacteria will
+ grow. It contains all the nutrients that bacteria need to
+ grow. If the physician expects anaerobic bacteria to
+ grow, oxygen will be kept out of the blood culture
+ bottle; if aerobes are expected, oxygen will be allowed
+ in the bottle.
+ The bottles are placed in an incubator and kept at
+ body temperature. They are watched daily for signs of
+ growth, including cloudiness or a color change in the
+ broth, gas bubbles, or clumps of bacteria. When there
+ is evidence of growth, the laboratory does a gramstain
+ and a subculture. To do the gram stain, a drop of
+ blood is removed from the bottle and placed on a
+ microscope slide. The blood is allowed to dry and
+ then is stained with purple and red stains and exam
+ined under the microscope. If bacteria are seen, the
+ color of stain they picked up (purple or red), their
+ shape (such as round or rectangular), and their size
+ provide valuable clues as to what type of microorgan
+ism they are and what antibiotics might work best. To
+ do the subculture, a drop of blood is placed on a
+ culture plate, spread over the surface, and placed in
+ an incubator.
+ If there is no immediate visible evidence of growth
+ in the bottles, the laboratory looks for bacteria by
+ doing gram stains and subcultures. These steps are
+ repeated daily for the first several days and periodi
+cally after that.
+ When bacteria grows, the laboratory identifies it
+ using biochemical tests and the gram stain. Sensitivity
+ testing, also called antibiotic susceptibility testing, is
+ also done. The bacteria are tested against many differ
+ent antibiotics to see which antibiotics can effectively
+ kill it.
+ All information is passed on to the physician as
+ soon as it is known. An early report, known as a
+ preliminary report, is usually available after one day.
+ This report will tell if any bacteria have been found
+ yet, and if so, the results of the gram stain. The next
+ preliminary report may include a description of the
+ bacteria growing on the subculture. The laboratory
+ notifies the physician immediately when an organism
+ is found and as soon as sensitivity tests are complete.
+ Sensitivity tests may be complete before the bacteria
+ is completely identified. The final report may not be
+ available for five to seven days. If bacteria was
+ found, the report will include its complete identifica
+tion andalist of the antibiotics to which the bacteria is
+ sensitive.
+ One automated system is considered one of
+ the most important recent technical advances in
+ blood cultures. It is called continuous-monitoring
+ blood culture systems (CMCCS). The instruments
+ automatically monitor the bottles containing the
+ patient blood for evidence of microorganisms, usually
+ every 10 minutes. Many datapoints are collected daily
+ for each bottle, and fed into a computer for analysis.
+ Sophisticated mathematical calculations can deter
+mine when microorganisms have grown. This, com
+bined with more frequent blood tests, make it possible  to detect microbial growth earlier. In addition, all
+ CMBCSinstruments have the detection system, incu
+bator, and agitation unit in one unit.
+ Preparation
+ Ten ml (milliliter) of blood is usually needed for
+ each blood culture bottle. First a healthcare worker
+ locates a vein in the inner elbow region. The area of
+ skin where the blood will be drawn must be disin
+fected to prevent any microorganisms on a person’s
+ skin from entering the blood culture bottle and con
+taminating it. The area is disinfected by wiping the
+ area with alcohol in a circular fashion, starting with
+ tiny circles at the spot where the needle will puncture
+ the skin and enlarging the size of the circles while
+ wiping away from the puncture site. The same
+ pattern of wiping is repeated using an iodine or iodo
+phor solution. The top of the bottle is disinfected
+ using alcohol. After the person’s skin has been
+ disinfected, the healthcare worker draws the blood
+ and about 10 ml of blood is injected into each
+ blood culture bottle. The type of bottles used will
+ vary based on whether the physician is looking
+ for bacteria (aerobes or anaerobes), yeast, mold, or
+ viruses.
+ Aftercare
+ Discomfort or bruising may occur at the puncture
+ site or the person may feel dizzy or faint. Pressure to
+ the puncturesite until the bleeding stopsreducesbruis
+ing. Warm packs relieve discomfort.
+ Normal results
+ Normalresults will be negative. A single negative
+ culture does not rule out a blood infection. False
+ negatives can occur if the person was started on
+ antibiotics before the blood was drawn, if the
+ environment for growth was not right, the timing
+ was off, or for some unknown reason the micro
+organism just didn’t grow. Three negative cultures
+ may be enough to rule out bacteremia in the case of
+ endocarditis.
+ Abnormal results
+ The physician’s skill in interpreting the culture
+ results and assessing the person’s clinical condition is
+ essential in distinguishing a blood culture that is posi
+tive because of a true infection from a culture that is
+ positive because it became contaminated. In true
+ bacteremia, the patient’s clinical condition should be
+ consistent with a blood infection caused by the micro
+organism that was found. The microorganism is
+ usually found in more than one culture, it usually
+ grows soon after the bottles are incubated, and it is
+ often the cause of an infection somewhere else in the
+ person’s body.
+ When the culture is positive because of contam
+ination, the patient’s clinical condition usually is not
+ consistent with an infection from the identified
+ microorganism. In addition, the microorganism is
+ often one commonly found on skin, it rarely causes
+ infection, it is found in only one bottle, and it may
+ appear after several days of incubation. More than
+ one microorganism often grow in contaminated
+ cultures. 

@@ -1,0 +1,195 @@
+Definition
+Antiangiogenesis therapy is one of two types of
+drugs in a new class of medicines that restores health
+by controlling blood vessel growth. The other medication is called pro-angiogenic therapy.
+Purpose
+Antiangiogenic therapy inhibits the growth of new
+blood vessels. Because new blood vessel growth plays a
+critical role in many disease conditions, including
+disorders that cause blindness, arthritis, and
+cancer, angiogenesis inhibition is a ‘‘common denominator’’ approach to treating these diseases. Antiangiogenic
+drugs exert their beneficial effectsin a number of ways: by
+disabling the agents that activate and promote cell
+growth, or by directly blocking the growing blood vessel
+cells. Angiogenesis inhibitory properties have been discoveredinmore than 300 substances, ranging frommolecules produced naturally in animals and plants, such as
+green tea extract, to new chemicals synthesized in the
+laboratory. A number of medicines already approved
+by the U.S. Food and Drug Administration (FDA)
+have also been found to possess antiangiogenic properties, including celecoxib (Celebrex), bortezomib
+(Velcade), and interferon. Many inhibitors are currently
+being tested in clinical trials for a variety of diseases in
+human patients, and some in veterinary settings.
+These diseases include:
+
+Eye disease—Excessive new blood vessels growing in
+the eye can cause vision loss and lead to blindness.
+Antiangiogenic treatments may prevent progressive
+loss of vision or even improve eyesight in patients.
+
+Arthritis—Blood vessels that invade the joint release
+enzymes that destroy cartilage and other tissues in
+arthritis. Antiangiogenic drugs may relieve the arthritic
+pain and prevent bone joint destruction caused by
+these pathological and destructive blood vessels.
+
+Cancer—Tumors recruit their own private blood
+supply to obtain oxygen and nourishment for cancer
+cells. By cutting off tumor vasculature (the arrangement of blood vessels in the body or in a particular
+organ or tissue), antiangiogenesis therapies may literally starve tumors, and prevent their growth and
+spread. Antiangiogenesis may also prove to be useful
+when combined with conventional chemotherapy or
+radiation therapy, as part of a ‘‘multiple warhead’’
+approach to attack cancer via different strategies
+simultaneously.
+Currently, more than 80 antiangiogenic drugs are
+being tested worldwide in human clinical trials
+sponsored by biotechnology and pharmaceutical companies, top medical centers, and the U.S. National
+Cancer Institute. The Angiogenesis Foundation is
+leading the application of antiangiogenic therapy in
+veterinary medicine, for treatment of certain conditions in dogs, cats, and exotic animal species.
+Pro-angiogenic therapy works the opposite way as
+antiangiogenic therapy by using angiogenic growth
+factors or gene therapy to stimulate blood vessel
+growth in tissues that require an improved blood
+supply. A number of angiogenic growth factors and
+gene therapies are currently undergoing clinical trials
+in human patients suffering from the following conditions: ischemic heart disease, stroke, peripheral vascular disease, and chronic wounds.
+Precautions
+Since antiangiogenic therapy is still experimental,
+only people enrolled in a clinical trial of a particular
+drug therapy can use it. The only FDA-approved
+drug, bevacizumab (Avastin), is prescribed to treat
+colon-rectal cancer. Avastin can result in intestinal
+perforation and can cause wounds that have been
+stitched to break open, sometimes causing death.
+Intestinal perforation, sometimes associated with
+abscesses inside the abdomen, occurred throughout
+treatment with Avastin. Symptoms included abdominal pain associated with constipation and vomiting.
+Avastin therapy should be permanently discontinued
+in patients with intestinal perforation or wound
+breaks requiring medical intervention. Serious, and
+in some cases fatal, hemoptysis (coughing up of blood
+or mucus containing blood) has occurred in patients
+with non-small cell lung cancertreated with chemotherapy and Avastin.
+Description
+In the late 1990s, many medical researchers believed
+that the Holy Grail of cancer treatment had been found.
+Antiangiogenesis therapy was safe, elegant, and at first
+apparently effective. But the clinical results soon fell
+short of expectations. The tumors, it seemed, had
+found a way to circumvent even this most ingenious of
+treatment approaches. Despite the setbacks, however,
+angiogenesis remains a very tempting target, and
+researchers are exploring new agents and approaches
+to maximize the effects of antiangiogenic therapies.
+Newer studies have demonstrated that in addition
+to differences in the regulation of new blood vessel formation in cancer compared with normal tissues, the
+actual blood vessels that are ‘‘created’’ in cancers are
+different from those created in normal tissues. These
+differences have allowed a number of antiangiogenic
+drugs to be developed that specifically damage tumorassociated blood vessels and not normal vessels. The
+goal of these drugs is to attack cancers by damaging
+their blood supply. Many antiangiogenic agents also
+appear to hasten the death of tumor-associated blood
+vessels.
+With the success of targeted agents such as the
+biotechnology company Genentech’s Avastin, the
+only antiangiogenic drug approved by the FDA to
+treat cancer, new efforts are underway to widen and
+optimize the field of antiangiogenic agents. As oncology (the study of cancer) drug development accelerates,
+new indications are beginning to emerge for diseases
+such as ocular neovascularization and even obesity.
+Antiangiogenic therapy represents a novel, potentially effective, and non-toxic treatment for cancer. It
+is likely that these drugs will provide the next major
+breakthrough in the management of people and pets
+with cancer. Antiangiogenic therapy will likely
+become part of the conventional treatment of cancer
+and will be used in combination with surgery, radiation therapy and chemotherapy. These agents are
+currently in clinical trials and may become available
+to both people and pets in the near future.
+Antiangiogenic therapy offers a number of advantages over traditional therapies for cancer:
+
+Tumor cells often mutate and become resistant to
+chemotherapy. Because antiangiogenic drugs only
+target normal endothelial cells (a layer of cells that
+lines the inside of certain body cavities, such as blood
+vessels), these cells are less likely to develop acquired
+drug resistance.
+
+All tumors rely upon host vessels. Antiangiogenic
+agents are therefore effective against a broad range
+of cancers.
+
+Conventional chemotherapy and radiotherapy indiscriminately attacks all dividing cells in the body,
+leading to side effects such as diarrhea, mouth ulcers,
+hair loss, and weakened immunity. Antiangiogenic
+drugs selectively target dividing blood vessels and
+cause fewer side effects.
+
+Antiangiogenic drugs are relatively nontoxic and
+work at levels well below the maximum tolerated
+dose, so may be given in lower doses over longer
+periods of time.
+
+Antiangiogenic treatment may take weeks or even
+months to exhibit its full beneficial effect, but this
+allows for continuous, chronic control of disease.
+
+Antiangiogenic drugs may also serve as a powerful
+supplement to traditional chemotherapy or radiation
+therapy.
+Preparation
+Since antiangiogenic drugs are either injected or
+administered orally, little or no preparation is needed.
+For injections, the site should be first swabbed with
+alcohol.
+Aftercare
+Little or no aftercare is needed following the
+administering of antiangiogenic therapy, except for a
+small bandage on the injection site.
+Although many of these agents are currently being
+tested in clinical trials, no reliable way to monitor the
+effects of many, if not most, of these therapeutic
+agents on the inhibition of the complicated process
+of angiogenesis exists. However, in late 2004, scientists
+uncovered critical information that may lead to an
+urgently needed method for effectively monitoring
+antiangiogenic cancer therapies. The research is likely
+to facilitate development of new antiangiogenic drugs
+or treatment strategies and allow for accurate determination of the optimal drug doses to use for such
+therapies. The researchers found that measuring peripheral blood cells can be used as a reliable way to
+monitor antiangiogenic drug activity, which can be
+used to help establish the optimal biologic dose of
+such drugs.
+Risks
+In general, early research has found the side
+effects of antiangiogenesis agents to be mostly minimal. Because these drugs use proteins that are produced in the human body, there is less likelihood that
+they will produce the bad side effects common in
+radiation treatments and chemotherapy. Still, one
+cancer study found that 6 of the 99 patients taking
+an antiangiogenesis drug experienced severe bleeding
+in the tumors being treated. Four of those patients
+died from this complication.
+Since antiangiogenesis drugs could affect a
+developing fetus, they will probably not be used
+for pregnant women or women who might become
+pregnant. They may also need to be stopped before
+surgery, since blood vessels that are cut at such
+times need to repair themselves. Also, people who
+have damaged blood vessels (such as those with
+heart disease or stroke) may not be able to take
+these drugs. Other side effects in people are being
+determined. Doctors, scientists and specialists at
+the FDA will be monitoring these other side effects
+to better understand the toxicity and risks of these
+drugs.
+Normal results
+Since all antiangiogenic therapies are still experimental and in clinical trials, it is difficult to determine
+what normal results should be. The goal of antiangiogenic drugs is to stop the development and spread of
+certain diseases, especially some cancers. At least four
+major proteins and their receptors and signaling pathways commonly govern angiogenesis in solid tumors:
+platelet-derived growth factor, epidermal growth factor, vascular endothelial growth factor (VEGF), and
+fibroblast growth factor (basic and acidic). Therapies
+that either target these molecules or block their signaling pathways should be effective in preventing solid
+tumor growth and spread of the cancer by preventing
+the formation of new blood vessels.

@@ -1,0 +1,235 @@
+Definition
+Electrolytes are positively and negatively charged
+molecules, called ions, that are found within cells,
+between cells, in the bloodstream, and in other fluids
+throughout the body. Electrolytes with a positive
+charge include sodium, potassium, calcium, and
+magnesium; the negative ions are chloride, bicarbonate, and phosphate. The concentrations of these ions
+in the bloodstream remain fairly constant throughout
+the day in a healthy person. Changes in the concentration of one or more of these ions can occur during
+various acute and chronic disease states and can lead
+to serious consequences.
+Purpose
+Tests that measure the concentration of electrolytes
+are useful in the emergency room and to obtain clues for
+the diagnosis of specific diseases. Electrolyte tests are
+used for diagnosing dietary deficiencies, excess loss of
+nutrients due to urination, vomiting, and diarrhea, or
+abnormal shifts in the location of an electrolyte within
+the body. When an abnormal electrolyte value is
+detected, the physician may either act to immediately
+correct the imbalance directly (in the case of an emergency) or run further tests to determine the underlying
+cause of the abnormal electrolyte value. Electrolyte disturbances can occur with malfunctioning of the kidney
+(renal failure), infections that produce severe and
+continual diarrhea or vomiting, drugs that cause loss of
+electrolytes in the urine (diuretics), poisoning due to accidental consumption of electrolytes, or diseases involving
+hormones that regulate electrolyte concentrations.
+Precautions
+Electrolyte tests are performed from routine
+blood tests. The techniques are simple, automated,
+and fairly uniform throughout the United States.
+During the preparation of blood plasma or serum,
+health workers must take care not to break the red
+blood cells, especially when testing for serum potassium. Because the concentration of potassium within
+red blood cells is much higher than in the surrounding
+plasma or serum, broken cells would cause falsely
+elevated potassium levels.
+Description
+Electrolyte tests are typically conducted on blood
+plasma or serum, urine, and diarrheal fluids.
+Electrolytes can be classified in at least five different
+ways. One way is that some electrolytes tend to exist
+mostly inside cells, or are intracellular, while others
+tend to be outside cells, or are extracellular.
+Potassium, phosphate, and magnesium occur at
+much greater levels inside the cell than outside, while
+sodium and chloride occur at much greater levels
+extracellularly. A second classification distinguishes
+those electrolytes that participate directly in the transmission of nerve impulses and those that do not.
+Sodium, potassium, and calcium are the important
+electrolytes involved in nerve impulses, and disorders
+affecting them are most closely associated with neurological disorders. A third classification focuses on
+electrolytes that are able to form a tight union, or
+complex, with one another. Calcium and phosphate
+have the greatest tendency to form complexes with
+each other. Disorders that cause an increase in either
+plasma calcium or phosphate can result in the deposit
+of calcium-phosphate crystals in the soft tissues of the
+body. A fourth classification concerns those electrolytes that influence the acidity or alkalinity of the
+bloodstream, also known as the pH. The pH of the
+bloodstream is normally in the range of 7.35–7.45. A
+decrease below this range is called acidosis, while a pH
+above this range is called alkalosis. The electrolytes
+most closely associated with the pH of the bloodstream are bicarbonate, chloride, and phosphate.
+Preparation
+All electrolyte tests can be performed on plasma
+or serum. Plasma is prepared by withdrawing a blood
+sample and placing it in a test tube containing a chemical that prevents blood from clotting (an anticoagulant). Serum is prepared by withdrawing a blood
+sample, placing it in a test tube, and allowing it to clot.
+The blood spontaneously clots within a minute of
+withdrawing the blood from a vein. The serum or
+plasma is then rapidly spun with a centrifuge in order
+to remove the blood cells or clot.
+Normal results
+Electrolyte concentrations are similar whether
+measured in serum or plasma. Values can be
+expressed in terms of weight per unit volume (mg/
+deciliter; mg/dL) or in the number of molecules in a
+volume, or molarity (moles or millimoles/liter; M or
+mM). The range of normal values sometimes varies
+slightly between different age groups, for males
+and females, and between different analytical
+laboratories.
+The normal level of serum sodium is in the range
+of 136–145 mM. The normal levels of serum potassium are 3.5–5.0 mM. Note that sodium occurs at
+a much higher concentration than potassium. The
+normal concentration of total serum calcium
+(bound calcium plus free calcium) is in the range of
+8.8–10.4 mg/dL. About 40% of the total calcium in the
+plasma is loosely bound to proteins; this calcium is
+referred to as bound calcium. The normal range of free
+calcium is 4.8–5.2 mg/dL. The normal concentration
+of serum magnesium is in the range of 2.0–3.0 mg/dL.
+The normal concentration range of chloride is
+350–375 mg/dL or 98–106 mM. The normal level of
+phosphate, as expressed as the concentration of phosphorus, is 2.0–4.3 mg/dL. Bicarbonate is an electrolyte
+that is freely and spontaneously interconvertable with
+carbonic acid and carbon dioxide. The normal concentration of carbonic acid (H2CO3) is about 1.35
+mM. The normal concentration of bicarbonate
+(HCO3
+–
+) is about 27 mM. The concentration of
+total carbon dioxide is the sum of carbonic acid
+and bicarbonate; this sum is normally in the range of
+26–28 mM. The ratio of bicarbonate/carbonic acid is
+more significant than the actual concentrations of
+these two forms of carbon dioxide. Its normal value
+is 27/1.35 (equivalent to 20/1).
+Abnormal results
+Positively charged electrolytes
+High serum sodium levels (hypernatremia) occur
+at sodium concentrations over 145 mM, with severe
+hypernatremia over 152 mM. Hypernatremia is
+usually caused by diseases that cause excessive urination. In these cases, water is lost, but sodium is still
+retained in the body. The symptoms include confusion
+and can lead to convulsions and coma. Low serum
+sodium levels (hyponatremia) are below 130 mM,
+with severe hyponatremia at or below 125 mM.
+Hyponatremia often occurs with severe diarrhea,
+with losses of both water and sodium, but with sodium
+loss exceeding water loss. Hyponatremia provokes
+clinical problems only if serum sodium falls below
+125 mM, especially if this has occurred rapidly. The
+symptoms can be as mild as tiredness but may lead to
+convulsions and coma.
+High serum potassium (hyperkalemia) occurs at
+potassium levels above 5.0 mM; it is considered severe
+over 8.0 mM. Hyperkalemia is relatively uncommon,
+but sometimes occurs in patients with kidney failure
+who take potassium supplements. Hyperkalemia can
+result in abnormal beating of the heart (cardiac
+arrhythmias). Low serum potassium (hypokalemia)
+occurs when serum potassium falls below 3.0 mM. It
+can result from low dietary potassium, as during starvation or in patients with anorexia nervosa; from
+excessive losses via the kidneys, as caused by diuretic
+drugs; or by diseases of the adrenal or pituitary glands.
+Mild hypokalemia causes muscle weakness, while
+severe hypokalemia can cause paralysis, the inability
+to breathe, and cardiac arrhythmias.
+High levels of calcium ions (hypercalcemia) occur
+at free calcium ion concentrations over 5.2 mg/dL
+or total serum calcium above 10.4 mg/dL.
+Hypercalcemia usually occurs when the body dissolves
+bone at an abnormally fast rate, increasing both serum
+calcium and serum phosphate. Sudden hypercalcemia
+can cause vomiting and coma, while prolonged and
+moderate hypercalcemia results in the deposit of calcium phosphate crystals in the kidneys and eye.
+Hypocalcemia occurs when serum free calcium ions
+fall below 4.4 mg/dL, or when total serum calcium
+falls below 8.8 mg/dL. Hypocalcemia can result from
+hypoparathyroidism (low parathyroid hormone), from
+failure to produce 1,25-dihydroxyvitamin D, from low
+levels of plasma magnesium, and from phosphate poisoning (the phosphate enters the bloodstream and
+forms a complex with the free serum calcium).
+Hypocalcemia can cause depression and muscle
+spasms.
+Hypermagnesemia occurs at serum magnesium
+levels over 25 mM (60 mg/dL). Hypermagnesemia is
+rare but can occur with the excessive consumption of
+magnesium salts. Hypomagnesemia occurs when
+serum magnesium levels fall below 0.8 mM, and can
+result from poor nutrition. Chronic alcoholism is the
+most common cause of hypomagnesemia, in part
+because of poor diet. Magnesium levels below 0.5 mM
+(1.2 mg/dL) cause serum calcium levels to decline.
+Some of the symptoms of hypomagnesemia, including
+twitching and convulsions, actually result from the
+concurrent hypocalcemia. Hypomagnesemia can also
+result in hypokalemia and thereby cause cardiac
+arrhythmias.
+Negatively charged electrolytes
+Serum chloride levels sometimes increase to
+abnormal levels as an undesirable side effect of medical
+treatment with sodium chloride or ammonium chloride. The toxicity of chloride results not from the chloride itself, but from the fact that the chloride occurs as
+the acid, hydrogen chloride (more commonly known
+as hydrochloric acid, or HCl). An overdose of chloride
+may cause the accumulation of hydrochloric acid in
+the bloodstream, with consequent acidosis. Renal
+tubular acidosis, one of many kidney diseases, involves
+the failure to release acid into the urine. The acidosis
+produces weakness, headache, nausea, and cardiac
+arrest. Low plasma chloride leads to the opposite
+situation: a decline in the acid content of the bloodstream. This is known as alkalization of the bloodstream, or alkalosis. Hydrochloric acid, originally
+from extracellular fluids, can be lost by vomiting. At
+its most severe, alkalosis results in paralysis (tetany).
+Hyperphosphatemia occurs at serum phosphate
+levels above 5 mg/dL. It can result from the failure of
+the kidneys to excrete phosphate into the urine, causing phosphate to accumulate in the bloodstream.
+Hyperphosphatemia can also be caused by the
+impaired action of parathyroid hormone and by phosphate poisoning. Severe hyperphosphatemia can cause
+paralysis, convulsions, and cardiac arrest. These
+symptoms result because the phosphate, occurring in
+elevated levels, complexes with free serum calcium,
+resulting in hypocalcemia. Tests for heart function
+(an electrocardiogram) and parathyroid hormone
+levels are used in the diagnosis of hyperphosphatemia.
+Hypophosphatemia occurs if serum phosphorus falls
+to 2.0 mg/dL or lower. It often results from a shift of
+inorganic phosphate from the bloodstream to various
+organs and tissues. This shift can be caused by a rise in
+pH (alkalization) of the bloodstream, which can occur
+during hyperventilation, a reaction in various disease
+states. A shift in phosphate to intracellular tissues may
+draw calcium away from the bloodstream via the formation of insoluble calcium phosphate crystals within
+cells, with consequent hypocalcemia. Thus, tests for
+abnormalities in phosphate metabolism also involve
+tests for serum calcium.
+Bicarbonate metabolism involves several compounds. When dietary starches, sugars, and fats are
+broken down for energy production, carbon dioxide is
+created. Much of this carbon dioxide (CO2) spontaneously converts to carbonic acid (H2CO3), and
+some of the carbonic acid spontaneously converts
+to bicarbonate (HCO3
+–
+) plus a hydrogen ion (H–
+).
+Eventually, almost every molecule of carbon dioxide
+produced in the body, whether in the form of carbon
+dioxide, carbonic acid, or bicarbonate, must convert
+back to carbon dioxide in order to leave via the lungs
+during normal breathing.
+If one holds one’s breath, carbon dioxide cannot
+escape from the lungs, but continues to be generated
+within the body. This results in an increase in production of carbonic acid. A portion of the carbonic acid
+breaks apart (dissociates), causing an increase in
+hydrogen ions in the plasma, with a resulting acidosis.
+Tests for serum bicarbonate levels are accompanied by
+tests for acidosis (pH test). Conversely, when one
+breathes too rapidly (hyperventilation), the carbon
+dioxide is drawn off from the bloodstream and
+expelled in the breath at an increased rate. This results
+in an increase in the rate of combination of bicarbonate with hydrogen ions, resulting in alkalosis.
+Acidosis and alkalosis can be produced by means
+other than by altering the rate of breathing. The carbonic acid and bicarbonate in the bloodstream
+minimize (or buffer) any trend to acidosis or alkalosis.
+Tests for bicarbonate are generally accompanied by
+tests for blood pH and possibly tests for kidney malfunction, abnormal hormone function, or gastrointestinal disorders.

@@ -1,0 +1,193 @@
+Definition
+Enterobacterial infections are disorders of the
+digestive tract and other organ systems produced by
+a group of gram-negative, rod-shaped bacteria called
+Enterobacteriaceae. Gram-negative means that the
+organisms do not retain the violet color of the dye
+used to make Gram stains. The most troublesome
+organism in this group is Escherichia coli. Other
+enterobacteria are species of Salmonella, Shigella,
+Klebsiella, Enterobacter, Serratia, Proteus, and
+Yersinia.
+Description
+Enterobacterial infections can be produced by
+bacteria that normally live in the human digestive
+tract without causing serious disease, or by bacteria
+that enter from the outside. In many cases these infections are nosocomial, which means that they can be
+acquired in the hospital. Klebsiella and Proteus sometimes cause pneumonia, ear and sinus infections, and
+urinary tract infections. Enterobacter and Serratia
+often cause bacterial infection of the blood (bacteremia), particularly in patients with weakened immune
+systems.
+Diarrhea caused by enterobacteria is a common
+problem in the United States. It is estimated that each
+person in the general population has an average of 1.5
+episodes of diarrhea each year, with higher rates in
+children, institutionalized people, and Native
+Americans. This type of enterobacterial infection can
+range from a minor nuisance to a life-threatening disorder, especially in infants, elderly persons, AIDS
+patients, and malnourished people. Enterobacterial
+infections are one of the two leading killers of children
+in developing countries.
+Causes and symptoms
+Causes
+Enterobacterial infections in the digestive tract
+typically start when the organisms invade the mucous
+tissues that line the digestive tract. They may be bacteria that are already present in the stomach and intestines, or they may be transmitted by contaminated
+food and water. It is also possible for enterobacterial
+infections to spread by person-to-person contact. The
+usual incubation period is 12–72 hours.
+ESCHERICHIA COLI INFECTIONS. E. coli infections
+cause most of the enterobacterial infections in the
+United States. The organisms are categorized according to whether they are invasive or noninvasive.
+Noninvasive types of E. coli include what are called
+enteropathogenic E. coli, or EPEC, and enterotoxigenic E. coli, or ETEC. EPEC and ETEC types produce a bacterial poison (toxin) in the stomach that
+interacts with the digestive juices and causes the
+patient to lose large amounts of water through the
+intestines.
+The invasive types of E. coli are called enterohemorrhagic E. coli, or EHEC, and enteroinvasive E.
+coli, or EIEC. These subtypes invade the stomach
+tissues directly, causing tissue destruction and bloody
+stools. EHEC can produce complications leading to
+hemolytic-uremic syndrome (HUS), a potentially fatal
+disorder marked by the destruction of red blood cells
+and kidney failure. EHEC has become a growing problem in the United States because of outbreaks caused
+by contaminated food. A particular type of EHEC
+known as O157:H7 has been identified since 1982 in
+undercooked hamburgers, unpasteurized milk, and
+apple juice. Between 2–7% of infections caused by
+O157:H7 develop into HUS.
+Symptoms
+The symptoms of enterobacterial infections are
+sometimes classified according to the type of diarrhea
+they produce.
+WATERY DIARRHEA. Patients infected with ETEC,
+EPEC, some types of Salmonella, and some types of
+Shigella develop a watery diarrhea. These infections
+are located in the small intestine, result from bacterial
+toxins interacting with digestive juices, do not produce
+inflammation; and do not usually need treatment with
+antibiotics.
+BLOODY DIARRHEA (DYSENTERY). Bloody diarrhea
+is sometimes called dysentery. It is produced by
+EHEC, EIEC, some types of Salmonella, some types
+of Shigella, and Yersinia. In dysentery, the infection is
+located in the colon, cells and tissues are destroyed,
+inflammation is present, and antibiotic therapy is
+usually required.
+NECROTIZING ENTEROCOLITIS (NEC). Necrotizing
+enterocolitis (NEC) is a disorder that begins in newborn infants shortly after birth. Although NEC is not
+yet fully understood, it is thought that it results from a
+bacterial or viral invasion of damaged intestinal tissues. The disease organisms then cause the death
+(necrosis) of bowel tissue or gangrene of the bowel.
+NEC is primarily a disease of prematurity; 60–80% of
+cases occur in high-risk preterm infants. NEC is
+responsible for 2–5% of cases in newborn intensive
+care units (NICU). Enterobacteriaceae that have been
+identified in infants with NEC include Salmonella, E.
+coli, Klebsiella, and Enterobacter.
+Diagnosis
+Patient history
+The diagnosis of enterobacterial infections is complicated by the fact that viruses, protozoa, and other
+types of bacteria can also cause diarrhea. In most cases
+of mild diarrhea, it is not critical to identify the organism
+because the disorder is self-limiting. Some groups of
+patients, however, should have stool tests. They include:
+ patients with bloody diarrhea,
+ patients with watery diarrhea who have become
+dehydrated,
+ patients with watery diarrhea that has lasted longer
+than three days without decreasing in amount,
+ patients with disorders of the immune system.
+The patient history is useful for public health
+reasons as well as helping the doctor determine what
+type of enterobacterium may be causing the infection.
+The doctor will ask about the frequency and appearance of the diarrhea as well as other digestive symptoms. If the patient is nauseated and vomiting, the
+infection is more likely to be located in the small
+intestine. If the patient is running a fever, a diagnosis
+of dysentery is more likely. The doctor will also ask if
+anyone else in the patient’s family or workplace is sick.
+Some types of enterobacteriaceae are more likely to
+cause group outbreaks than others. Other questions
+include the patient’s food intake over the last few days
+and whether he or she has recently traveled to countries with typhoid fever or cholera outbreaks.
+Physical examination
+The most important parts of the physical examination are checking for signs of severe fluid loss and
+examining the abdomen to rule out typhoid fever. The
+doctor will look at the inside of the patient’s mouth
+and evaluate the skin for signs of dehydration. The
+presence of a skin rash and an enlarged spleen suggests
+typhoid rather than a bacterial infection. If the
+patient’s abdomen hurts when the doctor examines
+it, a diagnosis of dysentery is more likely.
+Laboratory tests
+The most common test that is used to identify the
+cause of diarrhea is the stool test. Examining a stool
+sample under a microscope can help to rule out parasitic and protozoal infections. Routine stool cultures,
+however, cannot be used to identify any of the four
+types of E. coli that cause intestinal infections. ETEC,
+EPEC, and EIEC are unusual in the United States and
+can usually be identified only by specialists in research
+laboratories. Because of concern about EHEC outbreaks, however, most laboratories in the United
+States can now screen for O157:H7 with a test that
+identifies its characteristic toxin. All patients with
+bloody diarrhea should have a stool sample tested
+for E. coli O157:H7.
+Treatment
+The initial treatment of enterobacterial diarrhea is
+usually empiric. Empiric means that the doctor treats
+the patient on the basis of the visible symptoms and
+professional experience in treating infections, without
+waiting for laboratory test results. Since the results of
+stool cultures can take as long as two days, it is important to prevent dehydration. The patient will be given
+fluids to restore the electrolyte balance and paregoric
+to relieve abdominal cramping.
+Newborn infants and patients with immune system disorders will be given antibiotics intravenously
+once the organism has been identified. Gentamicin,
+tobramycin, and amikacin are being used more frequently to treat enterobacterial infections because
+many of the organisms are becoming resistant to
+ampicillin and cephalosporin antibiotics.
+Alternative treatment
+Alternative treatments for diarrhea are intended
+to relieve the discomfort of abdominal cramping.
+Most alternative practitioners advise consulting a
+medical doctor if the patient has sunken eyes, dry
+eyes or mouth, or other signs of dehydration.
+Herbal medicine
+Herbalists may recommend cloves taken as an
+infusion or ginger given in drop doses to control intestinal cramps, eliminate gas, and prevent vomiting.
+Peppermint (Mentha piperita) or chamomile
+(Matricaria recutita) tea may also ease cramps and
+intestinal spasms.
+Homeopathy
+Homeopathic practitioners frequently recommend Arsenicum album for diarrhea caused by contaminated food, and Belladonna for diarrhea that
+comes on suddenly with mucus in the stools.
+Veratrum album would be given for watery diarrhea,
+and Podophyllum for diarrhea with few other
+symptoms.
+Prognosis
+The prognosis for most enterobacterial infections
+is good; most patients recover in about a week or 10
+days without needing antibiotics. HUS, on the other
+hand, has a mortality rate of 3–5% even with intensive
+care. About a third of the survivors have long-term
+problems with kidney function, and another 8% develop high blood pressure, seizure disorders, and
+blindness.
+Prevention
+The World Health Organization (WHO) offers
+the following suggestions for preventing enterobacterial infections, including E. coli O157:H7 dysentery:
+ Cook ground beef or hamburgers until the meat is
+thoroughly done. Juices from the meat should be
+completely clear, not pink or red. All parts of the
+meat should reach a temperature of 708C (1588F) or
+higher.
+ Do not drink unpasteurized milk or use products
+made from raw milk.
+ Wash hands thoroughly and frequently, especially
+after using the toilet.
+ Wash fruits and vegetables carefully, or peel them.
+Keep all kitchen surfaces and serving utensils clean.
+ If drinking water is not known to be safe, boil it or
+drink bottled water.
+ Keep cooked foods separate from raw foods, and
+avoid touching cooked foods with knives or other
+utensils that have been used with raw meat.

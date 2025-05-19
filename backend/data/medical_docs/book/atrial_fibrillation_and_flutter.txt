@@ -1,0 +1,166 @@
+Definition
+Atrial fibrillation and flutter are abnormal heart
+rhythms in which the atria, or upper chambers of the
+heart, are out of sync with the ventricles, or lower
+chambers of the heart. In atrial fibrillation, the atria
+‘‘quiver’’ chaotically and the ventricles beat irregularly. In atrial flutter, the atria beat regularly and
+faster than the ventricles.
+Description
+Atrial fibrillation and flutter are two types of
+cardiac arrhythmias, irregularities in the heart’s
+rhythm. Nearly 2 million Americans have atrial fibrillation, according to the American Heart Association.
+It is the most common chronic arrhythmia. Atrial
+flutter is less common, but both of these arrhythmias
+can cause a blood clot to form in the heart. This can
+lead to a stroke or a blockage carried by the blood flow
+(an embolism) anywhere in the body’s arteries. Atrial
+fibrillation is responsible for about 15% of strokes.
+The atria are the heart’s two small upper chambers. In atrial fibrillation, the heart beat is completely irregular. The atrial muscles contract very
+quickly and irregularly; the ventricles, the heart’s
+two large lower chambers, beat irregularly but not
+as fast as the atria. When the atria fibrillate, blood
+that is not completely pumped out can pool and
+form a clot. In atrial flutter, the heart beat is
+usually very fast but steady. The atria beat faster
+than the ventricles.
+Atrial fibrillation often occurs in people with various types of heart disease. Atrial fibrillation may also
+result from an inflammation of the heart’s covering
+(pericarditis), chest trauma or surgery, pulmonary disease, and certain medications. Atrial fibrillation is
+more common in older people; about 10% of people
+over the age of 75 have it. Atrial flutter and fibrillation
+usually occur in people with hypertensive or coronary
+heart disease and other types of heart disorders.
+Causes and symptoms
+In most cases, the cause of atrial fibrillation and
+flutter can be found, but often it cannot. Causes of
+these heart beat abnormalities include:
+ many types of heart disease
+ stress and anxiety
+ caffeine
+  alcohol
+ tobacco
+ diet pills
+ some prescription and over-the-counter medications
+ open heart surgery
+Symptoms, when present, include:
+ a fluttering feeling in the chest
+ a pulse that feels like the heart is skipping, racing,
+jumping, or is irregular
+ low energy
+ a faint or dizzy feeling
+ pressure or discomfort in the chest
+ shortness of breath
+ anxiety
+Diagnosis
+A doctor can sometimes hear these arrhythmias
+using an instrument (a stethoscope) to listen to the
+sounds within the chest. Atrial fibrillation and flutter
+are usually diagnosed through electrocardiography
+(EKGs), an exercise stress test, a 24-hour Holter
+EKG monitor, or a telephone cardiac monitor. An
+EKG shows the heart’s activity and may reveal a
+lack of oxygen (ischemia). Electrodes covered with
+conducting jelly are placed on the patient’s chest,
+arms, and legs. The electrodes send impulses of the
+heart’s activity through a monitor (called an oscilloscope) to a recorder that traces the pattern of the
+impulses onto paper. The test takes about 10 minutes
+and is performed in a doctor’s office. The exercise
+stress test measures how the heart and blood vessels
+respond to work when the patient is exercising on a
+treadmill or a stationary bike. This test is performed in
+a doctor’s office within an exercise laboratory and
+takes 15-30 minutes.
+In 24-hour EKG (Holter) monitoring, the
+patient wears a small, portable tape recorder connected to disks on his/her chest that record the
+heart’s rhythm during normal activities. An EKG
+called transtelephonic monitoring identifies arrhythmias that occur infrequently. Like Holter monitoring, transtelephonic monitoring continues for days
+or weeks and enables patients to send the EKG via
+telephone to a monitoring station when an arrhythmia
+is felt, or to store the information in the recorder and
+transmit it later. Doctors can also use high-frequency
+sound waves (echocardiography) to determine the
+structure and function of the heart. This diagnostic
+method is often helpful to evaluate for underlying
+heart disease.
+Treatment
+Atrial fibrillation and flutter are usually treated
+with medications and/or electrical shock (cardioversion). In some cases, removal of a small portion of the
+heart (ablation), implantation of a pacemaker or a
+cardioverter defibrillator, or maze surgery is needed.
+If the heart rate cannot be quickly controlled,
+electrical cardioversion may be used. Cardioversion,
+the electric shock to the chest wall, is usually performed emergencies. This device briefly suspends the
+heart’s activity and allows it to return to a normal
+rhythm.
+Ablation destroys the heart tissue that causes the
+arrhythmia. The tissue can be destroyed by catheterization or surgery. Radiofrequency catheter ablation,
+performed in a cardiac catheterization laboratory, can
+cure atrial flutter and control the heart rate in atrial
+fibrillation. The patient is awake but sedated. A thin
+tube called a catheter is inserted into a vein and is
+threaded into the heart. At the end of the catheter, a
+device maps the electrical pathways of the heart. A
+cardiologist, a doctor specializing in the heart, uses
+this map to identify the pathway(s) causing the
+arrhythmia, and then eliminates it (them) with bursts
+of high-frequency radio waves. Surgical ablation is
+performed in an operating room under general
+anesthesia. Computerized mapping techniques are
+combined with a cold probe to destroy arrhythmiacausing tissue. Ablation is generally successful. When
+ablation is used for atrial fibrillation, it is usually
+followed by implantation of a pacemaker as well as
+drug therapy.A pacemaker is a battery-powered device about the
+size of a matchbox that is surgically implanted near the
+collarbone to regulate the heart beat. Lead wires
+threaded to the right side of the heart supply electrical
+energy to pace the atria and ventricles. The implantable
+cardioverter defibrillator is a treatment for serious
+arrhythmias. The battery-powered device senses an
+abnormal heart rhythm and automatically provides electrical shock(s). The shock(s) suspends heart activity and
+then allows the heart to initiate a normal rhythm. Wire
+electrodes on the device are attached to the heart. Some
+of the electrodes are attached to the outside of the heart
+and some are attached to the inside of the heart through
+veins. The newest implantable cardioverter defibrillators
+can be implanted in the chest wall and do not require
+open chest surgery. These devices weigh less than 10 oz
+and generally last seven or eight years. An implantable
+cardioverter defibrillator is usually used with drug therapy, but the amount medication is reduced. In maze
+surgery, often the last resort, surgeons create a maze of
+stitches (sutures) that help the heart’s electrical impulses
+travel effectively.
+Most of the drugs used for treatment have potential side effects and should be carefully monitored by a
+doctor. The goal of treatment is to control the rate and
+rhythm of the heart and to prevent the formation of
+blood clots. If the arrhythmia is caused by heart disease, the heart disease will also be treated. The
+American Heart Association recommends aggressive
+treatment.
+A digitalis drug, most commonly digoxin, is
+usually prescribed to control the heart rate. Digitalis
+drugs slow the heart’s electrical impulses, helping to
+restore the normal rate and rhythm. These drugs also
+increase the ability of the heart’s muscular layer to
+contract and pump properly. Beta-blockers and
+calcium channel blockers can also be used for this
+purpose. Beta-blockers slow the speed of electrical
+impulses through the heart. Some calcium channel
+blockers dampen the heart’s response to erratic electrical impulses.
+To prevent blood clots, aspirin or warfarin
+(Coumadin) is administered. Warfarin, however, has
+potential bleeding side effects, especially in older
+patients. Amiodarone is fairly efffective for atrial flutter. This drug is often able to maintain the heart’s
+proper rhythm and can also help control the heart
+rate when the flutter occurs.
+Prognosis
+Patients with atrial fibrillation and flutter can
+live a normal life for many years as long as the
+arrhythmia is controlled and serious blood clots
+are prevented.
+Prevention
+Atrial fibrillation and flutter can sometimes be
+prevented when the cause can be identified and controlled. Depending on the cause, prevention could
+include:
+ treating the underlying heart disease
+ reducing stress and anxiety
+ reducing or stopping consumption of caffeine, alcohol, or tobacco; and/or
+ discontinuing diet pills or other medications (overthe-counter or prescription)

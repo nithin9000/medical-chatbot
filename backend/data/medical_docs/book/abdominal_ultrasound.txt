@@ -1,0 +1,385 @@
+Definition
+
+Ultrasound technology allows doctors to see
+inside a patient without resorting to surgery. A transmitter sends high frequency sound waves into the body,
+where they bounce off the different tissues and organs
+to produce a distinctive pattern of echoes. A receiver
+hears the returning echo pattern and forwards it to a
+computer, which translates the data into an image on a
+television screen. Because ultrasound can distinguish
+subtle variations between soft, fluid-filled tissues, it is
+particularly useful in providing diagnostic images of the
+abdomen. Ultrasound can also be used in treatment.
+
+Purpose
+
+The potential medical applications of ultrasound
+were first recognized in the 1940s as an outgrowth of
+the sonar technology developed to detect submarines
+during World War II. The first useful medical images
+were produced in the early 1950s, and, by 1965, ultrasound quality had improved to the point that it came
+into general medical use. Improvements in the technology, application, and interpretation of ultrasound
+continue. Its low cost, versatility, safety and speed
+have brought it into the top drawer of medical imaging
+techniques.
+While pelvic ultrasound is widely known and commonly used for fetal monitoring during pregnancy,
+ultrasound is also routinely used for general abdominal imaging. It has great advantage over x-ray imaging technologies in that it does not damage tissues
+with ionizing radiation. Ultrasound is also generally
+far better than plain x rays at distinguishing the subtle
+variations of soft tissue structures, and can be used in
+any of several modes, depending on the need at hand.
+As an imaging tool, abdominal ultrasound generally is warranted for patients afflicted with: chronic or
+acute abdominal pain; abdominal trauma; an obvious
+or suspected abdominal mass; symptoms of liver disease, pancreatic disease, gallstones, spleen disease, kidney disease and urinary blockage; or symptoms of an
+abdominal aortic aneurysm. Specifically:
+
+Abdominal pain. Whether acute or chronic, pain can
+signal a serious problem–from organ malfunction or
+injury to the presence of malignant growths.
+Ultrasound scanning can help doctors quickly sort
+through potential causes when presented with general or ambiguous symptoms. All of the major
+abdominal organs can be studied for signs of disease
+that appear as changes in size, shape and internal
+structure.
+
+Abdominal trauma. After a serious accident, such as
+a car crash or a fall, internal bleeding from injured
+abdominal organs is often the most serious threat to
+survival. Neither the injuries nor the bleeding are
+immediately apparent. Ultrasound is very useful as
+an initial scan when abdominal trauma is suspected,
+and it can be used to pinpoint the location, cause,
+and severity of hemorrhaging. In the case of puncture wounds, from a bullet for example, ultrasound
+can locate the foreign object and provide a preliminary survey of the damage. The easy portability and
+versatility of ultrasound technology has brought it
+into common emergency room use, and even into
+limited ambulance service
+
+Abdominal mass. Abnormal growths–tumors, cysts,
+abscesses, scar tissue and accessory organs–can be
+located and tentatively identified with ultrasound. In
+particular, potentially malignant solid tumors can be
+distinguished from benign fluid-filled cysts and
+abscesses. Masses and malformations in any organ
+or part of the abdomen can be found.
+
+Liver disease. The types and underlying causes of
+liver disease are numerous, though jaundice tends
+to be a general symptom. Ultrasound can differentiate between many of the types and causes of liver
+malfunction, and is particularly good at identifying
+obstruction of the bile ducts and cirrhosis, which is
+characterized by abnormal fibrous growths and
+reduced blood flow.
+
+Pancreatic disease. Inflammation and malformation
+of the pancreas are readily identified by ultrasound,
+as are pancreatic stones (calculi), which can disrupt
+proper functioning.
+
+Gallstones. Gallstones cause more hospital admissions
+than any other digestive malady. These calculi can
+cause painful inflammation of the gallbladder and
+also obstruct the bile ducts that carry digestive enzymes
+from the gallbladder and liver to the intestines.
+Gallstones are readily identifiable with ultrasound.
+
+Spleen disease. The spleen is particularly prone to
+injury during abdominal trauma. It may also become
+painfully inflamed when beset with infection or
+cancer. These conditions also lend themselves well
+to ultrasonic inspection and diagnosis.
+
+Kidney disease. The kidneys are also prone to traumatic injury and are the organs most likely to form
+calculi, which can block the flow of urine and cause
+blood poisoning (uremia). A variety of diseases causing
+distinct changes in kidney morphology can also lead to
+complete kidney failure. Ultrasound imaging has proven extremely useful in diagnosing kidney disorders.
+
+Abdominal aortic aneurysm. This is a bulging weak
+spot in the abdominal aorta, which supplies blood
+directly from the heart to the entire lower body.
+These aneurysms are relatively common and increase
+in prevalence with age. A burst aortic aneurysm is
+imminently life-threatening. However, they can be
+readily identified and monitored with ultrasound
+before acute complications result.
+
+Ultrasound technology can also be used for treatment purposes, most frequently as a visual aid during
+surgical procedures–such as guiding needle placement
+to drain fluid from a cyst, or to extract tumor cells for
+biopsy. Increasingly, direct therapeutic applications
+for ultrasound are being developed.
+
+The direct therapeutic value of ultrasonic waves
+lies in their mechanical nature. They are shock waves,
+just like audible sound, and vibrate the materials
+through which they pass. These vibrations are mild,
+virtually unnoticeable at the frequencies and intensities used for imaging. Properly focused however, high intensity ultrasound can be used to heat and physically
+agitate targeted tissues.
+
+High-intensity ultrasound is used routinely to treat
+soft tissue injuries, such as strains, tears and associated
+scarring. The heating and agitation are believed to
+promote rapid healing through increased circulation.
+Strongly focused, high-intensity, high-frequency ultrasound can also be used to physically destroy certain
+types of tumors, as well as gallstones and other types
+of calculi. Developing new treatment applications
+for ultrasound is an active area of medical research.
+
+Precautions
+
+Properly performed, ultrasound imaging is virtually without risk or side effects. Some patients report
+feeling a slight tingling and/or warmth while being
+scanned, but most feel nothing at all. Ultrasound
+waves of appropriate frequency and intensity are not
+known to cause or aggravate any medical condition,
+though any woman who thinks she might be pregnant
+should raise the issue with her doctor before undergoing an abdominal ultrasound.
+The value of ultrasound imaging as a medical tool,
+however, depends greatly on the quality of the equipment used and the skill of the medical personnel operating it. Improperly performed and/or interpreted,
+ultrasound can be worse than useless if it indicates
+that a problem exists where there is none, or fails to
+detect a significant condition. Basic ultrasound equipment is relatively inexpensive to obtain, and any doctor with the equipment can perform the procedure
+whether qualified or not. Patients should not hesitate
+to verify the credentials of technicians and doctors
+performing ultrasounds, as well as the quality of the
+equipment used and the benefits of the proposed
+procedure.
+
+In cases where ultrasound is used as a treatment
+tool, patients should educate themselves about the
+proposed procedure with the help of their doctors–as
+is appropriate before any surgical procedure. Also,
+any abdominal ultrasound procedure, diagnostic or
+therapeutic, may be hampered by a patient’s body
+type or other factors, such as the presence of excessive
+bowel gas (which is opaque to ultrasound). In particular, very obese people are often not good candidates
+for abdominal ultrasound.
+
+Description
+Ultrasound includes all sound waves above the
+frequency of human hearing–about 20 thousand
+hertz, or cycles per second. Medical ultrasound generally uses frequencies between one and 10 million hertz
+(1-10 MHz). Higher frequency ultrasound waves pro￾duce more detailed images, but are also more readily
+absorbed and so cannot penetrate as deeply into the
+body. Abdominal ultrasound imaging is generally per￾formed at frequencies between 2-5 MHz.
+KEY TERMS
+Accessory organ—A lump of tissue adjacent to an
+organ that is similar to it, but which serves no important purpose, if functional at all. While not necessarily harmful, such organs can cause problems if they
+grow too large or become cancerous. In any case,
+their presence points to an underlying abnormality in
+the parent organ.
+Benign—In medical usage, benign is the opposite of
+malignant. It describes an abnormal growth that is
+stable, treatable and generally not life-threatening.
+Biopsy— The surgical removal and analysis of a
+tissue sample for diagnostic purposes. Usually, the
+term refers to the collection and analysis of tissue
+from a suspected tumor to establish malignancy.
+Calculus—Any type of hard concretion (stone) in the
+body, but usually found in the gallbladder, pancreas
+and kidneys. They are formed by the accumulation of
+excess mineral salts and other organic material such
+as blood or mucous. Calculi (pl.) can cause problems
+by lodging in and obstructing the proper flow of fluids,
+such as bile to the intestines or urine to the bladder.
+Cirrhosis—A chronic liver disease characterized by
+the invasion of connective tissue and the degeneration of proper functioning–jaundice is often an
+accompanying symptom. Causes of cirrhosis include
+alcoholism, metabolic diseases, syphilis and congestive heart disease.
+Common bile duct—The branching passage through
+which bile–a necessary digestive enzyme–travels
+from the liver and gallbladder into the small intestine. Digestive enzymes from the pancreas also enter
+the intestines through the common bile duct.
+Computed tomography scan (CT scan)—A specialized type of x-ray imaging that uses highly focused
+and relatively low energy radiation to produce detailed
+two-dimensional images of soft tissue structures, particularly the brain. CT scans are the chief competitor to
+ultrasound and can yield higher quality images not
+disrupted by bone or gas. They are, however, more
+cumbersome, time consuming and expensive to per￾form, and they use ionizing electromagnetic radiation.
+Doppler—The Doppler effect refers to the apparent
+change in frequency of sound wave echoes returning
+to a stationary source from a moving target. If the
+object is moving toward the source, the frequency
+increases; if the object is moving away, the frequency decreases. The size of this frequency shift
+can be used to compute the object’s speed–be it a
+car on the road or blood in an artery. The Doppler
+effect holds true for all types of radiation, not just
+sound.
+Frequency—Sound, whether traveling through air or
+the human body, produces vibrations–molecules
+bouncing into each other–as the shock wave travels
+along. The frequency of a sound is the number of
+vibrations per second. Within the audible range,
+frequency means pitch–the higher the frequency,
+the higher a sound’s pitch.
+Ionizing radiation—Radiation that can damage liv￾ing tissue by disrupting and destroying individual
+cells at the molecular level. All types of nuclear
+radiation–x rays, gamma rays and beta rays–are
+potentially ionizing. Sound waves physically vibrate
+the material through which they pass, but do not
+ionize it.
+Jaundice—A condition that results in a yellow tint to
+the skin, eyes and body fluids. Bile retention in the
+liver, gallbladder and pancreas is the immediate
+cause, but the underlying cause could be as simple
+as obstruction of the common bile duct by a gall￾stone or as serious as pancreatic cancer. Ultrasound
+can distinguish between these conditions.
+Malignant—The term literally means growing worse
+and resisting treatment. It is used as a synonym for
+cancerous and connotes a harmful condition that
+generally is life-threatening.
+Morphology—Literally, the study of form. In medicine, morphology refers to the size, shape and structure rather than the function of a given organ. As a
+diagnostic imaging technique, ultrasound facilitates
+the recognition of abnormal morphologies as symptoms of underlying conditions.
+GALE ENCYCLOPEDIA OF MEDICINE 3
+Abdominal ultrasound
+An ultrasound machine consists of two parts: the
+transducer and the analyzer. The transducer both pro￾duces the sound waves that penetrate the body and
+receives the reflected echoes. Transducers are built
+around piezoelectric ceramic chips. (Piezoelectric
+refers to electricity that is produced when you put
+pressure on certain crystals such as quartz). These
+ceramic chips react to electric pulses by producing
+sound waves ( they are transmitting waves) and react
+to sound waves by producing electric pulses (receiving). Bursts of high frequency electric pulses supplied
+to the transducer causes it to produce the scanning
+sound waves. The transducer then receives the return￾ing echoes, translates them back into electric pulses
+and sends them to the analyzer–a computer that organizes the data into an image on a television screen.
+Because sound waves travel through all the body’s
+tissues at nearly the same speed–about 3,400 miles per
+hour–the microseconds it takes for each echo to be
+received can be plotted on the screen as a distance into
+the body. The relative strength of each echo, a function of the specific tissue or organ boundary that
+produced it, can be plotted as a point of varying
+brightness. In this way, the echoes are translated into
+a picture. Tissues surrounded by bone or filled with
+gas (the stomach, intestines and bowel) cannot be
+imaged using ultrasound, because the waves are
+blocked or become randomly scattered.
+Four different modes of ultrasound are used in
+medical imaging:
+
+A-mode. This is the simplest type of ultrasound in
+which a single transducer scans a line through the
+body with the echoes plotted on screen as a function
+of depth. This method is used to measure distances
+within the body and the size of internal organs.
+Therapeutic ultrasound aimed at a specific tumor
+or calculus is also A-mode, to allow for pinpoint
+accurate focus of the destructive wave energy.
+
+B-mode. In B-mode ultrasound, a linear array of
+transducers simultaneously scans a plane through
+the body that can be viewed as a two-dimensional
+image on screen. Ultrasound probes containing more
+than 100 transducers in sequence form the basis for
+these most commonly used scanners, which cost
+about $50,000.
+
+M-Mode. The M stands for motion. A rapid
+sequence of B-mode scans whose images follow
+each other in sequence on screen enables doctors to
+see and measure range of motion, as the organ
+boundaries that produce reflections move relative
+to the probe. M-mode ultrasound has been put to
+particular use in studying heart motion.
+
+Doppler mode. Doppler ultrasonography includes the
+capability of accurately measuring velocities of mov￾ing material, such as blood in arteries and veins. The
+principle is the same as that used in radar guns that
+measure the speed of a car on the highway. Doppler
+capability is most often combined with B-mode scanning to produce images of blood vessels from which
+blood flow can be directly measured. This technique
+is used extensively to investigate valve defects, arteriosclerosis and hypertension, particularly in the
+heart, but also in the abdominal aorta and the portal
+vein of the liver. These machines cost about
+$250,000.
+The actual procedure for a patient undergoing an
+abdominal ultrasound is relatively simple, regardless
+of the type of scan or its purpose. Fasting for at least
+eight hours prior to the procedure ensures that the
+stomach is empty and as small as possible, and that
+the intestines and bowels are relatively inactive.
+Fasting also allows the gall bladder to be seen, as it
+contracts after eating and may not be seen if the sto￾mach is full. In some cases, a full bladder helps to push
+intestinal folds out of the way so that the gas they
+contain does not disrupt the image. The patient’s
+abdomen is then greased with a special gel that allows
+the ultrasound probe to glide easily across the skin
+while transmitting and receiving ultrasonic pulses.
+This procedure is conducted by a doctor with the
+assistance of a technologist skilled in operating the
+equipment. The probe is moved around the abdomen
+to obtain different views of the target areas. The
+patient will likely be asked to change positions from
+side to side and to hold their breath as necessary to
+obtain the desired views. Discomfort during the procedure is minimal.
+The many types and uses of ultrasound technology makes it difficult to generalize about the time and
+costs involved. Relatively simple imaging–scanning a
+suspicious abdominal mass or a suspected abdominal
+aortic aneurysm–will take about half an hour to per￾form and will cost a few hundred dollars or more,
+depending on the quality of the equipment, the
+operator and other factors. More involved techniques
+such as multiple M-mode and Doppler-enhanced
+scans, or cases where the targets not well defined in
+advance, generally take more time and are more
+expensive.
+Regardless of the type of scan used and the potential
+difficulties encountered, ultrasound remains faster and
+less expensive than computed tomography scans (CT),
+its primary rival in abdominal imaging. Furthermore, as
+abdominal ultrasounds are generally undertaken as
+4 GALE ENCYCLOPEDIA OF MEDICINE
+Abdominal ultrasound
+‘‘medically necessary’’ procedures designed to detect the
+presence of suspected abnormalities, they are covered
+under most types of major medical insurance. As always,
+though, the patient would be wise to confirm that their
+coverage extends to the specific procedure proposed.
+For nonemergency situations, most underwriters stipulate prior approval as a condition of coverage.
+Specific conditions for which ultrasound may be
+selected as a treatment option–certain types of tumors,
+lesions, kidney stones and other calculi, muscle and
+ligament injuries, etc.–are described in detail under
+the appropriate entries in this encyclopedia.
+Preparation
+A patient undergoing abdominal ultrasound will
+be advised by their physician about what to expect and
+how to prepare. As mentioned above, preparations
+generally include fasting and arriving for the procedure with a full bladder, if necessary. This preparation
+is particularly useful if the gallbladder, ovaries or veins
+are to be examined.
+Aftercare
+In general, no aftercare related to the abdominal
+ultrasound procedure itself is required.
+Risks
+Abdominal ultrasound carries with it no recognized risks or side effects, if properly performed using
+appropriate frequency and intensity ranges. Sensitive
+tissues, particularly those of the reproductive organs,
+could possibly sustain damage if violently vibrated by
+overly intense ultrasound waves. In general though,
+such damage would only result from improper use of
+the equipment.
+Any woman who thinks she might be pregnant
+should raise this issue with her doctor before undergoing an abdominal ultrasound, as a fetus in the early
+stages of development could be injured by ultrasound
+meant to probe deeply recessed abdominal organs.
+Normal results
+As a diagnostic imaging technique, a normal
+abdominal ultrasound is one that indicates the absence
+of the suspected condition that prompted the scan.
+For example, symptoms such as a persistent cough,
+labored breathing, and upper abdominal pain suggest
+the possibility of, among other things, an abdominal
+aortic aneurysm. An ultrasound scan that indicates
+the absence of an aneurysm would rule out this lifethreatening condition and point to other, less serious
+causes.
+Abnormal results
+Because abdominal ultrasound imaging is generally undertaken to confirm a suspected condition, the
+results of a scan often will prove abnormal–that is they
+will confirm the diagnosis, be it kidney stones, cirrhosis of the liver or an aortic aneurysm. At that point,
+appropriate medical treatment as prescribed by a
+patient’s doctor is in order. See the relevant disease
+and disorder entries in this encyclopedia for more
+information.
