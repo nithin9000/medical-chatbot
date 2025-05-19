@@ -1,0 +1,576 @@
+Definition
+Alzheimer’s disease (AD) is the most common form
+of dementia, a neurologic disease characterized by loss
+of mental ability severe enough to interfere with normal
+activities of daily living, lasting at least six months, and
+not present from birth. AD usually occurs in old age,
+and is marked by a decline in cognitive functions such as
+remembering, reasoning, and planning.
+Description
+A person with AD usually has a gradual decline in
+mental functions, often beginning with slight memory
+loss, followed by losses in the ability to maintain
+employment, to plan and execute familiar tasks, and to
+reason and exercise judgment. Communication ability,
+mood, and personality also may be affected. Most
+people who have AD die within eight years of their
+diagnosis, although the interval may be as short as one
+year or as long as 20 years. AD is the fourth leading
+cause of death in adults after heart disease, cancer, and
+stroke.
+Between two and four million Americans have
+AD; that number is expected to grow to as many as
+14 million by the middle of the 21st century as the
+population ages. While a small number of people in
+their 40s and 50s develop the disease (called earlyonset AD), AD predominantly affects the elderly.
+AD affects about 3% of all people between ages 65
+and 74, about 19% of those between 75 and 84, and
+about 47% of those over 85. Slightly more women
+than men are affected with AD, but this may be
+because women tend to live longer, leaving a higher
+proportion of women in the most affected age groups.
+The cost of caring for a person with AD is considerable. The annual cost of caring for one AD
+patient in 1998 was estimated as about $18,400 for a
+patient with mild AD, $30,100 for a patient with moderate AD, and $36,100 for a patient with severe AD.
+The annual direct and indirect costs of caring for AD
+patients in the United States was estimated to be as
+much as $100 billion. Slightly more than half of people
+with AD are cared for at home, while the remainder
+are cared for in a variety of health care institutions.
+Causes and symptoms
+Causes
+The cause or causes of Alzheimer’s disease are largely unknown, though some forms have genetic links.
+Some strong leads have been found through recent
+research, however, and these have given some theoretical support to several new experimental treatments.
+At first AD destroys neurons (nerve cells) in parts
+of the brain that control memory, including the
+hippocampus, which is a structure deep in the deep
+that controls short-term memory. As these neurons
+in the hippocampus stop functioning, the person’s
+short-term memory fails, and the ability to perform
+familiar tasks decreases. Later AD affects the cerebral
+cortex, particularly the areas responsible for language
+and reasoning. Many language skills are lost and the
+ability to make judgments is affected. Personality
+changes occur, which may include emotional outbursts, wandering, and agitation. The severity of
+these changes increases with disease progression.
+Eventually many other areas of the brain become
+involved, the brain regions affected atrophy (shrink
+and lose function), and the person with AD becomes
+bedridden, incontinent, helpless, and non-responsive.
+Autopsy of a person with AD shows that the
+regions of the brain affected by the disease become
+clogged with two abnormal structures, called neurofibrillary tangles and amyloid plaques. Neurofibrillary
+tangles are twisted masses of protein fibers inside nerve
+cells, or neurons. In AD, tau proteins, which normally
+help bind and stabilize parts of neurons, are changed
+chemically, become twisted and tangled, and no longer
+can stabilize the neurons. Amyloid plaques consist of
+insoluble deposits of beta-amyloid, (a protein fragment
+from a larger protein called amyloid precursor protein
+(APP), mixed with parts of neurons and non-nerve
+cells. Plaques are found in the spaces between the
+nerve cells of the brain. While it is not clear exactly
+how these structures cause problems, many researchers
+believe that their formation is responsible for the mental changes of AD, presumably by interfering with the
+normal communication between neurons in the brain
+and later leading to the death of neurons. By 2000,
+three drugs for the treatment of AD symptoms were
+approved by the U.S. Food and Drug Administration
+(FDA). They act by increasing the level of chemical
+signaling molecules in the brain, known as neurotransmitters, to make up for this decreased communication
+ability. All act by inhibiting the activity of acetylcholinesterase, which is an enzyme that breaks down
+acetylcholine, an important neurotransmitter released
+by neurons that is necessary for cognitive function.
+These drugs modestly increase cognition and improve
+one’s ability to perform normal activities of daily living.
+Exactly what triggers the formation of plaques
+and tangles and the development of AD is unknown.
+AD likely results from many interrelated factors,
+including genetic, environmental, and others not yet
+identified. Two types of AD exist: familial AD (FAD),
+which is a rare autosomal dominant inherited disease,
+and sporadic AD, with no obvious inheritance pattern. AD also is described in terms of age at onset, with
+early onset AD occurring in people younger than 65,
+and late-onset occurring in those 65 and older. Early
+onset AD comprises about 5-10 % of AD cases and
+affects people aged 30 to 60. Some cases of early onset
+AD are inherited and are common in some families.
+Early-onset AD often progresses faster than the more
+common late-onset type.
+All cases of FAD, which is relatively uncommon,
+that have been identified to date are the early onset
+type. As many as 50% of FAD cases are known to
+be caused by three genes located on three different
+chromosomes. Some families have mutations in the
+APP gene located on chromosome 21, which causes
+the production of abnormal APP protein. Others
+have mutations in a gene called presenilin 1 located
+on chromosome 14, which causes the production of
+abnormal presenilin 1 protein, and others have mutations in a similar gene called presenilin 2 located
+on chromosome 1, which causes production of abnormal presenilin 2. Presenilin 1 may be one of the
+enzymes that clips APP into beta-amyloid; it also
+may be important in the synaptic connections between
+brain cells.
+There is no evidence that the mutated genes that
+cause early onset FAD also cause late onset AD, but
+genetics appears to play a role in this more common
+form of AD. Discovered by researchers at Duke
+University in the early 1990s, potentially the most
+important genetic link to AD was on chromosome 19.
+A gene on this chromosome, called APOE (apolipoprotein E), codes for a protein involved in transporting
+lipids into neurons. APOE occurs in at least three forms
+(alleles), called APOE e2, APOE e3, and APOE e4.
+Each person inherits one APOE from each parent, and
+therefore can either have one copy of two different
+forms, or two copies of one. The relatively rare APOE
+e2 appears to protect some people from AD, as it seems
+to be associated with a lower risk of AD and a later age
+of onset if AD develops. APOE e3 is the most common
+version found in the general population, and only
+appears to have a neutral role in AD. However, APOE
+e4 appears to increase the risk of developing late onset
+AD with the inheritance of one or two copies of APOE
+e4. Compared to those without APOE e4, people with
+one copy are about three times as likely to develop lateonset AD, and those with two copies are almost four
+times as likely to do so. Having APOE e4 also can lower
+the age of onset by as much as 17 years. However,
+APOE e4 only increases the risk of developing AD
+and does not cause it, as not everyone with APOE e4
+develops AD, and people without it can still have the
+disease. Why APOE e4 increases the chances of developing AD is not known with certainty. However, one
+theory is that APOE e4 facilitates beta-amyloid buildup
+in plaques, thus contributing to the lowering of the age
+of onset of AD; other theories involve interactions with
+cholesterol levels and effects on nerve cell death independent of its effects on plaque buildup. In 2000, four
+new AD-related regions in the human genome were
+identified, where one out of several hundred genes in
+each of these regions may be a risk factor gene for AD.
+These genes, which are not yet identified, appear to
+make a contribution to the risk of developing lateonset AD that is at least as important as APOE e4.
+Other non-genetic factors have been studied in
+relation to the causes of AD. Inflammation of the
+brain may play a role in development of AD, and use
+of nonsteroidal anti-inflammatory drugs (NSAIDs)
+were once thought to reduce the risk of developing
+AD. Other agents once thought to reduce chances of
+dementia are now thought to increase its risk. In 2002,
+hormone replacement therapy (HRT), which combines
+estrogen and progestogen, was found to double the
+risk of developing dementia in postmenopausal
+women. Highly reactive molecular fragments called
+free radicals damage cells of all kinds, especially
+brain cells, which have smaller supplies of protective
+antioxidants thought to protect against free radical
+damage. Vitamin E is one such antioxidant, and its
+use in AD may be of possible theoretical benefit.
+While the ultimate cause or causes of Alzheimer’s
+disease still are unknown, there are several risk factors
+that increase a person’s likelihood of developing the
+disease. The most significant one is, of course, age;
+older people develop AD at much higher rates than
+younger ones. There is some evidence that strokes and
+AD may be linked, with small strokes that go undetected clinically contributing to the injury of neurons.
+A 2003 Dutch study reported that symptomless, unnoticed strokes could double the risk of AD and other
+dementias. Blood cholesterol levels also may be
+important. Scientists have shown that high blood
+cholesterol levels in special breeds of genetically
+engineered (transgenic) mice may increase the rate of
+plaque deposition. There are also parallels between
+AD and other progressive neurodegenerative disorders that cause dementia, including prion diseases,
+Parkinson’s disease, and Huntington’s disease.
+Numerous epidemiological studies of populations
+also are being conducted to learn more about whether
+and to what extent early life events, socioeconomic
+factors, and ethnicity have an impact on the development of AD. For example, a 2003 report showed that
+the more formal education a person has, the better his
+or her memory is, despite presence of AD. Other studies have related education level or participation in
+leisure activities such as playing cards or doing crossword puzzles to delayed onset of AD.
+Many environmental factors have been suspected
+of contributing to AD, but epidemiological population studies have not borne out these links. Among
+these have been pollutants in drinking water, aluminum from commercial products, and metal dental fillings. To date, none of these factors has been shown to
+cause AD or increase its likelihood. Further research
+may yet turn up links to other environmental factors.
+Symptoms
+The symptoms of Alzheimer’s disease begin gradually, usually with memory lapses. Occasional memory lapses are of course common to everyone, and do
+not by themselves signify any change in cognitive
+function. The person with AD may begin with only
+the routine sort of memory lapse — forgetting where
+the car keys are — but progress to more profound or
+disturbing losses, such as forgetting that he or she can
+even drive a car. Becoming lost or disoriented on a walk
+around the neighborhood becomes more likely as the
+disease progresses. A person with AD may forget the
+names of family members, or forget what was said at
+the beginning of a sentence by the time he hears the end.
+As AD progresses, other symptoms appear,
+including inability to perform routine tasks, loss of
+judgment, and personality or behavior changes.
+Some people with AD have trouble sleeping and may
+suffer from confusion or agitation in the evening
+(‘‘sunsetting’’ or Sundowner’s Syndrome). In some
+cases, people with AD repeat the same ideas, movements, words, or thoughts. In the final stages people
+may have severe problems with eating, communicating, and controlling their bladder and bowel functions.
+The Alzheimer’s Association has developed a list
+of 10 warning signs of AD. A person with several of
+these symptoms should see a physician for a thorough
+evaluation:
+
+memory loss that affects job skills
+
+difficulty performing familiar tasks
+
+problems with language
+
+disorientation of time and place
+poor or decreased judgment
+
+problems with abstract thinking
+
+misplacing things
+
+changes in mood or behavior
+
+changes in personality
+
+loss of initiative
+Other types of dementia, including some that are
+reversible, can cause similar symptoms. It is important for the person with these symptoms to be evaluated by a professional who can weigh the possibility
+that his or her symptoms may have another cause.
+Approximately 20% of those originally suspected of
+having AD turn out to have some other disorder;
+about half of these cases are treatable.
+Diagnosis
+Diagnosis of Alzheimer’s disease is complex, and
+may require office visits to several different specialists
+over several months before a diagnosis can be made.
+While a confident provisional diagnosis may be made
+in most cases after thorough testing, AD cannot be
+diagnosed definitively until autopsy examination of
+the brain for plaques and neurofibrillary tangles.
+The diagnosis of AD begins with a thorough
+physical exam and complete medical history. Except
+in the disease’s earliest stages, accurate history from
+family members or caregivers is essential. Since there
+are both prescription and over-the-counter drugs
+that can cause the same mental changes as AD, a
+careful review of the patient’s drug, medicine, and
+alcohol use is important. AD-like symptoms also
+can be provoked by other medical conditions, including tumors, infection, and dementia caused by mild
+strokes (multi-infarct dementia). These possibilities
+must be ruled out as well through appropriate blood
+and urine tests, brain magnetic resonance imaging
+(MRI), positron emission tomography (PET) or single photon emission computed tomography (SPECT)
+scans, tests of the brain’s electrical activity (electroencephalographs or EEGs), or other tests. Several
+types of oral and written tests are used to aid in the
+AD diagnosis and to follow its progression, including
+tests of mental status, functional abilities, memory,
+and concentration. Still, the neurologic exam is
+normal in most patients in early stages.
+One of the most important parts of the diagnostic
+process is to evaluate the patient for depression and
+delirium, since each of these can be present with AD, or
+may be mistaken for it. (Delirium involves a decreased
+consciousness or awareness of one’s environment.)
+Depression and memory loss both are common
+in the elderly, and the combination of the often can
+be mistaken for AD. On the other hand, depression
+can be a risk factor for AD. A 2003 study showed that
+a history of depressive symptoms can be associated
+with nearly twice the risk of eventually developing
+AD. Depression can be treated with drugs, although
+some antidepressants can worsen dementia if it is
+present, further complicating both diagnosis and
+treatment.
+An early and accurate diagnosis of AD is important in developing strategies for managing symptoms
+and for helping patients and their families planning
+for the future and pursuing care options while the
+patient can still take part in the decision-making
+process.
+A genetic test for the APOE e4 gene is available,
+but is not used for diagnosis, since possessing even two
+copies does not ensure that a person will develop AD.
+In addition, access to genetic information could affect
+the insurability of a patient if disclosed, and also affect
+employment status and legal rights.
+Treatment
+Alzheimer’s disease is presently incurable. Recent
+reports show that prompt intervention can slow decline
+from AD. The use of medications mentioned below as
+early as possible in the course of AD can help people
+with the disease maintain independent function as long
+as possible. The remaining treatment for a person with
+AD is good nursing care, providing both physical and
+emotional support for a person who is gradually able to
+do less and less for himself, and whose behavior is
+becoming more and more erratic. Modifications of the
+home to increase safety and security often are necessary. The caregiver also needs support to prevent anger,
+despair, and burnout from becoming overwhelming.
+Becoming familiar with the issues likely to lie ahead,
+and considering the appropriate financial and legal
+issues early on, can help both the patient and family
+cope with the difficult process of the disease. Regular
+medical care by a practitioner with a non-defeatist
+attitude toward AD is important so that illnesses such
+as urinary or respiratory infections can be diagnosed
+and treated properly, rather than being incorrectly
+attributed to the inevitable decline seen in AD.
+People with AD often are depressed or anxious,
+and may suffer from sleeplessness, poor nutrition, and
+general poor health. Each of these conditions is treatable to some degree. It is important for the person
+with AD to eat well and continue to exercise.
+Professional advice from a nutritionist may be useful
+to provide healthy, easy-to-prepare meals. Finger
+foods may be preferable to those requiring utensils to
+be eaten. Regular exercise (supervised if necessary for
+safety) promotes overall health. A calm, structured
+environment with simple orientation aids (such as
+calendars and clocks) may reduce anxiety and increase
+safety. Other psychiatric symptoms, such as depression, anxiety, hallucinations (seeing or hearing things
+that aren’t there), and delusions (false beliefs) may be
+treated with drugs if necessary.
+Drugs
+As of 2003, four drugs—tacrine (Cognex), donepezil hydrochloride (Aricept), and rivastigmine
+(Exelon)—have been approved by the FDA for its
+treatment. Tacrine has been shown to be effective for
+improving memory skills, but only in patients with
+mild-to-moderate AD, and even then in less than half
+of those who take it. Its beneficial effects are usually
+mild and temporary, but it may delay the need for
+nursing home admission. The most significant side
+effect is an increase in a liver enzyme known as alanine
+aminotransferase, or ALT. Patients taking tacrine
+must have a weekly blood test to monitor their ALT
+levels. Other frequent side effects include nausea,
+vomiting, diarrhea, abdominal pain, indigestion, and
+skin rash. The cost of tacrine was about $125 per
+month in early 1998, with additional costs for the
+weekly blood monitoring. Despite its high cost, tacrine
+appears to be cost-effective for those who respond to
+it, since it may decrease the number of months a
+patient needs nursing care. Donepezil is the drug
+most commonly used to treat mild to moderate symptoms of AD, although it only helps some patients for
+periods of time ranging from months to about two
+years. Donepezil has two advantages over tacrine: it
+has fewer side effects, and it can be given once daily
+rather than three times daily. Donepezil does not
+appear to affect liver enzymes, and therefore does
+not require weekly blood tests. The frequency of
+abdominal side effects is also lower. The monthly
+cost is approximately the same. Rivastigmine,
+approved for use in April of 2000, has been shown to
+improve the ability of patients to carry out daily activities, such as eating and dressing, decrease behavioral
+symptoms such as delusions and agitation, and improve
+cognitive functions such as thinking, memory, and
+speaking. The cost is similar to those of the other
+two drugs. However, none of these three drugs stops
+or reverses the progression of AD. Galantamine
+(Reminyl) works in the early and moderates stages
+of AD. It has fewer side effects than other drugs,
+with the exception of donepezil and must be taken
+twice a day. Three other drugs were being tested for
+AD treatment in mid-2003.
+Estrogen, the female sex hormone, is widely prescribed for post-menopausal women to prevent osteoporosis. Studies once showed that estrogen was
+beneficial to women with AD, but in 2003, a large
+clinical trial called the Women’s Health Initiative
+showed dementia among other negative effects of
+combined estrogen therapy.
+Preliminary studies once suggested a reduced risk
+for developing AD in elderly people who regularly used
+nonsteroidal anti-inflammatory drugs (NSAIDs),
+including aspirin, ibuprofen, and naproxen, although
+not acetaminophen. However, an important study
+published in 2003 showed that NSAIDs were not effective in preventing or slowing the progression of AD.
+The study authors recommended that people stop
+taking NSAIDs to slow dementia.
+Antioxidants, which act to inhibit and protect
+against oxidative damage caused by free radicals, have
+been shown to inhibit toxic effects of beta-amyloid in
+tissue culture. Therefore, research is being conducted
+to see whether antioxidants may delay or prevent AD.
+Another antioxidant, vitamin E, is also thought
+to delay AD onset. Hoever, it is not yet clear whether
+this is due to the specific action of vitamin E on brain
+cells, or to an increase in the overall health of those
+taking it.
+Drugs such as antidepressants, anti-psychotics,
+and sedatives are used to treat the behavioral symptoms (agitation, aggression, wandering, and sleep disorders) of AD. Research is being conducted to search
+for better treatments, including non-drug approaches
+for AD patients.
+Nursing care and safety
+The person with Alzheimer’s disease will gradually lose the ability to dress, groom, feed, bathe, or use
+the toilet by himself; in the later stages of the disease,
+he may be unable to move or speak. In addition, the
+person’s behavior becomes increasingly erratic. A
+tendency to wander may make it difficult to leave
+him unattended for even a few minutes and make
+even the home a potentially dangerous place. In
+addition, some people with AD may exhibit inappropriate sexual behaviors.
+The nursing care required for a person with AD is
+well within the abilities of most people to learn. The
+difficulty for many caregivers comes in the constant
+but unpredictable nature of the demands put on them.
+In addition, the personality changes undergone by a
+person with AD can be heartbreaking for family members as a loved one deteriorates, seeming to become a
+different person. Not all people with AD develop
+negative behaviors. Some become quite gentle, and
+spend increasing amounts of time in dreamlike states.
+A loss of good grooming may be one of the early
+symptoms of AD. Mismatched clothing, unkempt hair,
+and decreased interest in personal hygiene become
+more common. Caregivers, especially spouses, may
+find these changes socially embarrassing and difficult
+to cope with. The caregiver usually will need to spend
+increasing amounts of time on grooming to compensate
+for the loss of attention from the patient, although
+some adjustment of expectations (while maintaining
+cleanliness) is often needed as the disease progresses.
+Proper nutrition is important for a person with
+AD, and may require assisted feeding early on, to
+make sure the person is taking in enough nutrients.
+Later on, as movement and swallowing become difficult, a feeding tube may be placed into the stomach
+through the abdominal wall. A feeding tube requires
+more attention, but is generally easy to care for if the
+patient is not resistant to its use.
+For many caregivers, incontinence becomes the
+most difficult problem to deal with at home, and is a
+principal reason for pursuing nursing home care. In
+the early stages, limiting fluid intake and increasing
+the frequency of toileting can help. Careful attention
+to hygiene is important to prevent skin irritation and
+infection from soiled clothing.
+Persons with dementia must deal with six basic
+safety concerns: injury from falls, injury from ingesting dangerous substances, leaving the home and getting lost, injury to self or others from sharp objects,
+fire or burns, and the inability to respond rapidly to
+crisis situations. In all cases, a person diagnosed with
+AD should no longer be allowed to drive, because of
+the increased potential for accidents and the increased
+likelihood of wandering very far from home while
+disoriented. In the home, simple measures such as
+grab bars in the bathroom, bed rails on the bed, and
+easily negotiable passageways can greatly increase
+safety. Electrical appliances should be unplugged and
+put away when not in use, and matches, lighters, knives, or weapons should be stored safely out of reach.
+The hot water heater temperature may be set lower
+to prevent accidental scalding. A list of emergency
+numbers, including the poison control center and the
+hospital emergency room, should be posted by the
+phone. As the disease progresses, caregivers need to
+periodically reevaluate the physical safety of the home
+and introduce new strategies for continued safety.
+Care for the caregiver
+Family members or others caring for a person with
+AD have an extremely difficult and stressful job, which
+becomes harder as the disease progresses. Dementia
+caregivers spend significantly more time on caregiving
+than do people providing care for those with other
+types of illnesses. This type of caregiving also has a
+greater impact in terms of employment complications,
+caregiver strain, mental and physical health problems,
+time for leisure and other family members, and family
+conflict than do other types of caregiving. It is common
+for AD caregivers to develop feelings of anger, resentment, guilt, and hopelessness, in addition to the sorrow
+they feel for their loved one and for themselves.
+Depression is an extremely common consequence of
+being a full-time caregiver for a person with AD.
+Support groups are an important way to deal with the
+stress of caregiving. Becoming a member of an AD
+caregivers’ support group can be one of the most
+important things a family member does, not only for
+him or herself, but for the person with AD as well. The
+location and contact numbers for AD caregiver support groups are available from the Alzheimer’s
+Association; they also may be available through a
+local social service agency, the patient’s physician, or
+pharmaceutical companies that manufacture the drugs
+used to treat AD. Medical treatment for depression
+may be an important adjunct to group support.
+Outside help, nursing homes, and governmental
+assistance
+Most families eventually need outside help to
+relieve some of the burden of around-the-clock care
+for a person with AD. Personal care assistants, either
+volunteer or paid, may be available through local social
+service agencies. Adult daycare facilities are becoming
+increasingly common. Meal delivery, shopping assistance, or respite care may be available as well.
+Providing the total care required by a person
+with late-stage AD can become an overwhelming
+burden for a family, even with outside help. At this
+stage, many families consider nursing home care.
+This decision often is one of the most difficult for
+the family, since it is often seen as an abandonment of
+the loved one and a failure of the family. Careful
+counseling with a sympathetic physician, clergy, or
+other trusted adviser may ease the difficulties of this
+transition. Selecting a nursing home may require a
+difficult balancing of cost, services, location, and
+availability. Keeping the entire family involved in
+the decision may help prevent further stress from
+developing later on.
+Several federal government programs may ease the
+cost of caring for a person with AD, including Social
+Security Disability, Medicare, and Supplemental
+Security Income. Each of these programs may provide
+some assistance for care, medication, or other costs,
+but none of them will pay for nursing home care indefinitely. Medicaid is a state-funded program that may
+provide for some or all of the cost of nursing home care,
+although there are important restrictions. Details of
+the benefits and eligibility requirements of these programs are available through the local Social Security
+or Medicaid office, or from local social service agencies.
+Private long-term care insurance, special ‘‘reverse
+mortgages,’’ viatical insurance, and other financial
+devices are other ways of paying for care for those
+with the appropriate financial situations. Further
+information on these options may be available
+through resources listed below.
+Alternative treatment
+Several substances are currently being tested
+for their ability to slow the progress of Alzheimer’s
+disease. These include acetylcarnitine, a supplement
+that acts on the cellular energy structures known as
+mitochondria. Ginkgo extract, derived from the leaves
+of the Ginkgo biloba tree, appears to have antioxidant
+as well as anti-inflammatory and anticoagulant properties. Ginkgo extract has been used for many years
+in China and is widely prescribed in Europe for treatment of circulatory problems. A 1997 study of patients
+with dementia seemed to show that ginkgo extract
+could improve their symptoms, though the study was
+criticized for certain flaws in its method. Large scale
+follow-up studies are being conducted to determine
+whether Ginkgo extract can prevent or delay the
+development of AD. Ginkgo extract is available in
+many health food or nutritional supplement stores.
+Some alternative practitioners also advise people
+with AD to take supplements of phosphatidylcholine,
+vitamin B12, gotu kola, ginseng, St. Johnos Wort, ˜
+rosemary, saiko-keishi-to-shakuyaku (A Japanese
+herbal mixture), and folic acid.
+Prognosis
+While Alzheimer’s disease may not be the direct
+cause of death, the generally poorer health of a person
+with AD increases the risk of life-threatening infection, including pneumonia. In addition, other diseases
+common in old age–cancer, stroke, and heart disease–
+may lead to more severe consequences in a person with
+AD. On average, people with AD live eight years past
+their diagnosis, with a range from one to 20 years.
+Prevention
+Currently, there is no sure way to prevent
+Alzheimer’s disease. treatments discussed above may
+eventually be proven to reduce the risk of developing
+the disease. Avoiding risks such as hormone replacement therapy may help prevent development of AD.
+Research on the prevention of AD is focusing on
+blocking the production of amyloid in the brain as well
+as breaking down beta-amyloid once it is released
+from cells but before it has a chance to aggregate
+into insoluble plaques. There also are promising
+studies being conducted to develop an AD vaccine,
+where immune responses may result in the elimination
+of the formation of amyloid plaques.
+The Alzheimer’s Disease Research Centers
+(ADCs) program promotes research, training and
+education, technology transfer, and multicenter and
+cooperative studies in AD, other dementias, and normal brain aging. Each ADC enrolls and performs
+studies on AD patients and healthy older people.
+Persons can participate in research protocols and
+clinical drug trials at these centers. Data from the
+ADCs as well as from other sources are coordinated
+and made available for use by researchers at the
+National Alzheimer’s Coordinating Center, established in 1999.

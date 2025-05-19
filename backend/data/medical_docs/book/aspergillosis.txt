@@ -1,0 +1,181 @@
+Definition
+Aspergillosis refers to several forms of disease
+caused by a fungus in the genus Aspergillus.
+Aspergillosis fungal infections can occur in the ear
+canal, eyes, nose, sinus cavities, and lungs. In some
+individuals, the infection can even invade bone and the
+membranes that enclose the brain and spinal cord
+(meningitis).
+Description
+Aspergillosis is primarily an infection of the lungs
+caused by the inhalation of airborne spores of the
+fungus Aspergillus. Spores are the small particles that
+most fungi use to reproduce. Although virtually everyone is exposed to this fungus in their daily environment, it rarely causes disease. When Aspergillus does
+cause disease, however, it usually occurs in those
+individuals with weakened immune systems (immunocompromised) or who have a history of respiratory
+ailments. Because it does not present distinctive symptoms, aspergillosis is generally thought to be underdiagnosed and underreported. Furthermore, many
+patients with the more severe forms of aspergillosis
+tend to have multiple, complex health problems, such
+as AIDS or a blood disorder like leukemia, which can
+further complicate diagnosis and treatment.
+Once considered particularly rare, the incidence of
+reported aspergillosis has risen somewhat with the
+development of more sophisticated methods of diagnosis and advances made in other areas of medicine,
+such as with the increased use of certain chemotherapeutic and corticosteroid drugs that are extremely
+useful in treating various types of cancer but that
+decrease the individual’s immune response, making
+them more susceptible to other diseases like
+aspergillosis.
+Our advanced ability to perform tissue and organ
+transplants has also increased the number of people
+vulnerable to fungal infections. Transplant recipients,
+particularly those receiving bone marrow or heart
+transplants, are highly susceptible to Aspergillus,
+which may be circulating in the hospital air.
+Aspergillosis can be a serious, potentially deadly
+threat for two primary reasons:
+ Aspergillosis usually occurs in those individuals who
+are already ill or have weakened immune systems,
+such as patients who have undergone chemotherapy
+for cancer.
+ None of the currently available antifungal drugs are
+reliably effective against Aspergillus.
+Causes and symptoms
+Airborne Aspergillus spores enter the body primarily through inhalation but can also lodge in the
+ear or eye. Normally functioning immune systems are
+generally able to cope without consequent development of aspergillosis.
+It is important to make distinctions between the
+various forms of aspergillosis, as the treatment and
+prognosis varies considerably among types.
+Aspergillosis as a diagnosis refers to three general
+forms:
+ Allergic bronchopulmonary aspergillosis (ABPA) is
+seen in patients with long-standing asthma, particularly in patients taking oral corticosteroids for a long
+period of time. This is usually the least serious and
+most treatable form.
+ Aspergilloma refers to the mass formed when fungal
+spores settle into or colonize areas of the lung that
+have been pitted and scarred as a result of tuberculosis or prior pneumonia. There are several available
+treatments, although the success rate varies with each
+treatment.
+ Invasive fungal infection refers to rare cases in which
+the fungus spreads throughout the body via the
+blood stream and invades other organ systems.
+Once established, invasive fungal infections are
+extremely difficult to cure and, as a result, the associated death rate is extremely high.
+Diagnosis
+Aspergillosis can be quite difficult to diagnose
+because the symptoms, such as coughing and wheezing,
+if present at all, are common to many respiratory
+disorders. Furthermore, blood and sputum cultures
+are not very helpful. The presence of Aspergillus is
+so common, even in asthmatics, that a positive culture
+alone is insufficient for a diagnosis. Other, potentially
+more useful, screening tools include examining the
+sample obtained after repeatedly washing the bronchial
+tubes of the lung with water (bronchial lavage), but
+examining a tissue sample (biopsy) is the most reliable
+diagnostic tool. Researchers are currently attempting
+to develop a practical, specific, and rapid blood test
+that would confirm Aspergillus infection.
+Signs of ABPA include a worsening of bronchial
+asthma accompanied by a low-grade fever. Brown flecks
+or clumps may be seen in the sputum. Pulmonary
+function tests may show decreased blood flow, suggesting an obstruction within the lungs. Elevated blood levels
+of an antibody produced in response to Aspergillus and
+of certain immune system cells may indicate a specific
+allergic-type immune system response.
+A fungal mass (aspergilloma) in the lung usually
+does not produce clear symptoms and is generally diagnosed when seen on chest x rays. However, 70% or
+more of patients spit up blood from the lungs (hemoptysis) at least once, and this may become repetitive and
+serious. Hemoptysis, then, is another indication that
+the patient may be suffering from an aspergilloma.
+In patients with lowered immune systems who are
+at risk for developing invasive aspergillosis, the physician may use a combination of blood culture with
+visual diagnostic techniques, such as computed tomography scans (CT) and radiography, to arrive at a
+likely diagnosis.
+Treatment
+The treatment method selected depends on the
+form of aspergillosis. ABPA can usually be treated
+with many of the same drugs used to treat asthma,
+such as systemic steroids. Long-term therapy may be
+required, however, to prevent recurrence. Antifungal
+agents are not recommended in the treatment of
+ ABPA. In cases of aspergilloma, it may become necessary to surgically remove or reduce the size of a fungal
+mass, especially if the patient continues to spit up
+blood. In aspergillosis cases affecting the nose and
+nasal sinuses, surgery may also be required.
+In non-ABPA cases, the use of antifungal drugs
+may be indicated. In such cases, amphotericin B
+(Fungizone) is the first-line therapy. The prescribed
+dose will depend on the patient’s condition but usually
+begins with a small test dose and then escalates. Less
+than one-third of patients are likely to respond to
+amphotericin B, and its side effects often limit its use.
+For patients who do not respond to oral amphotericin
+B, another option is a different formulation of the
+same drug called liposomal amphotericin B.
+For patients who fail to respond or who cannot
+tolerate amphotericin B, another drug called itraconazole (Sporanox), given 400-600 mg daily, has also been
+approved. Treatment generally lasts about 3 months.
+Giving itraconazole can produce adverse reactions if
+prescribed in combination with certain other drugs by
+increasing the concentrations of both drugs in the
+blood and creating a potentially life-threatening situation. Even antacids can significantly affect itraconazole levels. As a result, drug levels must be continually
+monitored to ensure that absorption is occurring at
+acceptable levels.
+Two other methods of treatment are being
+studied: direct instillation of an antifungal agent
+into the lungs and administration of antifungals
+using a nebulizer. Instilling or injecting amphotericin B or itraconazole directly into the lung cavity
+or into the fungal ball (aspergilloma) itself has
+been helpful in stopping episodes of hemoptysis,
+but not in preventing future recurrences.
+Furthermore, many patients with aspergillomas
+are poor risks for surgery because their lung function is already compromised. As a result, instillation of a fungal agent should only be considered in
+those who have significant hempotysis.
+A popular method of treating some respiratory
+disorders is to add a liquid drug to another carrier liquid
+and aerosolize or produce a fine mist that can be inhaled
+into the lungs through a device called a nebulizer.
+However, this has not yet been shown to improve the
+patient’s condition in cases of aspergillosis, possibly
+because the drug is not reaching the aspergilloma.
+At this point, preventative therapy for aspergillosis is not suggested for susceptible individuals, primarily because overuse of the drugs used to fight fungal
+infections may lead to the development of drugresistant aspergillosis against which current antifungal
+drugs are no longer effective.
+Prognosis
+The likelihood of recovery from aspergillosis
+depends on any underlying medical conditions, the
+patient’s general health, and the specific type of aspergillosis. If the problem is based on an allergic response,
+as in ABPA, the patient will likely respond well to
+systemic steroids.
+Patients who require lung surgery, especially those
+who have problems with coughing up blood, have a
+mortality rate of about 7-14%, and complications or
+recurrence may result in a higher overall death rate.
+However, by treating aspergilloma with other, nonsurgical methods, that risk rises to 26%, making surgery a better option in some cases.
+Unfortunately, the prognosis for the most serious
+form, invasive aspergillosis, is quite poor, largely
+because these patients have little resilience due to
+their underlying disorders. Death rates have ranged
+from about 50% in some studies to as high as 95% for
+bone-marrow recipients and patients with AIDS. The
+course of the illness can be rapid, resulting in death
+within a few months of diagnosis.
+Prevention
+Fungal infection by Aspergillus presents a major
+challenge, particularly in the patient with a suppressed
+immune system (immunocompromised). Hospitals
+and government health agencies continually seek
+ways to minimize exposure for hospitalized patients.
+Practical suggestions are minimal but include moving
+leaf piles away from the house. Unfortunately, overall
+avoidance of this fungus is all but impossible because
+it is present in the environment virtually everywhere.
+Research efforts are being directed at enhancing
+patients’ resistance to Aspergillus rather than trying
+to eliminate exposure to the fungus. Given the growing number of people with immune disorders or whose
+immune systems have been suppressed in the course of
+treating another disease, research and clinical trials
+for new antifungal agents will be increasingly important in the future.

@@ -1,0 +1,87 @@
+Definition
+Diabetic ketoacidosis is a dangerous complication
+of diabetes mellitus in which the chemical balance of
+the body becomes far too acidic.
+Description
+Diabetic ketoacidosis (DKA) always results from
+a severe insulin deficiency. Insulin is the hormone
+secreted by the body to lower the blood sugar levels
+when they become too high. Diabetes mellitus is the
+disease resulting from the inability of the body to
+produce or respond properly to insulin, required by
+the body to convert glucose to energy. In childhood
+diabetes, DKA complications represent the leading
+cause of death, mostly due to the accumulation of
+abnormally large amounts of fluid in the brain (cerebral edema). DKA combines three major features:
+hyperglycemia, meaning excessively high blood sugar
+kevels; hyperketonemia, meaning an overproduction
+of ketones by the body; and acidosis, meaning that the
+blood has become too acidic.
+Insulin deficiency is responsible for all three conditions: the body glucose goes largely unused since
+most cells are unable to transport glucose into the
+cell without the presence of insulin; this condition
+makes the body use stored fat as an alternative source
+instead of the unavailable glucose for energy, a process
+that produces acidic ketones, which build up because
+they require insulin to be broken down. The presence
+of excess ketones in the bloodstream in turn causes the
+blood to become more acidic than the body tissues,
+which creates a toxic condition.
+Causes and symptoms
+DKA is most commonly seen in individuals with
+type I diabetes, under 19 years of age and is usually
+caused by theinterruption of theirinsulin treatment or by
+acuteinfection or trauma.A small number of people with
+type II diabetes also experience ketoacidosis, but this is
+rare given the fact that type IIdiabetics stillproduce some
+insulin naturally. When DKA occurs in type II patients,
+it is usually caused by a decrease in food intake and an
+increased insulin deficiency due to hyperglycemia.
+Some common DKA symptoms include:
+ high blood sugar levels
+ frequent urination (polyuria) and thirst
+ fatigue and lethargy
+ nausea
+ vomiting
+ abdominal pain
+ fruity odor to breath
+ rapid, deep breathing
+ muscle stiffness or aching
+ coma
+Diagnosis
+Diagnosis requires the demonstration of hyperglycemia, hyperketonemia, and acidosis. DKA is
+established if the patient’s urine or blood is strongly
+positive for glucose and ketones. Normal glucose
+levels in a non-diabetic person on average range from
+80–110 mg/dl. A person with diabetes will typically
+fluctuate outside those parameters. DKA glucose
+levels exceed 250 mg/dl and can reach 400 to 800 mg/
+dL. A low serum bicarbonate level (usually below 15
+mEq/L) is also present, indicative of acidosis.
+A blood test or urinalysis can quickly determine
+the concentration of glucose in the bloodstream. Test
+strips are available to patients commercially can submerge in urine to detect the presence or concentration
+of ketones.
+Treatment
+Ketoacidosis is treated under medical supervision
+and usually in a hospital setting.
+Basic treatment includes:
+ administering insulin to correct the hyperglycemia
+and hyperketonemia
+ replacing fluids lost through excessive urination and
+vomiting intravenously
+ balancing electrolytes to re-establish the chemical
+equilibrium of the blood and prevent potassium deficiency (hypokalemia) during treatment
+ treatment for any associated bacterial infection
+Prognosis
+With proper medical attention, DKA is almost
+always successfully treated. The DKA mortality rate is
+about 10%. Coma on admission adversely affects the
+prognosis. The major causes of death are circulatory
+collapse, hypokalemia, infection, and cerebral edema.
+Prevention
+Once diabetes has been diagnosed, prevention measures to avoid DKA include regular monitoring of
+blood glucose, administration of insulin, and lifestyle
+maintenance. Glucose monitoring is especially important during periods of stress, infection, and trauma when
+glucose concentrations typically increase as a response
+to these situations. Ketone tests should also be performed during these periods or when glucose is elevated.

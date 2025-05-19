@@ -1,0 +1,113 @@
+Definition
+Antiretroviral drugs inhibit the reproduction of
+retroviruses—viruses composed of RNA rather than
+ DNA. The best known of this group is HIV, human
+immunodeficiency virus, the causative agent of AIDS.
+Purpose
+Antiretroviral agents are virustatic agents which
+block steps in the replication of the virus. The drugs
+are not curative; however continued use of drugs,
+particularly in multi-drug regimens, significantly
+slows disease progression.
+Description
+There are three main types of antiretroviral drugs,
+although only two steps in the viral replication process
+are blocked. Nucleoside analogs, or nucleoside reverse
+transcriptase inhibitors (NRTIs), such as didanosine
+(ddI, Videx), lamivudine (3TC, Epivir), stavudine
+(d4T, Zerit), zalcitabine (ddC, Hivid), and zidovudine
+(AZT, Retrovir), act by inhibiting the enzyme reverse
+transcriptase. Because a retrovirus is composed of
+RNA, the virus must make a DNA strand in order to
+replicate itself. Reverse transcriptase is an enzyme that
+is essential to making the DNA copy. The nucleoside
+reverse transcriptase inhibitors are incorporated into
+the DNA strand. This is a faulty DNA molecule that is
+incapable of reproducing.
+The non-nucleoside reverse transcriptase inhibitors
+(NNRTIs), such as delavirdine (Rescriptor), loviride,
+and nevirapine (Viramune) act by binding directly to
+the reverse transcriptase molecule, inhibiting its
+activity.
+A fourth class of drugs was under clinical trials in
+ 2003. Called fusion inhibitors, they block HIV from
+fusing with healthy cells. The first to receive FDA
+approval will likely be a drug called Enfurvitide.
+Because HIV mutates readily, the virus can
+develop resistance to single drug therapy. However,
+treatment with drug combinations appears to produce
+a durable response. Proper treatment appears to
+slow the progression of HIV infections and reduce
+the frequency of opportunistic infections. One of the
+most notable advances in recent years has been the
+success of highly active antiretroviral therapy
+(HAART). This multidrug approach reduced the
+risk of opportunistic infections in persons with HIV/
+AIDS and slowed the progression of the disease and
+death. Usually, patients receive triple combination
+therapy, however research in 2003 showed a new
+once-daily regimen of quadruple therapy effective.
+The combination included adefovir, lamivudine,
+didanosine, and efavirenz. In short, the scientific community continues to make rapid advancements in
+developing and evaluating antiretroviral drug therapy.
+It is best to keep well informed and frequently check
+with a physician.Recommended dosage
+Doses must be individualized based on the patient
+and use of interacting drugs. The optimum combinations of antiretroviral drugs have not been determined,
+nor is there agreement on the stage of infection at
+which to start treatment. In fact, starting treatment
+too early has led to unwanted side effects in some
+patients or problems with patient readiness to comply.
+Treatment should begin when the time and circumstances are right.
+Precautions
+Although the antiretroviral drugs fall into several
+groups, each drug has a unique pattern of adverse
+effects and drug interactions. Since the drugs are used
+in various combinations, the frequency and severity
+of adverse effects will vary with the combination.
+Although most drug combinations show a higher
+rate of adverse events than single drug therapy,
+some patterns are not predictable. For example, indinavir has been reported to cause insomnia in 3% of
+patients, however, when used in combination with
+zidovudine, only 1.5% of patients complained of
+sleep difficulties.
+The most severe adverse effects associated with
+the protease inhibitors are kidney and liver toxicity.
+Patients also have reported a syndrome of abdominal
+distention (selling and expansion) and increased body
+odor, which may be socially limiting. Hemophilic
+patients have reported increased bleeding tendencies
+while taking protease inhibitors. The drugs are pregnancy category B. There have been no controlled studies of safety in pregnancy. HIV-infected mothers are
+advised not to breast feed in order to prevent transmission of the virus to the newborn.
+The nucleoside reverse transcriptase inhibitors
+have significant levels of toxicity. Lactic acidosis in
+the absence of hypoxemia and severe liver enlargement
+with fatty degeneration have been reported with zidovudine and zalcitabine, and are potentially fatal. Rare
+cases of liver failure, considered possibly related to
+underlying hepatitis B and zalcitabine monotherapy,
+have been reported.
+Abacavir has been associated with fatal hypersensitivity reactions. Didanosine has been associated
+with severe pancreatitis. Nucleoside reverse transcriptase inhibitors are pregnancy category C.
+There is limited information regarding safety during
+pregnancy. Zidovudine has been used during pregnancy to reduce the risk of HIV infection to the
+infant. HIV-infected mothers are advised not to
+breast feed in order to prevent transmission of the
+virus to the newborn.
+Efavirenz has been associated with a high frequency of skin rash, 27% in adults and 40% in children. Nevirapine has been associated with severe liver
+damage and skin reactions. All of the non-nucleoside
+reverse transcriptase inhibitors are pregnancy category C, based on animal studies.
+Using antiretroviral drugs in combination also
+helps lower risk of developing viral resistance. Fifty
+percent of patients who fail antiretroviral therapy areresistant to one class of drug. Recent research into
+multiple drugs and combinations is promising.
+Interactions
+Because of the high frequency of drug interactions
+associated with AIDS therapy, specialized references
+should be consulted. Use of recreational drugs while
+on antriretroviral therapy can trigger potentially lethal
+side effects or negate the positive effects of the therapy.
+Saquinavir is marketed in both hard and soft
+gelatin capsules. Because saquinavir in the hard gelatin capsule formulation (Invirase) has poor bioavailability, it is recommended that this formulation only
+be used in combination with other drugs which interact to raise saquinavir blood levels. Saquinavir soft
+gelatin capsules (Fortovase) are the preferred dosage
+form of this drug.

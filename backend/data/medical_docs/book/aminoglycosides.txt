@@ -1,0 +1,132 @@
+Definition
+Aminoglycosides are a group of antibiotics that
+are used to treat certain bacterial infections. This
+group of antibiotics includes at least eight drugs:
+amikacin, gentamicin, kanamycin, neomycin, netilmicin, paromomycin, streptomycin, and tobramycin.
+All of these drugs have the same basic chemical
+structure.
+Purpose
+Aminoglycosides are primarily used to combat
+infections due to aerobic, Gram-negative bacteria.
+These bacteria can be identified by their reaction to
+Gram’s stain. In Gram’s staining, a film of material
+containing the possible bacteria is placed on a glass
+slide and dried. The slide is stained with crystal violet
+for one minute, cleaned off with water and then placed
+into a solution of Gram’s iodine solution for one
+minute. The iodine solution is rinsed off and the slide
+is immersed in 95% ethyl alcohol. The slide is then
+stained again with reddish carbolfuchsin or safranine
+for 30 seconds, rinsed in water, dried and examined.
+Gram-positive bacteria retain the violet purple stain.
+Gram-negative bacteria accept the red stain. Bacteria
+that can successfully be combated with aminoglycosides include Pseudomonas, Acinetobacter, and
+Enterobacter species, among others. Aminoglycosides
+are also effective against mycobacteria, the bacteria
+responsible for tuberculosis.
+The aminoglycosides can be used against certain
+Gram-positive bacteria, but are not typically
+employed because other antibiotics are more effective
+and have fewer side effects. Aminoglycosides are ineffective against anaerobic bacteria (bacteria that cannot grow in the presence of oxygen), viruses, and
+fungi. And only one aminoglycoside, paromomycin,
+is used against parasitic infection.
+Like all other antibiotics, aminoglycosides are not
+effective against influenza, the common cold, or other
+viral infections.
+Precautions
+Pre-existing medical conditions–such as kidney
+disease, eighth cranial nerve disease, myasthenia
+gravis, and Parkinson’s disease–should be discussed
+prior to taking any aminoglycosides. Pregnant
+women are usually advised against taking aminoglycosides, because their infants may suffer damage to
+their hearing, kidneys, or sense of balance. However,
+those factors need to be considered alongside the
+threat to the mother’s health and life in cases of
+serious infection. Aminoglycosides do not pass into
+breast milk to any great extent, so nursing mothers
+may be prescribed aminoglycosides without injuring
+their infants.
+Description
+Streptomycin, the first aminoglycoside, was
+isolated from Streptomyces griseus in the mid-1940s.
+This antibiotic was very effective against tuberculosis.
+One of the main drawbacks to streptomycin is its
+toxicity, especially to cells in the inner and middle ear
+and the kidney. Furthermore, some strains of tuberculosis are resistant to treatment with streptomycin.
+Therefore, medical researchers have put considerable
+effort into identifying other antibiotics with streptomycin’s efficacy, but without its toxicity.
+Aminoglycosides are absorbed very poorly from
+the gastrointestinal tract; in fact, aminoglycosides
+taken orally are excreted virtually unchanged and
+undiminished in quantity. The route of drug administration depends on the type and location of the
+infection being treated. The typical routes of administration are by intramuscular (injection into a muscle) or intravenous injection (injection into a vein),
+irrigation, topical skin application, or inhalation.
+If the infection being treated involves the central
+nervous system, the drug can be injected into the
+spinal canal.
+The bactericidal ability of aminoglycosides has
+not been fully explained. It is known that the drug
+attaches to a bacterial cell wall and is drawn into the
+cell via channels made up of the protein, porin. Once
+inside the cell, the aminoglycoside attaches to the cell’s
+ribosomes. Ribosomes are the intracellular structures
+responsible for manufacturing proteins. This attachment either shuts down protein production or causes
+the cell to produce abnormal, ineffective proteins. The
+bacterial cell cannot survive with this impediment.
+Antibiotic treatment using aminoglycosides may
+pair the drug with a second type of antibiotic, usually
+a beta-lactam or vancomycin, administered separately. Beta-lactams disrupt the integrity of the bacteria cell wall, making it more porous. The increased
+porosity allows more of the aminoglycoside into the
+bacteria cell.
+Traditionally, aminoglycosides were administered
+at even doses given throughout the day. It was thought
+that a steady plasma concentration was necessary to
+combat infection. However, this administration schedule is time and labor intensive. Furthermore, administering a single daily dose can be as effective, or more
+effective, than several doses throughout the day.
+Dosage depends on the patient’s age, weight, gender, and general health. Since the drug is cleared by the
+kidneys, it is important to assess any underlying problems with kidney function. Kidney function is
+assessed by measuring the blood levels of creatinine,
+a protein normally found in the body. If these levels
+are high, it is an indication that the kidneys may not be
+functioning at an optimal rate and dosage will be
+lowered accordingly.
+Risks
+Aminoglycosides have been shown to be toxic
+to certain cells in the ears and in the kidneys.
+Approximately 5-10% of the people who are
+treated with aminoglycosides experience some side
+effect, affecting their hearing, sense of balance, or
+kidneys. However, in most cases the damage is minor
+and reversible once medication is stopped.
+If cells in the inner ear are damaged or destroyed,
+an individual may experience a loss of balance and
+feelings of dizziness. Damage to the middle ear may
+result in hearing loss or tinnitus. Neomycin, kanamycin,
+and amikacin are the most likely to cause problems with
+hearing, and streptomycin and gentamicin carry the
+greatest risk of causing vertigo and loss of balance.
+Kidney damage, apparent with changes in urination
+frequency or urine production, is most likely precipitated by neomycin, tobramycin, and gentamicin.
+Young children and the elderly are at the greatest
+risk of suffering side effects. Excessive dosage or poor
+clearance of the drug from the body can be injurious at
+any age.
+Less common side effects include skin rashes and
+itching. Very rarely, certain aminoglycosides may
+cause difficulty in breathing, weakness, or drowsiness.
+Gentamicin, when injected, may cause leg cramps,
+skin rash, fever, or seizures.
+If side effects linger or become worse after medication is stopped, it is advisable to seek medical advice.
+Side effects that may be of concern include tinnitus or
+loss of hearing, dizziness or loss of balance, changes in
+urination frequency or urine production, increased
+thirst, appetite loss, and nausea or vomiting.
+Normal results
+At the proper dosage and in the presence of gramnegative enteric (intestinal) bacteria, aminoglycosides
+are very effective in treating an infection.
+Abnormal results
+In some cases, bacteria are resistant to antibiotics
+that would normally kill them. This resistance
+becomes apparent after repeated exposure to the antibiotic and arises from a mutation that alters the bacteria’s susceptibility to the drug. Various degrees of
+resistance have been observed in bacteria that normally would be destroyed by aminoglycosides. In general, though, aminoglycoside effectiveness has held
+up well over time.

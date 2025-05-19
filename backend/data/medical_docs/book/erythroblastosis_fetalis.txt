@@ -1,0 +1,202 @@
+Definition
+Erythroblastosis fetalis refers to two potentially
+disabling or fatal blood disorders in infants: Rh
+incompatibility disease and ABO incompatibility disease. Either disease may be apparent before birth and
+can cause fetal death in some cases. The disorder is
+caused by incompatibility between a mother’s blood
+and her unborn baby’s blood. Because of the incompatibility, the mother’s immune system may launch an
+immune response against the baby’s red blood cells.
+As a result, the baby’s blood cells are destroyed, and
+the baby may suffer severe anemia (deficiency in red
+blood cells), brain damage, or death.
+Description
+Red blood cells carry several types of proteins,
+called antigens, on their surfaces. The A, B, and O
+antigens are used to classify a person’s blood as type
+A, B, AB, or O. Each parent passes one A, B, or O
+antigen gene to their child. How the genes are paired
+determines the person’s blood type.
+A person who inherits an A antigen gene from
+each parent has type A blood; receiving two B antigen
+genes corresponds with type B blood; and inheriting A
+and B antigen genes means a person has type AB
+blood. If the O antigen gene is inherited from both
+parents, the child has type O blood; however, the
+pairing of A and O antigen genes corresponds with
+type A blood; and if the B antigen gene is matched
+with the O antigen gene, the person has type B blood.
+Another red blood cell antigen, called the Rh
+factor, also plays a role in describing a person’s
+blood type. A person with at least one copy of the
+gene for the Rh factor has Rh-positive blood; if no
+copies are inherited, the person’s blood type is
+Rh-negative. In blood typing, the presence of A, B,
+and O antigens, plus the presence or absence of the
+Rh-factor, determine a person’s specific blood type,
+such as A-positive, B-negative, and so on.
+A person’s blood type has no effect on health.
+However, an individual’s immune system considers
+only that person’s specific blood type, or a close
+match, acceptable. If a radically different blood type
+is introduced into the bloodstream, the immune system produces antibodies, proteins that specifically
+attack and destroy any cell carrying the foreign
+antigen.
+Determining a person’s blood type is very important if she becomes pregnant. Blood cells from the
+unborn baby (fetal red blood cells) can cross over
+into the mother’s bloodstream, especially at delivery.
+If the mother and her baby have compatible blood
+types, the crossover does not present any danger.
+However, if the blood types are incompatible, the
+mother’s immune system manufactures antibodies
+against the baby’s blood.
+Usually, this incompatibility is not a factor in a
+first pregnancy, because few fetal blood cells reach the
+mother’s bloodstream until delivery. The antibodies
+that form after delivery cannot affect the first child. In
+later pregnancies, fetuses and babies may be in grave
+danger. The danger arises from the possibility that the
+mother’s antibodies will attack the fetal red blood
+cells. If this happens, the fetus or baby can suffer
+severe health effects and may die.
+There are two types of incompatibility diseases:
+Rh incompatibility disease and ABO incompatibility
+disease. Both diseases have similar symptoms, but Rh
+disease is much more severe, because anti-Rh antibodies cross over the placenta more readily than anti-A
+or anti-B antibodies. (The immune system does not
+form antibodies against the O antigen.) Therefore, a
+greater percentage of the baby’s blood cells are
+destroyed by Rh disease.
+Both incompatibility diseases are uncommon in
+the United States due to medical advances over the last
+50 years. For example, prior to 1946 (when newborn
+blood transfusions were introduced) 20,000 babies
+were affected by Rh disease yearly. Further advances,
+such as suppressing the mother’s antibody response,
+have reduced the incidence of Rh disease to approximately 4,000 cases per year.
+Rh disease only occurs if a mother is Rh-negative
+and her baby is Rh-positive. For this situation to
+occur, the baby must inherit the Rh factor gene from
+the father. Most people are Rh-positive. Only 15% of
+the Caucasian population is Rh-negative, compared to
+5–7% of the African-American population and virtually none of Asian populations.
+ABO incompatibility disease is almost always limited to babies with A or B antigens whose mothers
+have type O blood. Approximately one third of these
+babies show evidence of the mother’s antibodies in
+their bloodstream, but only a small percentage
+develop symptoms of ABO incompatibility disease.
+Cause and symptoms
+Rh disease and ABO incompatibility disease are
+caused when a mother’s immune system produces
+antibodies against the red blood cells of her unborn
+child. The antibodies cause the baby’s red blood cells
+to be destroyed and the baby develops anemia. The
+baby’s body tries to compensate for the anemia by
+releasing immature red blood cells, called erythroblasts, from the bone marrow.
+The overproduction of erythroblasts can cause the
+liver and spleen to become enlarged, potentially causing liver damage or a ruptured spleen. The emphasis
+on erythroblast production is at the cost of producing
+other types of blood cells, such as platelets and other
+factors important for blood clotting. Since the blood
+lacks clotting factors, excessive bleeding can be a
+complication.
+The destroyed red blood cells release the blood’s
+red pigment (hemoglobin) which degrades into a yellow substance called bilirubin. Bilirubin is normally
+produced as red blood cells die, but the body is only
+equipped to handle a certain low level of bilirubin in
+the bloodstream at one time. Erythroblastosis fetalis
+overwhelms the removal system, and high levels of
+bilirubin accumulate, causing hyperbilirubinemia, a
+condition in which the baby becomes jaundiced. The
+jaundice is apparent from the yellowish tone of the
+baby’s eyes and skin. If hyperbilirubinemia cannot be
+controlled, the baby develops kernicterus. The term
+kernicterus means that bilirubin is being deposited in
+the brain, possibly causing permanent damage.
+Other symptoms that may be present include high
+levels of insulin and low blood sugar, as well as a
+condition called hydrops fetalis. Hydrops fetalis is
+characterized by an accumulation of fluids within the
+baby’s body, giving it a swollen appearance. This fluid
+accumulation inhibits normal breathing, because the
+lungs cannot expand fully and may contain fluid. If
+this condition continues for an extended period, it can
+interfere with lung growth. Hydrops fetalis and anemia can also contribute to heart problems.
+Diagnosis
+Erythroblastosis fetalis can be predicted before
+birth by determining the mother’s blood type. If she
+is Rh-negative, the father’s blood is tested to determine whether he is Rh-positive. If the father is
+Rh-positive, the mother’s blood will be checked for
+antibodies against the Rh factor. A test that demonstrates no antibodies is repeated at week 26 or 27 of the
+pregnancy. If antibodies are present, treatment is
+begun.
+In cases in which incompatibility is not identified
+before birth, the baby suffers recognizable characteristic symptoms such as anemia, hyperbilirubinemia,
+and hydrops fetalis. The blood incompatibility is
+uncovered through blood tests such as the Coombs
+test, which measures the level of maternal antibodies
+attached to the baby’s red blood cells. Other blood
+tests reveal anemia, abnormal blood counts, and high
+levels of bilirubin.
+Treatment
+When a mother has antibodies against her unborn
+infant’s blood, the pregnancy is watched very carefully. The antibodies are monitored and if levels
+increase, amniocentesis, fetal umbilical cord blood
+sampling, and ultrasound are used to assess any effects
+on the baby. Trouble is indicated by high levels of
+bilirubin in the amniotic fluid or baby’s blood, or if
+the ultrasound reveals hydrops fetalis. If the baby is in
+danger, and the pregnancy is at least 32–34 weeks
+along, labor is induced. Under 32 weeks, the baby is
+given blood transfusions while still in the mother’s
+uterus.
+There are two techniques that are used to deliver a
+blood transfusion to a baby before birth. In the first, a
+needle is inserted through the mother’s abdomen and
+uterus, and into the baby’s abdomen. Red blood cells
+injected into the baby’s abdominal cavity are absorbed
+into its bloodstream. In early pregnancy or if the
+baby’s bilirubin levels are gravely high, cordocentesis
+is performed. This procedure involves sliding a very
+fine needle through the mother’s abdomen and, guided
+by ultrasound, into a vein in the umbilical cord to
+inject red blood cells directly into the baby’s
+bloodstream.
+After birth, the severity of the baby’s symptoms
+are assessed. One or more transfusions may be necessary to treat anemia, hyperbilirubinemia, and bleeding. Hyperbilirubinemia is also treated with
+phototherapy, a treatment in which the baby is placed
+under a special light. This light causes changes in how
+the bilirubin molecule is shaped, which makes it easier
+to excrete. The baby may also receive oxygen and
+intravenous fluids containing electrolytes or drugs to
+treat other symptoms.
+Prognosis
+In many cases of blood type incompatibility, the
+symptoms of erythroblastosis fetalis are prevented
+with careful monitoring and blood type screening.
+Treatment of minor symptoms is typically successful
+and the baby will not suffer long-term problems.
+Nevertheless, erythroblastosis is a very serious
+condition for approximately 4,000 babies annually.
+In about 15% of cases, the baby is severely affected
+and dies before birth. Babies who survive pregnancy
+may develop kernicterus, which can lead to deafness,
+speech problems, cerebral palsy, or mental retardation. Extended hydrops fetalis can inhibit lung growth
+and contribute to heart failure. These serious complications are life threatening, but with good medical
+treatment, the fatality rate is very low. According to
+the U.S. Centers for Disease Control and Prevention,
+there were 21 infant deaths in the United States during
+1996 that were attributable to hemolytic disease (erythroblastosis fetalis) and jaundice.
+Prevention
+With any pregnancy, whether it results in a live
+birth, miscarriage, stillbirth, or abortion, blood typing
+is a universal precaution against blood compatibility
+disease. Blood types cannot be changed, but adequate
+forewarning allows precautions and treatments that
+limit the danger to unborn babies.
+If an Rh-negative woman gives birth to an
+Rh-positive baby, she is given an injection of immunoglobulin G, a type of antibody protein, within
+72 hours of the birth. The immunoglobulin destroys
+any fetal blood cells in her bloodstream before her
+immune system can react to them. In cases where this
+precaution is not taken, antibodies are created and
+future pregnancies may be complicated.

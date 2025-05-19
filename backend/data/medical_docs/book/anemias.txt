@@ -1,0 +1,476 @@
+Definition
+Anemia is a condition characterized by abnormally low levels of healthy red blood cells or hemoglobin (the component of red blood cells that delivers
+oxygen to tissues throughout the body).
+Description
+The tissues of the human body need a regular
+supply of oxygen to stay healthy. Red blood cells,
+which contain hemoglobin that allows them to deliver
+oxygen throughout the body, live for only about 120
+days. When they die, the iron they contain is returned
+to the bone marrow and used to create new red blood
+cells. Anemia develops when heavy bleeding causes
+significant iron loss or when something happens to
+slow down the production of red blood cells or to
+increase the rate at which they are destroyed.
+Types of anemia
+Anemia can be mild, moderate, or severe enough
+to lead to life-threatening complications. More than
+400 different types of anemia have been identified.
+Many of them are rare.
+IRON DEFICIENCY ANEMIA. The onset of iron deficiency anemia is gradual and, at first, there may not be
+any symptoms. The deficiency begins when the body
+loses more iron than it derives from food and other
+sources. Because depleted iron stores cannot meet the
+red blood cell’s needs, fewer red blood cells develop. In
+this early stage of anemia, the red blood cells look
+normal, but they are reduced in number. Then the
+body tries to compensate for the iron deficiency by
+producing more red blood cells, which are characteristically small in size. Symptoms develop at this stage.
+FOLIC ACID DEFICIENCY ANEMIA. Folic acid anemia is especially common in infants and teenagers.
+Although this condition usually results from a dietary
+deficiency, it is sometimes due to inability to absorb
+enough folic acid from such foods as:
+
+cheese
+
+eggs
+
+fish
+
+green vegetables
+
+meat
+
+milk
+
+mushrooms
+
+yeast
+Smoking raises the risk of developing this condition by interfering with the absorption of Vitamin C,
+which the body needs to absorb folic acid. Folic acid
+anemia can be a complication of pregnancy, when a
+woman’s body needs eight times more folic acid than it
+does otherwise.
+VITAMIN B12 DEFICIENCY ANEMIA. Less common in
+this country than folic acid anemia, vitamin B12 deficiency anemia is another type of megaloblastic anemia
+that develops when the body doesn’t absorb enough of
+this nutrient. Necessary for the creation of red blood
+cells, B12 is found in meat and vegetables.
+Large amounts of B12 are stored in the body, so this
+condition may not become apparent until as much as
+four years after B12 absorption stops or slows down. The
+resulting drop in red blood cell production can cause:
+
+loss of muscle control
+
+loss of sensation in the legs, hands, and feet
+
+soreness or burning of the tongue
+
+weight loss
+
+yellow-blue color blindness
+The most common form of B12 deficiency is pernicious anemia. Since most people who eat meat or eggs
+get enough B12 in their diets, a deficiency of this vitamin usually means that the body is not absorbing it
+properly. This can occur among people who have had
+intestinal surgery or among those who do not produce
+adequate amounts of intrinsic factor, a chemical
+secreted by the stomach lining that combines with
+B12 to help its absorption in the small intestine.
+Pernicious anemia usually strikes between the ages
+of 50–60. Eating disorders or an unbalanced diet
+increase the risk of developing pernicious anemia. So do:
+
+diabetes mellitus
+
+gastritis, stomach cancer, or stomach surgery
+
+thyroid disease
+
+family history of pernicious anemia
+VITAMIN C DEFICIENCY ANEMIA. A rare disorder
+that causes the bone marrow to manufacture abnormally small red blood cells, Vitamin C deficiency anemia
+results from a severe, long-standing dietary deficiency.
+HEMOLYTIC ANEMIA. Some people are born with
+hemolytic anemia. Some acquire this condition, in
+which infection or antibodies destroy red blood cells
+more rapidly than bone marrow can replace them.
+Hemolytic anemia can enlarge the spleen, accelerating the destruction of red blood cells (hemolysis).
+Other complications of hemolytic anemia include:
+
+pain
+
+shock
+
+gallstones and other serious health problems THALASSEMIAS. An inherited form of hemolytic
+anemia, thalassemia stems from the body’s inability
+to manufacture as much normal hemoglobin as it
+needs. There are two categories of thalassemia,
+depending on which of the amino acid chains is
+affected. (Hemoglobin is composed of four chains of
+amino acids.) In alpha-thalassemia, there is an imbalance in the production of the alpha chain of amino
+acids; in beta-thalassemia, there is an imbalance in the
+beta chain. Alpha-thalassemias most commonly affect
+blacks (25% have at least one gene); beta-thalassemias
+most commonly affect people of Mediterranean ancestry and Southeast Asians.
+Characterized by production of red blood cells
+that are unusually small and fragile, thalassemia only
+affects people who inherit the gene for it from each
+parent (autosomal recessive inheritance).
+AUTOIMMUNE HEMOLYTIC ANEMIAS. Warm antibody hemolytic anemia is the most common type of
+this disorder. This condition occurs when the body
+produces autoantibodies that coat red blood cells.
+The coated cells are destroyed by the spleen, liver, or
+bone marrow.
+Warm antibody hemolytic anemia is more common in women than in men. About one-third of
+patients who have warm antibody hemolytic anemia
+also have lymphoma, leukemia, lupus, or connective
+tissue disease.
+In cold antibody hemolytic anemia, the body
+attacks red blood cells at or below normal body temperature. The acute form of this condition frequently
+develops in people who have had pneumonia, mononeucleosis, or other acute infections. It tends to be
+mild and short-lived, and disappears without
+treatment.
+Chronic cold antibody hemolytic anemia is most
+common in women and most often affects those who
+are over 40 and who have arthritis. This condition
+usually lasts for a lifetime, generally causing few symptoms. However, exposure to cold temperatures can
+accelerate red blood cell destruction, causing fatigue,
+joint aches, and discoloration of the arms and hands.
+SICKLE CELL ANEMIA. Sickle cell anemia is a
+chronic, incurable condition that causes the body to
+produce defective hemoglobin, which forces red blood
+cells to assume an abnormal crescent shape. Unlike
+normal oval cells, fragile sickle cells can’t hold enough
+hemoglobin to nourish body tissues. The deformed
+shape makes it hard for sickle cells to pass through
+narrow blood vessels. When capillaries become
+obstructed, a life-threatening condition called sickle
+cell crisis is likely to occur.
+Sickle cell anemia is hereditary. It almost always
+affects blacks and people of Mediterranean descent. A
+child who inherits the sickle cell gene from each parent
+will have the disease. A child who inherits the sickle
+cell gene from only one parent carries the sickle cell
+trait, but does not have the disease.
+APLASTIC ANEMIA. Sometimes curable by bone
+marrow transplant, but potentially fatal, aplastic anemia is characterized by decreased production of red
+and white blood cells and platelets (disc-shaped cells
+that allow the blood to clot). This disorder may be
+inherited or acquired as a result of:
+
+recent severe illness
+
+long-term exposure to industrial chemicals
+
+use of anticancer drugs and certain other medications
+ANEMIA OF CHRONIC DISEASE. Cancer, chronic
+infection or inflammation, and kidney and liver disease often cause mild or moderate anemia. Chronic
+liver failure generally produces the most severe symptoms. People infected with the Human immunodeficiency virus (HIV) that causes AIDS often face severe
+fatigue.
+Causes and symptoms
+Anemia is caused by bleeding, decreased red
+blood cell production, or increased red blood cell
+destruction. Poor diet can contribute to vitamin deficiency and iron deficiency anemias in which fewer red
+blood cells are produced. Hereditary disorders and
+certain diseases can cause increased blood cell destruction. However, excessive bleeding is the most common
+cause of anemia, and the speed with which blood loss
+occurs has a significant effect on the severity of symptoms. Chronic blood loss is usually a consequence of:
+
+cancer
+
+gastrointestinal tumors
+
+diverticulosis
+
+polyposis
+
+heavy menstrual flow
+
+hemorrhoids
+
+nosebleeds
+
+stomach ulcers
+
+long-standing alcohol abuse
+Acute blood loss is usually the result of:
+
+childbirth
+
+injury
+
+a ruptured blood vessel
+
+surgery
+When a lot of blood is lost within a short time,
+blood pressure and the amount of oxygen in the body
+drop suddenly. Heart failure and death can follow.
+Loss of even one-third of the body’s blood volume
+in the space of several hours can be fatal. More gradual blood loss is less serious, because the body has
+time to create new red blood cells to replace those that
+have been lost.
+Symptoms
+Weakness, fatigue, and a run-down feeling may be
+signs of mild anemia. Skin that is pasty or sallow, or
+lack of color in the creases of the palm, gums, nail
+beds, or lining of the eyelids are other signs of anemia.
+Someone who is weak, tires easily, is often out of
+breath, and feels faint or dizzy may be severely anemic.
+Other symptoms of anemia are:
+
+angina pectoris (chest pain, often accompanied by a
+choking sensation that provokes severe anxiety)
+
+cravings for ice, paint, or dirt
+
+headache
+
+inability to concentrate, memory loss
+
+inflammation of the mouth (stomatitis) or tongue
+(glossitis)
+
+insomnia
+
+irregular heartbeat
+
+loss of appetite
+
+nails that are dry, brittle, or ridged
+
+rapid breathing
+
+sores in the mouth, throat, or rectum
+
+sweating
+
+swelling of the hands and feet
+
+thirst
+
+tinnitus (ringing in the ears)
+
+unexplained bleeding or bruising
+In pernicious anemia, the tongue feels unusually
+slick. A patient with pernicious anemia may have:
+
+problems with movement or balance
+
+tingling in the hands and feet
+
+confusion, depression, and memory loss
+Pernicious anemia can damage the spinal cord. A
+doctor should be notified whenever symptoms of this
+condition occur.
+A doctor should also be notified if a patient who
+has been taking iron supplements develops:
+
+diarrhea
+
+cramps
+
+vomiting
+Diagnosis
+Personal and family health history may suggest
+the presence of certain types of anemia. Laboratory
+tests that measure the percentage of red blood cells or
+the amount of hemoglobin in the blood are used to
+confirm diagnosis and determine which type of anemia
+is responsible for a patient’s symptoms. X rays and
+examinations of bone marrow may be used to identify
+the source of bleeding.
+Treatment
+Anemia due to nutritional deficiencies can usually
+be treated at home with iron supplements or self administered injections of vitamin B12. People with folic
+acid anemia should take oral folic acid replacements.
+Vitamin C deficiency anemia can be cured by taking
+one vitamin C tablet a day.
+Surgery may be necessary to treat anemia caused
+by excessive loss of blood. Transfusions of red blood
+cells may be used to accelerate production of red blood
+cells.
+Medication or surgery may also be necessary to
+control heavy menstrual flow, repair a bleeding ulcer,
+or remove polyps (growths or nodules) from the
+bowels.
+Patients with thalassemia usually do not require
+treatment. However people with a severe form may
+require periodic hospitalization for blood transfusions
+and/or bone marrow transplantation.
+SICKLE CELL ANEMIA. Treatment for sickle cell
+anemia involves regular eye examinations, immunizations for pneumonia and infectious diseases, and
+prompt treatment for sickle cell crises and infections
+of any kind. Psychotherapy or counseling may help
+patients deal with the emotional impact of this
+condition.
+VITAMIN B12 DEFICIENCY ANEMIA. A life-long regimen of B12 shots is necessary to control symptoms of
+pernicious anemia. The patient may be advised to limit
+physical activity until treatment restores strength and
+balance.
+APLASTIC ANEMIA. People who have aplastic anemia are especially susceptible to infection. Treatment
+for aplastic anemia may involve blood transfusions
+and bone marrow transplant to replace malfunctioning cells with healthy ones.
+ANEMIA OF CHRONIC DISEASE. There is no specific
+treatment for anemia associated with chronic disease,
+but treating the underlying illness may alleviate this
+condition. Erythropoietin is a hormone that stimulates production of red blood cells. It is sometimes
+used to treat anemia from kidney disease or cancer
+chemotherapy. This type of anemia rarely becomes
+severe. If it does, transfusions or hormone treatments
+to stimulate red blood cell production may be prescribed. A working group met in 2004 to address the
+specific management of anemia in patients infected
+with HIV.
+HEMOLYTIC ANEMIA. There is no specific treatment for cold-antibody hemolytic anemia. About
+one-third of patients with warm-antibody hemolytic
+anemia respond well to large doses of intravenous and
+oral corticosteroids, which are gradually discontinued
+as the patient’s condition improves. Patients with this
+condition who don’t respond to medical therapy must
+have the spleen surgically removed. This operation
+controls anemia in about one-half of the patients on
+whom it’s performed. Immune-system suppressants
+are prescribed for patients whose surgery is not
+successful.
+Self-care
+Anyone who has anemia caused by poor nutrition
+should modify his or her diet to include more vitamins,
+minerals, and iron. Vitamin C can stimulate iron
+absorption. The following foods are also good sources
+of iron:
+
+almonds
+
+broccoli
+
+dried beans
+
+dried fruits
+
+enriched breads and cereals
+
+lean red meat
+
+liver
+
+potatoes
+
+poultry
+
+rice
+
+shellfish
+
+tomatoes
+Because light and heat destroy folic acid, fruits
+and vegetables should be eaten raw or cooked as little
+as possible.
+Alternative treatment
+As is the case in standard medical treatment, the
+cause of the specific anemia will determine the alternative treatment recommended. If the cause is a deficiency, for example iron deficiency, folic acid
+deficiency, B12 deficiency, or vitamin C deficiency,
+supplementation is the treatment. For extensive
+blood loss, the cause should be identified and corrected. Other types of anemias should be addressed
+on a deep healing level with crisis intervention when
+necessary.
+Many alternative therapies for iron-deficiency
+anemia focus on adding iron-rich foods to the
+diet or on techniques to improve circulation and
+digestion. Iron supplementation, especially with
+iron citrate (less likely to cause constipation), is
+used by alternative practitioners. This can be given
+in combination with herbs that are rich in iron.
+Some examples of iron-rich herbs are dandelion
+(Taraxacum officinale), parsley (Petroselinum
+crispum), and nettle (Urtica dioica). The homeopathic remedy ferrum phosphoricum can also be
+helpful.
+An iron-rich herbal tonic can also me made using
+the following recipe:
+
+soak 1/2 oz of yellow dock root and 1/2 oz dandelion
+root in 1 qt of boiled water for four to 8 hours
+
+strain and simmer until the amount of liquid is
+reduced to 1 cup
+
+remove from heat and add 1/2 cup black strap
+molasses, mixing well
+
+store in refrigerator; take 1 tsp-2 Tbsp daily
+Other herbal remedies used to treat irondeficiency anemia aim to improve the digestion.
+Gentian (Gentiana lutea) is widely used in Europe to
+treat anemia and other nutritionally based disorders.
+The bitter qualities of gentian help stimulate the digestive system, making iron and other nutrients more
+available for absorption. This bitter herb can be
+brewed into tea or purchased as an alcoholic extract
+(tincture).
+Other herbs recommended to promote digestion
+include:
+
+anise (Pimpinella anisum)
+
+caraway (Carum carvi)
+
+cumin (Cuminum cyminum)
+
+linden (Tilia spp.)
+
+licorice (Glycyrrhiza glabra)
+Traditional Chinese treatments for anemia
+include:
+
+acupuncture to stimulate a weakened spleen
+
+asian ginseng (Panax ginseng) to restore energy
+
+dong quai (Angelica sinensis) to control heavy menstrual bleeding
+
+a mixture of dong quai and Chinese foxglove
+(Rehmannia glutinosa) to clear a sallow complexion
+Prognosis
+Folic-acid and iron-deficiency anemias
+It usually takes three to six weeks to correct folic
+acid or iron deficiency anemia. Patients should continue taking supplements for another six months to
+replenish iron reserves. They should have periodic
+blood tests to make sure the bleeding has stopped
+and the anemia has not recurred.
+Pernicious anemia
+Although pernicious anemia is considered incurable, regular B12 shots will alleviate symptoms and
+reverse complications. Some symptoms will disappear
+almost as soon as treatment begins.
+Aplastic anemia
+Aplastic anemia can sometimes be cured by bone
+marrow transplantation. If the condition is due to
+immunosuppressive drugs, symptoms may disappear
+after the drugs are discontinued.
+Sickle cell anemia
+Although sickle cell anemia cannot be cured,
+effective treatments enable patients with this disease
+to enjoy longer, more productive lives.
+Thalassemia
+People with mild thalassemia (alpha thalassemia
+trait or beta thalassemia minor) lead normal lives and
+do not require treatment. Those with severe thalassemia
+may require bone marrow transplantation. Genetic therapy is is being investigated and may soon be available.
+Hemolytic anemia
+Acquired hemolytic anemia can generally be
+cured when the cause is removed.
+Prevention
+Inherited anemias cannot be prevented. Genetic
+counseling can help parents cope with questions and
+concerns about transmitting disease-causing genes to
+their children.
+Avoiding excessive use of alcohol, eating a balanced
+diet that contains plenty of iron-rich foods, and taking
+a daily multivitamin can help prevent anemia.
+Methods of preventing specific types of anemia
+include:
+
+avoiding lengthy exposure to industrial chemicals
+and drugs known to cause aplastic anemia
+
+not taking medication that has triggered hemolytic
+anemia and not eating foods that have caused hemolysis (breakdown of red blood cells)
+
+receiving regular B12 shots to prevent pernicious
+anemia resulting from gastritis or stomach surgery
