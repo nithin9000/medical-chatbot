@@ -2,7 +2,9 @@ import requests
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
+
 def generate_response(prompt: str) -> str:
+#def generate_response(question:str,context:str) -> str:
     SYSTEM_PROMPT = (
         "You are MedBot, a helpful and professional medical assistant. "
         "You can only answer questions related to medicine, healthcare, diseases, symptoms, treatments, doctors, and wellness. "
@@ -14,7 +16,7 @@ def generate_response(prompt: str) -> str:
 
     payload = {
         #"model": "llama3-chatqa:8b",
-        "model":"deepseek-r1:14b",
+        "model":"llava-llama3:8b",
         "prompt": full_prompt,
         "stream": False
     }
@@ -26,3 +28,4 @@ def generate_response(prompt: str) -> str:
         return data.get("response", "").strip()
     except Exception as e:
         return f"❌ Ollama error: {str(e)}"
+
