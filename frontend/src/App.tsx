@@ -164,7 +164,7 @@ function App() {
                   className="text-red-400 hover:text-red-600 ml-2 text-sm cursor-pointer"
                   title="Delete chat"
                 >
-                  ✖
+                  X
                 </button>
               </li>
             ))}

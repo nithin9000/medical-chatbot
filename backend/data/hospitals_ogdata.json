@@ -1,6 +1,6 @@
 [
   {
-    "hospital_name": "Cloudnine Hospital Chennai",
+    "hospital_name": "Cloudnine Hospital",
     "address": {
       "street": "Main Road 1",
       "city": "Chennai",
@@ -695,7 +695,7 @@
     ]
   },
   {
-    "hospital_name": "SIMS Multi Speciality Hospital Chennai",
+    "hospital_name": "SIMS Multi Speciality Hospital",
     "address": {
       "street": "Jawaharlal Nehru Road",
       "city": "Chennai",
@@ -3475,17 +3475,21 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Mumbai Branch 1",
+    "hospital_name": "Wock hardt Hospital",
     "address": {
-      "street": "Main Road 1",
+      "street": "Mumbai central",
       "city": "Mumbai",
       "state": "Maharashtra",
       "pin": "652851"
     },
+	  "coordinates": {
+      "latitude": 18.97681680399393,
+      "longitude": 72.84585588858512
+    },
     "contact": {
       "phone": "+91 9698624865",
-      "email": "contact1@mumbai.com",
-      "website": "https://mumbaihospital1.com"
+      "email": "info@wockhardt.com",
+      "website": "https://wockhardt.com"
     },
     "departments": [
       {
@@ -4166,12 +4170,16 @@
     ]
   },
   {
-    "hospital_name": "Kauvery Hospital Mumbai Branch 2",
+    "hospital_name": "Sir H. N. Reliance Foundation Hospital and Research Centre",
     "address": {
-      "street": "Main Road 2",
+      "street": " Raja Ram Mohan Roy Rd, Girgaon.",
       "city": "Mumbai",
       "state": "Maharashtra",
       "pin": "654652"
+    },
+	  "coordinates": {
+      "latitude": 18.958904578188466,
+      "longitude": 72.81959405651223
     },
     "contact": {
       "phone": "+91 8437040861",
@@ -4857,13 +4865,17 @@
     ]
   },
   {
-    "hospital_name": "MIOT International Mumbai Branch 3",
+    "hospital_name": "Fortis SL Raheja Hospital",
     "address": {
-      "street": "MG Road 3",
+      "street": "Mahim west",
       "city": "Mumbai",
       "state": "Maharashtra",
       "pin": "601941"
     },
+	"coordinates":{
+		"latitude":"19.04713903977979",
+		"longitude":"72.84524072424053"
+	},
     "contact": {
       "phone": "+91 8494933976",
       "email": "contact3@mumbai.com",
@@ -5548,17 +5560,21 @@
     ]
   },
   {
-    "hospital_name": "Global Hospitals Mumbai Branch 4",
+    "hospital_name": "Criticare Asia Multispeciality Hospital",
     "address": {
-      "street": "Main Road 4",
+      "street": "Kurla West",
       "city": "Mumbai",
       "state": "Maharashtra",
-      "pin": "608328"
+      "pin": "400070"
     },
+	"coordinates":{
+		"latitude":"19.076906727598004",
+		"longitude":" 72.8832080710156"
+	},
     "contact": {
       "phone": "+91 9223023453",
-      "email": "contact4@mumbai.com",
-      "website": "https://mumbaihospital4.com"
+      "email": "info@criticare.com",
+      "website": "https://criticaremumbai.com"
     },
     "departments": [
       {
@@ -6239,17 +6255,17 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Mumbai Branch 5",
+    "hospital_name": "Lilavati Hospital and Reasearch centre",
     "address": {
-      "street": "Station Road 5",
+      "street": "Bandra West",
       "city": "Mumbai",
       "state": "Maharashtra",
-      "pin": "672019"
+      "pin": "400050"
     },
     "contact": {
       "phone": "+91 9589901331",
-      "email": "contact5@mumbai.com",
-      "website": "https://mumbaihospital5.com"
+      "email": "info@lilvati.com",
+      "website": "https://lilavati.com"
     },
     "departments": [
       {
