@@ -1,6 +1,6 @@
 [
   {
-    "hospital_name": "Cloudnine Hospital",
+    "hospital_name": "Madras Medical college",
     "address": {
       "street": "Main Road 1",
       "city": "Chennai",
@@ -14,7 +14,7 @@
     "contact": {
       "phone": "+91 9101819041",
       "email": "contact1@chennai.com",
-      "website": "https://chennaihospital1.com"
+      "website": "https://madrasmedicalcollege.com"
     },
     "departments": [
       {
