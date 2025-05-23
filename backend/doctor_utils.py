@@ -37,13 +37,12 @@ def find_specialist_doctors(city, specialist):
             dept_name = dept.get("name") or dept.get("dept_name") or ""
             if specialist.lower() in dept_name.lower():
                 for doctor in dept.get("doctors", []):
-                    coords = hospital.get("coordinates", {})
-                    lat, lng = coords.get("latitude"), coords.get("longitude")
+                    hospital_name = hospital.get("hospital_name", "")
+                    hospital_city = hospital.get("address", {}).get("city", "")
+                    search_query = f"{hospital_name} {hospital_city}".replace(" ", "+")
 
-                    maps_link = (
-                        f"https://www.google.com/maps/search/?api=1&query={lat},{lng}"
-                        if lat and lng else None
-                    )
+                    maps_link = f"https://www.google.com/maps/search/?api=1&query={search_query}"
+
 
                     results.append({
                         "name": doctor.get("name", "Unknown"),
