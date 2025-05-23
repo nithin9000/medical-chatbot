@@ -1,71 +1,51 @@
-from fastapi import FastAPI, Request
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi import FastAPI
 from pydantic import BaseModel
-
-from doctor_utils import find_specialist_doctors,SPECIALIST_SYNONYMS
-#from model.llm import generate_response,generate_response_from_context
-from model.llm import generate_response
-#from model.rag import find_best_response,load_embedding_model
+from fastapi.middleware.cors import CORSMiddleware
+from uuid import uuid4
 import random
+import re
+
+from doctor_utils import find_specialist_doctors
+from model.llm import generate_response  # LLaVA-compatible
+# Note: chat_histories stores past messages
 
 app = FastAPI()
-
-#index,responses,embeddings_model = load_embedding_model()
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_methods=["*"],
-    allow_headers=["*"]
+    allow_headers=["*"],
 )
+
+chat_histories = {}
 
 class ChatRequest(BaseModel):
     message: str
+    chat_id: str = None
 
-'''
+def extract_specialist_and_city(message: str):
+    # Looser match — allows trailing punctuation
+    pattern = r"(.*?)\s+in\s+([a-zA-Z\s]+)[\?\.!]*$"
+    match = re.search(pattern, message.strip().lower())
+    if match:
+        return match.group(1).strip(), match.group(2).strip()
+    return None, None
+
 @app.post("/chat")
 async def chat(req: ChatRequest):
-    message = req.message.strip().lower()
+    message = req.message.strip()
+    chat_id = req.chat_id or str(uuid4())
 
-    #if " in " and "{SPECIALIST_SYNONYMS}"in message:
-    if " in " in message:
+    if chat_id not in chat_histories:
+        chat_histories[chat_id] = []
+
+    # 👨‍⚕️ Attempt doctor query detection
+    specialist, city = extract_specialist_and_city(message)
+    print(f"🧪 Extracted => Specialist: '{specialist}', City: '{city}'")
+
+    if specialist and city:
         try:
-            specialist, city = map(str.strip, message.split(" in ", 1))
-            doctors = find_specialist_doctors(city, specialist)
-
-            if doctors:
-                response = f"<strong>Here are some {specialist.title()}s in {city.title()}:</strong><br><br>"
-                for doc in doctors[:5]:
-                    response += (
-                        f"<div style='margin-bottom: 12px;'>"
-                        f"🩺 <strong>{doc['name']}</strong> — {doc['designation']}<br>"
-                        f"🏥 {doc['hospital']} ({doc['location']})<br>"
-                    )
-                    if doc['maps_link']:
-                        response += f"<a href='{doc['maps_link']}' target='_blank' rel='noopener noreferrer'>📍 View on Google Maps</a><br>"
-                    else:
-                        response += "<span style='color:gray'>📍 Location unavailable</span><br>"
-                    response += "</div>"
-            else:
-                response = f"❌ Sorry, no {specialist.title()}s found in {city.title()}."
-        except Exception as e:
-            response = f"⚠️ Doctor lookup failed: {str(e)}"
-    else:
-        try:
-            response = generate_response(message)
-        except Exception as e:
-            response = f"❌ LLM Error: {str(e)}"
-
-    return {"response": response}
-
-'''
-@app.post("/chat")
-async def chat(req: ChatRequest):
-    message = req.message.strip().lower()
-
-    if " in " in message:
-        try:
-            specialist, city = map(str.strip, message.split( " in ", 1))
             doctors = find_specialist_doctors(city, specialist)
             if doctors:
                 response = f"<strong>Here are some {specialist.title()}s in {city.title()}:</strong><br>"
@@ -79,27 +59,26 @@ async def chat(req: ChatRequest):
                         f"<a href='{link}' target='_blank' rel='noopener noreferrer'>📍 View on Google Maps</a>"
                         f"</div>"
                     )
+                return {"response": response, "chat_id": chat_id}
             else:
-                response = f"❌ Sorry, no {specialist.title()}s found in {city.title()}."
+                return {
+                    "response": f"❌ Sorry, no {specialist.title()}s found in {city.title()}.",
+                    "chat_id": chat_id
+                }
         except Exception as e:
-            response = f"⚠️ Doctor lookup failed: {str(e)}"
-    else:
-        try:
-            llm_response = generate_response(message)
-            ps_note = "\n\nPs: I'm not a certified doctor. Please verify this information with a certified medical professional."
-            final_response = llm_response + ps_note
-        except Exception as e:
-            final_response = f"❌ LLM Error: {str(e)}"
+            return {
+                "response": f"⚠️ Doctor lookup failed: {str(e)}",
+                "chat_id": chat_id
+            }
 
-    return {"response": final_response}
-'''
-@app.post("/chat_rag")
-async def chat_with_rag(req: ChatRequest):
+    # 🧠 Otherwise, pass to LLM with chat history
+    chat_histories[chat_id].append({"role": "user", "text": message})
+
     try:
-        question = req.message.strip()
-        context = find_best_response(question, embeddings_model, index, responses)
-        answer = generate_response_from_context(question, context)
-        return {"context": context, "response": answer}
+        llm_reply = generate_response(chat_histories[chat_id])
+        chat_histories[chat_id].append({"role": "bot", "text": llm_reply})
+        final_response = llm_reply + "\n\nPs: I'm not a certified doctor. Please verify this information with a certified medical professional."
     except Exception as e:
-        return {"response": f"❌ RAG Error: {str(e)}"}
-'''
+        final_response = f"❌ LLM Error: {str(e)}"
+
+    return {"response": final_response, "chat_id": chat_id}

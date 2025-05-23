@@ -1,4 +1,5 @@
 from db import hospitals_col
+import re
 
 SPECIALIST_SYNONYMS = {
     "cardiologist": "cardiology",
@@ -24,6 +25,13 @@ SPECIALIST_SYNONYMS = {
     "General Practitioner":"General Physician"
 
 }
+
+def extract_specialist(message:str):
+    pattern = r"(.*?)\s+in\s+([a-zA-Z\s]+)$"
+    match = re.search(pattern,message.strip().lower())
+    if match:
+        return match.group(1).strip().match.group(2).strip()
+    return None,None
 
 def find_specialist_doctors(city, specialist):
     results = []
