@@ -1,0 +1,200 @@
+Definition
+ E. coli (Escherichia coli) is one of several types of
+bacteria that normally inhabit the intestine of humans
+and animals (commensal organism). Some strains of
+ E. coli are capable of causing disease under certain
+conditions when the immune system is compromised
+or disease may result from an environmental exposure.
+Description
+ E. coli bacteria may give rise to infections in
+wounds, the urinary tract, biliary tract, and abdominal
+cavity (peritonitis). This organism may cause septicemia, neonatal meningitis, infantile gastroenteritis,
+tourist diarrhea, and hemorrhagic diarrhea. An
+ E. coli infection may also arise due to environmental
+exposure. Infections with this type of bacteria pose a
+serious threat to public health with outbreaks arising
+from food and water that has been contaminated with
+human or animal feces or sewage. This type of bacteria
+has been used as a biological indicator for safety of
+drinking water since the 1890s. Exposure may also
+occur during hospitalization, resulting in pneumonia
+in immunocompromised patients or those on a
+ventilator
+Causes and symptoms
+The symptoms of infection and resulting complications are dependent upon the strain of E. coli and the
+site of infection. These bacteria produce toxins that
+have a wide range of effects. Symptoms caused by
+some E. coli infections range from mild to severe,
+bloody diarrhea, acute abdominal pain, vomiting, and
+fever. Gastrointestinal complications that can cause
+ E. coli infections include irritable bowel syndrome
+(IBS) ischemic colitis, appendicitis, perforation of the
+large bowel, and in some instances gangrene in the
+colon. Other known E. coli-causing infections may
+include chronic renal failure, pancreatitis, and diabetes
+mellitus. Some neurological symptoms such as drowsiness, seizure and coma may occur. In infants, E. coli
+infections are present in cases of infantile gastroenteritis and neonatal meningitis.
+Strains of E. coli that produce diarrhea were initially distinguished by their O (somatic) antigens found
+on the bacterial surface. Although there is an overlap
+in characteristics between strains, they may be classified into four main groups; enterohemorrahagic
+(0157),enteropathogenic (055,0111), enterotoxigenic
+(06,078), and enteroinvasive (0124,0164).
+E.coli O157 (VTEC)
+The O157:H7 strain is the member of the group
+most often associated with a particularly severe form
+of diarrhea. (The O indicates the somatic antigen,
+while the H denotes the flagellar antigen, both of
+which are found on the cell surface of the bacteria.)
+The bacterium was discovered in 1977, and first
+reports of infections followed in 1982. E. coli
+O157:H7, as it is frequently referred to by researchers,
+causes bloody diarrhea in many infected patients. It
+accounts for about 2% of all cases of diarrhea in the
+western world, and at least one-third of cases of
+hemorrhagic colitis, or about 20,000 cases per year
+ E. coli O157:H7 is also the most common cause of
+unique syndromes, known as the Hemolytic-Uremic
+Syndrome (HUS) and thrombocytopenic purpura
+(TTP), which causes kidney failure, hemolytic anemia,
+and thrombocytopenia. Usually, infection with this
+strain of bacteria will subside without further
+complications. However, about 5% of people who are
+infected will develop HUS/TTP. This infection also
+accounts for the majority of episodes of HUS, especially in children.
+This strain of bacteria produces a potent toxin
+called verotoxin, named for toxin’s ability to kill
+green monkey kidney or ‘‘vero’’ cells. Bacteria that
+produce verotoxin are referred to as Verotoxin-producing E. coli (VTEC). The numbers of bacteria that
+are necessary to reproduce infectious levels of bacteria are quite small, estimated at 10-100 viable bacteria. These toxins are lethal for intestinal cells and
+those that line vessels (endothelial cells), inhibiting
+protein synthesis causing cell death. It is believed
+that the damage to blood vessels results in the formation of clots, which eventually leads to the
+Hemolytic-Uremic Syndrome. HUS/TTP is a serious, often fatal, syndrome that has other causes in
+addition to E. coli O157:H7; it is characterized by the
+breaking up of red blood cells (hemolysis) and kidney failure (uremia). The syndrome occurs most
+often in the very young and very old.
+ E. coli O157:H7 is commonly found in cattle and
+poultry, and outbreaks have of disease have been
+associated with cattle and bovine products. There are
+reports of contamination from unpasteurized apple
+juice, hamburger meat, radish sprouts, lettuce, and
+potatoes, as well as other food sources. Environmental
+contamination may occur in water drained from cattle
+pastures or water containing human sewage used for
+drinking or swimming. Human to human transmission,
+through contact with fecal matter, has also been identified in daycare centers.
+After an incubation period of three to four days on
+average, watery diarrhea begins, which rapidly progresses to bloody diarrhea in many victims, in which
+case the bowel movement may be mostly blood.
+Nausea, vomiting, and low-grade fever are also frequently present. Gastrointestinal symptoms last for
+about one week, and recovery is often spontaneous.
+Symptomatic infection may occur in about 10% of
+infected individuals. About 5-10% of individuals,
+usually at the extremes of age or elevated leukocyte
+count, develop HUS/TTP, and ultimately, kidney failure. Patients taking antibiotics or medications for gastric acidity may also be at risk. Neurological symptoms
+can also occur as part of HUS/TTP and consist of
+seizures, paralysis, and coma. Rectal prolapse may
+also be a complication, and in some cases colitis,
+appendicitis, perforation of the large bowel, and gangrene in the bowel. Systemically, the most prevalent
+complications of E. coli 157 infections are HUS
+and TTP.
+ E. coli non-O157 (VTEC)
+These strains of E. coli produce verotoxin, but are
+strains other than O157. There have been as many as
+one hundred different types implicated in the development of disease. Strain OH111 was found to be
+involved in outbreaks in Australia, Japan, and Italy.
+The O128, O103, and O55 groups have also been
+implicated in diarrhea outbreaks. In Britain, cases of
+infantile gastroenteritis in maternity hospitals and
+neonatal units have been attributed to the E. coli
+non-0157 group. Many of these organisms have been
+identified in cattle.
+Enterotoxigenic E. coli
+Two toxins may be produced by this group, the
+heat-labile enterotoxin (LT) that can produce enteritis
+in infants, and a heat stable enterotoxin (ST), the
+action of which has yet to be determined.
+Enteroinvasive E. coli
+Some strains of the enteroinvasive E. coli have
+been involved in the development of gastroenteritis
+in infants. These organisms do not produce and enterotoxin. The cells of the intestine are affected, with the
+development of symptoms that are typical of a shigellae infection.
+Diagnosis
+Diagnosis of a specific type of infection is dependant upon the characteristics of the particular strain of
+the organism.
+ E. coli O157:H7 (HUS)
+This particular strain of E. coli is suspected when
+bloody diarrhea, bloody stools, lack of fever, elevated
+leukocyte count, and abdominal tenderness are present. Stool cultures are used to tentatively identify the
+bacteria. Unfortunately, cultures are often negative or
+inconclusive if done after 48 hours of symptoms.
+Further tests are usually needed, however, for confirmation of infection. This may include a full blood
+count, blood film, and tests to determine urea, electrolyte, and LDH (lactate dehydrogenase) levels.
+Damaged red blood cells, and elevated levels of creatinine, urea, and LDH with a drop in platelet count may
+indicate that HUS will develop. Immunomagnetic
+separation is now being used for diagnosis as well.
+ E. coli non-O157 (VTEC)
+Diagnosis is often difficult for these types of bacteria, but production of enterohemolysin (Ehly) is
+used as an indicator. Other diagnostic tests are used
+to detect verotoxins, including ELISA (enzyme-linked
+immunosorbent assays), colony immunoblotting, and
+DNA-based tests.
+ E. coli 0157 STEC
+Methods for detection of this type of bacteria are
+under development, including culture growth media
+selective for this organism. Immunomagnetic separation and specific ELISA, latex agglutination tests,
+colony immunoblot assays, and other immunological-based detection methods are being explored.
+Treatment
+Uncomplicated cases of the E. coli O157:H7 the
+infection clear up within ten days. It is not certain that
+antibiotics are helpful in treating E. coli O157:H7 and
+there is some evidence that they may be harmful.
+Dehydration resulting from diarrhea must be treated
+with either Oral Rehydration Solution (ORS) or intravenous fluids. Anti-motility agents that decrease the
+intestines’ ability to contract, should not be used in
+any patient with bloody diarrhea. Treatment of HUS,
+if it develops, involves correction of clotting factors,
+plasma exchange, and kidney dialysis. Blood transfusions may be required. Treatment methods for other
+ E. coli infections are similar. Antibiotics are often used
+in the treatment of E. coli infections, but their role is
+controversial. Some antibiotics may enhance the
+development of HUS/TTP depending upon their
+action, as well as the use of anti diarrhea medications
+that should be avoided. Phosphoenolpyruvate
+analogues may be helpful. Gentamicin, ampicillin,
+ceftazidime, or beta-lactamase-stable cephalosporin
+may be administered for neonatal meningitis.
+Antibiotic therapy is further complicated by the presence of antibiotic resistant organisms.
+Alternative treatment
+Studies have been conducted to determine if diarrhea symptoms can be reduced by alternative therapies such as the consumption of herbal teas, psyllium,
+and acupuncture. Patients should consult their doctors before using any alternative treatments, as E. coli
+can be life threatening and should be closely
+monitored.
+Prognosis
+In most cases of O157:H7, symptoms last for
+about a week and recovery is often spontaneous. Ten
+percent of individuals with E. coli O157:H7 infection
+develop HUS; 5% of those will die of the disease.
+Some who recover from HUS will be left with some
+degree of kidney damage and possibly irritable bowel
+syndrome. Additionally, there is a possibility of
+chronic E. coli infection.
+Infants that develop E. coli infections may be
+permanently affected. Gastroenteritis may leave the
+child with lactose intolerance. Neonates developing
+meningitis from E. coli strains have a high morbidity
+and mortality rate
+Prevention
+Thorough cooking of all meat and poultry products and adhering to proper food preparation is the
+most effective way to avoid infection. More studies
+are needed to determine the appropriate safety margins for killing these bacteria. Food irradiation methods are also being developed to sanitize food.
+Vaccinations to E. coli 0157 are under development,
+as are medications aimed at limiting the effects of the
+verotoxin. The enforcement of regulations for meat
+production and water are critical. Steam pasteurization is used in the United States and is being explored
+in other countries.
+Prevention of E. coli gastroenteritis in infants is
+best achieved by breast-feeding. The breast milk contains antibodies that combat the infection. For bottlefed infants, care should be taken in the preparation of
+the milk and bottles. Good hygiene of the umbilical
+cord area is important. Keeping this area clean and
+dry may reduce infection.

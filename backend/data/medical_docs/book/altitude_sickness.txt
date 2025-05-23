@@ -1,0 +1,131 @@
+Definition
+Altitude sickness is a general term encompassing a
+spectrum of disorders that occur at higher altitudes.
+Since the severity of symptoms varies with altitude, it
+is important to understand the range of the different
+altitudes that may be involved. High altitude is defined
+as height greater than 8,000 feet (2,438m); medium
+altitude is defined as height between 5,000 and 8,000
+feet (1,524-2,438m); and extreme altitude is defined as
+height greater than 19,000 feet (5,791 m). The majority
+of healthy individuals suffer from altitude sickness when
+they reach very high altitudes. In addition, about 20%
+of people ascending above 9,000 feet (2,743m) in one
+day will develop altitude sickness. Children under six
+years and women in the premenstrual part of their cycles
+may be more vulnerable. Individuals with preexisting
+medical conditions–even a minor respiratory infection–
+may become sick at more moderate altitudes.
+Description
+There are three major clinical syndromes that fall
+under the heading of altitude sickness: acute mountain
+sickness (AMS), high-altitude pulmonary edema
+(HAPE), and high-altitude cerebral edema (HACE).
+These syndromes are not separate, individual syndromes as much as they are a continuum of severity,
+all resulting from a decrease in oxygen in the air. AMS
+is the mildest, and the other two represent severe, lifethreatening forms of altitude sickness.
+Altitude sickness occurs because the partial pressure of oxygen decreases with altitude. (Partial pressure is a term applied to gases that is similar to the way
+the term concentration is applied to liquid solutions.)
+For instance, at 18,000 feet (5,486 m) the partial pressure of oxygen drops to one-half its value at sea level
+and, therefore, there is a substantially lower amount of
+oxygen available for the individual to inhale. This is
+known as hypoxia. Furthermore, since there is less
+oxygen to inhale, less oxygen reaches the blood. This
+is known as hypoxemia. These two conditions are the
+major factors that form the basis for all the medical
+problems associated with altitude sickness.
+As a person becomes hypoxemic, his natural
+response is to breathe more rapidly (hyperventilate).
+This is the body’s attempt to bring in more oxygen at
+a rapid rate. This attempt at alleviating the effects of the
+hypoxia at higher altitudes is known as acclimatization,
+and it occurs during the first few days. Acclimatization
+is a response that occurs in individuals who travel from
+lower to higher altitudes. There are groups of people
+who have lived at high altitudes (for example, in the
+Himalayan and Andes mountains) for generations, and
+they are simply accustomed to living at such altitudes,
+perhaps through a genetic ability.
+Causes and symptoms
+Acute mountain sickness (AMS) is a mild form of
+altitude sickness that results from ascent to altitudes
+higher greater than 8,000 feet (2,438m)–even 6,500 feet
+(1,981 m) in some susceptible individuals. Although
+hypoxia is associated with the development of AMS,
+the exact mechanism by which this condition develops
+has yet to be confirmed. It is important to realize that
+some individuals acclimatize to higher altitudes more
+efficiently than others. As a result, under similar conditions some will suffer from AMS while others will not.
+At present, the susceptibility of otherwise healthy individuals to contracting AMS cannot be accurately predicted. Of those who do suffer from AMS, the condition
+tends to be most severe on the second or third day after
+reaching the high altitude, and it usually abates after
+three to five days if they remain at the same
+altitude. However, it can recur if the individuals travel
+to an even higher altitude. Symptoms usually appear a
+few hours to a few days following ascent, and they
+include dizziness, headache, shortness of breath, nausea,
+vomiting, loss of appetite, and insomnia.
+High-altitude pulmonary edema (HAPE) is a lifethreatening condition that afflicts a small percentage
+of those who suffer from AMS. In this condition, fluid
+leaks from within the pulmonary blood vessels into the
+lung tissue. As this fluid begins to accumulate within
+the lung tissue (pulmonary edema), the individual
+begins to become more and more short of breath.
+HAPE is known to afflict all types of individuals,
+regardless of their level of physical fitness.
+Typically, the individual who suffers from HAPE
+ascends quickly to a high altitude and almost immediately develops shortness of breath, a rapid heart
+rate, a cough productive of a large amount of sometimes bloody sputum, and a rapid rate of breathing.
+If no medical assistance is provided by this point,
+the patient goes into a coma and dies within a few
+hours.
+High-altitude cerebral edema (HACE), the rarest
+and most severe form of altitude sickness, involves
+cerebral edema, and its mechanism of development is
+also poorly understood. The symptoms often begin
+with those of AMS, but neurologic symptoms such
+as an altered level of consciousness, speech abnormalities, severe headache, loss of coordination, hallucinations, and even seizures. If no intervention is
+implemented, death is the result.
+Diagnosis
+The diagnosis for altitude sickness may be made
+from the observation of the individual’s symptoms
+during travel to higher altitudes.
+Treatment
+Mild AMS requires no treatment other than an
+aspirin or ibuprofen for headache, and avoidance of
+further ascent. Narcotics should be avoided because
+they may blunt the respiratory response, making
+it even more difficult for the person to breathe deeply
+and rapidly enough to compensate for the lower levels
+of oxygen in the environment. Oxygen may also be
+used to alleviate symptoms of mild AMS.
+As for HAPE and HACE, the most important
+course of action is descent to a lower altitude as soon
+as possible. Even a 1,000-2,000-foot (305-610 m) descent can dramatically improve one’s symptoms. If
+descent is not possible, oxygen therapy should be
+started. In addition, dexamethasone (a steroid) has
+been suggested in order to reduce cerebral edema.
+Prognosis
+The prognosis for mild AMS is good, if appropriate measures are taken. As for HAPE and HACE,
+the prognosis depends upon the rapidity and distance
+of descent and the availability of medical intervention.
+Descent often leads to improvement of symptoms,
+however, recovery times vary among individuals.
+Prevention
+When individuals ascend from sea level, it is recommended that they spend at least one night at
+an intermediate altitude prior to ascending to higher
+elevations. In general, climbers should take at least two
+days to go from sea level to 8,000 feet (2,438m). After
+reaching that point, healthy climbers should generally
+allow one day for each additional 2,000 feet (610m), and
+one day of rest should be taken every two or three days.
+Should mild symptoms begin to surface, further ascent
+should be avoided. If the symptoms are severe, the individual should return to a lower altitude. Some reports
+indicate that acetazolamide (a diuretic) may be taken
+before ascent as a preventative measure for AMS.
+Paying attention to diet can also help prevent altitude sickness. Water loss is a problem at higher altitudes, so climbers should drink ample water (enough to
+produce copious amounts of relatively light-colored or
+clear urine). Alcohol and large amounts of salt should
+be avoided. Eating frequent small, high-carbohydrate
+snacks (for example, fruits, jams and starchy foods)
+can help, especially in the first few days of climbing.

@@ -1,0 +1,116 @@
+Definition
+Anoxia is a condition characterized by an absence
+of oxygen supply to an organ or a tissue.
+Description
+Anoxia results when oxygen is not being delivered
+to a part of the body. If the condition does not involve
+total oxygen deprivation, it is often called hypoxia,
+although the two terms have been used interchangeably. A related condition, anoxemia, occurs when the
+blood circulates but contains a below normal amount
+of oxygen.
+The five types of anoxia or hypoxia include
+hypoxemic, anemic, affinity, stagnant, and histotoxic.
+Hypoxemic anoxia happens when the oxygen pressure
+outside the body is so low that the hemoglobin, the
+chemical which carries oxygen in the red blood cells
+(RBCs), is unable to become fully loaded with the gas.
+This results in too little oxygen reaching the tissues
+and can occur in suffocation when a person is at High
+altitude, where the pressure of oxygen in the air is
+much less than at sea level.
+Anemic anoxia results from a decrease in the
+amount of hemoglobin or RBCs in the blood, which
+reduces the ability to get oxygen to the tissues. Anemia
+may result from lack of production of red blood cells
+(iron deficiency), blood loss (hemorrhage), or shortened lifespan of red blood cells (autoimmune disease).
+Affinity anoxia involves a defect in the chemistry
+of the blood such that the hemoglobin can no longer
+pick up as much oxygen from the air, even though the
+quantities are normal, reducing how much is delivered
+to the tissues.
+Stagnant anoxia occurs when there is interference
+with the blood flow, although the blood and its
+oxygen-carrying abilities are normal. A common
+cause of general stagnant anoxia is heart disease or
+interference with the return of blood flow through the
+veins. Examples of local stagnant anoxia include exposure to cold, diseases that restrict circulation to the
+extremities, and ergot poisoning. When the tissue or
+organ itself has a reduced ability to accept and use the
+oxygen, it is called histotoxic anoxia. The classic example is cyanide poisoning, where the chemical inactivates a cellular enzyme necessary for the cell to use
+oxygen. Thus, tissue exposed to cyanide cannot use the
+oxygen even though it is in normal amounts in the
+bloodstream. Histotoxic anoxia can also be caused
+by exposure to narcotics, alcohol, formaldehyde, acetone, toluene, and certain anesthetic agents.
+Causes and symptoms
+Anoxia and hypoxia can be caused by any number
+of disease states of the blood,lungs, heart and circulation
+including heart attack, severe asthma, or emphysema.
+It can also result from smoke or carbon monoxide inhalation, improper exposure to anesthesia, poisoning,
+strangulation, near-drowning, or high altitude exposure
+through mountain climbing or travel in an insufficiently
+pressurized airplane. Anoxia, and the resultant brain
+damage, is a particular problem with newborns during
+difficult births.
+No matter what the cause of anoxia, the symptoms are similar. In severe cases, the patient is often
+confused and commonly stuperous or comatose (in a
+state of unconsciousness). Depending on the severity
+of the injury to the brain, the organ most sensitive to
+reduced oxygen intake, this condition can persist for
+hours, days, weeks, or even months or years. Seizures,
+myoclonic jerks (involuntary muscle spasms or
+twitches), and neck stiffness are some other symptoms
+of the anoxic condition.
+Symptoms of more localized or less complete oxygen deprivation (hypoxia) include increased breathing
+rate, lightheadedness, dizziness, tingling or warm sensation, sweating, reduced field of vision, sleepiness, a
+bluish tint to skin, particularly the fingertips and lips,
+and behavior changes, often an inappropriate sense of
+euphoria.
+Diagnosis
+Diagnosis of anoxia and hypoxia is commonly
+made through the appearance of clinical symptoms.
+However, suspected reduction in oxygen reaching the
+tissues can be confirmed using laboratory tests. The
+exact test that is performed is dependent on the suspected cause of the anoxia. One systemic measure of
+tissue anoxia is the serum lactate (lactic acid) test.
+When cells are forced to produce energy without oxygen, as would happen during anoxia, lactic acid is one
+of the byproducts. Thus, an increase in lactic acid in
+the blood would indicate that tissues were starved for
+oxygen and are using non-oxygen pathways to produce energy. Normally, the blood contains less than
+2mmol/L of lactic acid. However, some forms of
+anoxia do not increase lactic acid concentrations in
+the blood and some increases in lactic acid levels are
+not associated with anoxia, so an elevated value for
+this test is only suggestive of an anoxic or hypoxic
+condition.
+Treatment
+The exact treatment for anoxia is dependent on
+the cause of the reduced oxygen reaching the tissues.
+However, immediate restoration of tissue oxygen
+levels through supplementing the patient’s air supply
+with 100% oxygen is a common first step. Secondary
+steps often include support of the cardiovascular system through drugs or other treatment, treatment of
+lung disease, transfusions, or administration of anecdotes for poisoning, as appropriate.
+Prognosis
+A good prognosis is dependent on the ability to
+treat the underlying cause of the low oxygen levels. If
+cardiovascular and respiratory systems can be supported adequately, recovery from the injury to the
+tissue is possible, although extent of injury to the
+brain can be difficult to assess. The exact amount of
+recovery varies with the amount of injury sustained,
+where significant injury brings a poorer prognosis. As
+recovery occurs, both psychological and neurological
+abnormalities may appear, persist, and can improve.
+Some problems seen after anoxia include mental confusion, personality changes, amnesia or other types of
+memory loss, hallucinations, and persistent myoclonus
+(involuntary contractions of the muscles).
+Prevention
+Hypoxemic anoxia can be avoided by utilizing
+supplemental oxygen when in high altitudes and
+being aware of the early symptoms of altitude sickness and reducing altitude once recognized. Iron supplements can avoid anemic hypoxia, although more
+severe anemic states are usually caused by disease or
+bleeding. Maintaining good cardiovascular health
+through proper diet and exercise is a good first step
+to avoiding the most common cause of stagnant
+anoxia. Avoiding exposure to the toxic chemicals
+that cause the condition can prevent histotoxic
+anoxia.

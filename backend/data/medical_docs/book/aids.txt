@@ -1,0 +1,451 @@
+Definition
+Acquired immune deficiency syndrome (AIDS) is
+an infectious disease caused by the human immunodeficiency virus (HIV). It was first recognized in the
+United States in 1981. AIDS is the advanced form of
+infection with the HIV virus, which may not cause
+recognizable disease for a long period after the initial
+exposure (latency). No vaccine is currently available to
+prevent HIV infection. At present, all forms of AIDS
+therapy are focused on improving the quality and
+length of life for AIDS patients by slowing or halting
+the replication of the virus and treating or preventing
+infections and cancers that take advantage of a person’s weakened immune system.
+Description
+AIDS is considered one of the most devastating
+public health problems in recent history. In June 2000,
+the Centers for Disease Control and Prevention
+(CDC) reported that 120,223 (includes only those
+cases in areas that have confidential HIV reporting)
+in the United States are HIV-positive, and 311,701 are
+living with AIDS (includes only those cases where vital
+status is known). Of these patients, 44% are gay or
+bisexual men, 20% are heterosexual intravenous drug
+users, and 17% are women. In addition, approximately 1,000-2,000 children are born each year with
+HIV infection. The World Health Organization
+(WHO) estimates that 33 million adults and 1.3 million children worldwide were living with HIV/AIDS as
+of 1999 with 5.4 million being newly infected that year.
+Most of these cases are in the developing countries of
+Asia and Africa.
+Risk factors
+AIDS can be transmitted in several ways. The risk
+factors for HIV transmission vary according to category:
+
+Sexual contact. Persons at greatest risk are those who
+do not practice safe sex, those who are not monogamous, those who participate in anal intercourse, and
+those who have sex with a partner with symptoms of
+advanced HIV infection and/or other sexually transmitted diseases (STDs). In the United States and
+Europe, most cases of sexually transmitted HIV infection have resulted from homosexual contact, whereas
+inAfrica, the diseaseis spread primarily through sexual
+intercourse among heterosexuals.
+
+Transmission in pregnancy. High-risk mothers
+include women married to bisexual men or men
+who have an abnormal blood condition called hemophilia and require blood transfusions, intravenous
+drug users, and women living in neighborhoods
+with a high rate of HIV infection among heterosexuals. The chances of transmitting the disease to the
+child are higher in women in advanced stages of the
+disease. Breast feeding increases the risk of transmission by 10-20%. The use of zidovudine (AZT) during
+pregnancy, however, can decrease the risk of transmission to the baby.
+
+Exposure to contaminated blood or blood products.
+With the introduction of blood product screening in
+the mid-1980s, the incidence of HIV transmission in
+blood transfusions has dropped to onein every 100,000
+transfused. With respect to HIV transmission among
+drug abusers, risk increases with the duration of using
+injections, the frequency of needle sharing, the number of persons who share a needle, and the number of
+AIDS cases in the local population.
+
+Needle sticks among health care professionals.
+Present studies indicate that the risk of HIV transmission by a needle stick is about one in 250. This
+rate can be decreased if the injured worker is given
+AZT, an anti-retroviral medication, in combination
+with other medication.
+HIV is not transmitted by handshakes or other
+casual non-sexual contact, coughing or sneezing, or by
+bloodsucking insects such as mosquitoes.
+AIDS in women
+AIDS in women is a serious public health concern.
+Women exposed to HIV infection through heterosexual contact are the most rapidly growing risk
+group in the United States population. The percentage
+of AIDS cases diagnosed in women has risen from 7%
+in 1985 to 23% in 1999. Women diagnosed with AIDS
+may not live as long as men, although the reasons for
+this finding are unclear.
+AIDS in children
+Since AIDS can be transmitted from an infected
+mother to the child during pregnancy, during the birth
+process, or through breast milk, all infants born to
+HIV-positive mothers are a high-risk group. As of
+2000, it was estimated that 87% of HIV-positive
+women are of childbearing age; 41% of them are
+drug abusers. Between 15-30% of children born to
+HIV-positive women will be infected with the virus.
+AIDS is one of the 10 leading causes of death in
+children between one and four years of age. The interval between exposure to HIV and the development of
+AIDS is shorter in children than in adults. Infants
+infected with HIV have a 20-30% chance of developing AIDS within a year and dying before age three. In
+the remainder, AIDS progresses more slowly; the
+average child patient survives to seven years of age.
+Some survive into early adolescence.
+Causes and symptoms
+Because HIV destroys immune system cells, AIDS
+is a disease that can affect any of the body’s major
+organ systems. HIV attacks the body through three
+disease processes: immunodeficiency, autoimmunity,
+and nervous system dysfunction.
+ich the body’s immune response is damaged, weakened, or is not functioning properly. In AIDS, immunodeficiency results from the way that the virus binds
+to a protein called CD4, which is primarily found on
+the surface of certain subtypes of white blood cells
+called helper T cells or CD4 cells. After the virus has
+attached to the CD4 receptor, the virus-CD4 complex
+refolds to uncover another receptor called a chemokine receptor that helps to mediate entry of the virus
+into the cell. One chemokine receptor in particular,
+CCR5, has gotten recent attention after studies
+showed that defects in its structure (caused by genetic
+mutations) cause the progression of AIDS to be prevented or slowed. Scientists hope that this discovery
+will lead to the development of drugs that trigger an
+artificial mutation of the CCR5 gene or target the
+CCR5 receptor.
+Once HIV has entered the cell, it can replicate
+intracellularly and kill the cell in ways that are still
+not completely understood. In addition to killing some
+lymphocytes directly, the AIDS virus disrupts the
+functioning of the remaining CD4 cells. Because the
+immune system cells are destroyed, many different
+types of infections and cancers that take advantage
+of a person’s weakened immune system (opportunistic) can develop.
+Autoimmunity is a condition in which the body’s
+immune system produces antibodies that work against
+its own cells. Antibodies are specific proteins produced in response to exposure to a specific, usually
+foreign, protein or particle called an antigen. In this
+case, the body produces antibodies that bind to blood
+platelets that are necessary for proper blood clotting
+and tissue repair. Once bound, the antibodies mark the
+platelets for removal from the body, and they are
+filtered out by the spleen. Some AIDS patients develop
+a disorder, called immune-related thrombocytopenia
+purpura (ITP), in which the number of blood platelets
+drops to abnormally low levels.
+Researchers do not know precisely how HIV
+attacks the nervous system since the virus can cause
+damage without infecting nerve cells directly. One
+theory is that, once infected with HIV, one type of
+immune system cell, called a macrophage, begins to
+release a toxin that harms the nervous system.
+The course of AIDS generally progresses through
+three stages, although not all patients will follow this
+progression precisely:
+Acute retroviral syndrome
+Acute retroviral syndrome is a term used to
+describe a group of symptoms that can resemble
+mononucleosis and that may be the first sign of HIV
+infection in 50-70% of all patients and 45-90% of
+women. Most patients are not recognized as infected
+during this phase and may not seek medical attention.
+The symptoms may include fever, fatigue, muscle
+aches, loss of appetite, digestive disturbances, weight
+loss, skin rashes, headache, and chronically swollen
+lymph nodes (lymphadenopathy). Approximately 25-
+33% of patients will experience a form of meningitis
+during this phase in which the membranes that cover
+the brain and spinal cord become inflamed. Acute
+retroviral syndrome develops between one and six
+weeks after infection and lasts for two to three
+weeks. Blood tests during this period will indicate the
+presence of virus (viremia) and the appearance of the
+viral p24 antigen in the blood.
+Latency period
+After the HIV virus enters a patient’s lymph nodes
+during the acute retroviral syndrome stage, the disease
+becomes latent for as many as 10 years or more before
+symptoms of advanced disease develop. During
+latency, the virus continues to replicate in the lymph
+nodes, where it may cause one or more of the following
+conditions:
+PERSISTENT GENERALIZED LYMPHADENOPATHY
+(PGL). Persistent generalized lymphadenopathy, or
+PGL, is a condition in which HIV continues to produce chronic painless swellings in the lymph nodes
+during the latency period. The lymph nodes that are
+most frequently affected by PGL are those in the areas
+of the neck, jaw, groin, and armpits. PGL affects
+between 50-70% of patients during latency.
+CONSTITUTIONAL SYMPTOMS. Many patients will
+develop low-grade fevers, chronic fatigue, and general
+weakness. HIV may also cause a combination of food
+malabsorption, loss of appetite, and increased metabolism that contribute to the so-called AIDS wasting
+or wasting syndrome.
+OTHER ORGAN SYSTEMS. At any time during the
+course of HIV infection, patients may suffer from a
+yeast infection in the mouth called thrush, open sores
+or ulcers, or other infections of the mouth; diarrhea
+and other gastrointestinal symptoms that cause malnutrition and weight loss; diseases of the lungs and
+kidneys; and degeneration of the nerve fibers in the
+arms and legs. HIV infection of the nervous system
+leads to general loss of strength, loss of reflexes, and
+feelings of numbness or burning sensations in the feet
+or lower legs.
+Late-stage disease (AIDS)
+AIDS is usually marked by a very low number of
+CD4+ lymphocytes, followed by a rise in the frequency of opportunistic infections and cancers.
+Doctors monitor the number and proportion of
+CD4+ lymphocytes in the patient’s blood in order to
+assess the progression of the disease and the effectiveness of different medications. About 10% of infected
+individuals never progress to this overt stage of the
+disease and are referred to as nonprogressors.
+OPPORTUNISTIC INFECTIONS. Once the patient’s
+CD4+ lymphocyte count falls below 200 cells/mm 3
+,
+he or she is at risk for a variety of opportunistic infections. The infectious organisms may include the
+following:
+
+Fungi. The most common fungal disease associated
+with AIDS is Pneumocystis carinii pneumonia (PCP).
+PCP is the immediate cause of death in 15-20% of
+AIDS patients. It is an important measure of a
+patient’s prognosis. Other fungal infections include
+a yeast infection of the mouth (candidiasis or thrush)
+and cryptococcal meningitis.
+
+Protozoa. Toxoplasmosis is a common opportunistic
+infection in AIDS patients that is caused by a protozoan. Other diseases in this category include isoporiasis and cryptosporidiosis.
+
+Mycobacteria. AIDS patients may develop tuberculosis or MAC infections. MAC infections are caused
+by Mycobacterium avium-intracellulare, and occur in
+about 40% of AIDS patients. It is rare until CD4+
+counts falls below 50 cells/mm3
+.
+
+Bacteria. AIDS patients are likely to develop bacterial infections of the skin and digestive tract.
+
+Viruses. AIDS patients are highly vulnerable to cytomegalovirus (CMV), herpes simplex virus (HSV),
+varicella zoster virus (VZV), and Epstein-Barr virus
+(EBV) infections. Another virus, JC virus, causes
+progressive destruction of brain tissue in the brain
+stem, cerebrum, and cerebellum (multifocal leukoencephalopathy or PML), which is regarded as an
+AIDS-defining illness by the Centers for Disease
+Control and Prevention.
+AIDS DEMENTIA COMPLEX AND NEUROLOGIC COMPLICATIONS. AIDS dementia complex is usually
+a late complication of the disease. It is unclear whether
+it is caused by the direct effects of the virus on the
+brain or by intermediate causes. AIDS dementia complex is marked by loss of reasoning ability, loss of
+memory, inability to concentrate, apathy and loss of
+initiative, and unsteadiness or weakness in walking.
+Some patients also develop seizures. There are no
+specific treatments for AIDS dementia complex.
+MUSCULOSKELETAL COMPLICATIONS. Patients in
+late-stage AIDS may develop inflammations of the
+muscles, particularly in the hip area, and may have
+arthritis-like pains in the joints.
+ORAL SYMPTOMS. In addition to thrush and painful ulcers in the mouth, patients may develop a condition called hairy leukoplakia of the tongue. This
+condition is also regarded by the CDC as an indicator
+of AIDS. Hairy leukoplakia is a white area of diseased
+tissue on the tongue that may be flat or slightly raised.
+It is caused by the Epstein-Barr virus.
+AIDS-RELATED CANCERS. Patients with late-stage
+AIDS may develop Kaposi’s sarcoma (KS), a skin
+tumor that primarily affects homosexual men. KS is
+the most common AIDS-related malignancy. It is
+characterized by reddish-purple blotches or patches
+(brownish in African-Americans) on the skin or in
+the mouth. About 40% of patients with KS develop
+symptoms in the digestive tract or lungs. KS may be
+caused by a herpes virus-like sexually transmitted disease agent rather than HIV.
+The second most common form of cancer in AIDS
+patients is a tumor of the lymphatic system (lymphoma). AIDS-related lymphomas often affect the
+central nervous system and develop very aggressively.
+Invasive cancer of the cervix (related to certain
+types of human papilloma virus [HPV]) is an important diagnostic marker of AIDS in women.
+While incidence of AIDS-defining cancers such as
+Kaposi’s sarcoma and cervical cancer have decreased
+since increase use of antiretroviral therapy, other cancers has increased in AIDS patients. People with HIV
+has shown higher incidence of lung cancer, head and
+neck cancers, Hodgkin’s lymphoma, melanoma, and
+anorectal cancer from 1992 to 2002.
+Diagnosis
+Because HIV infection produces such a wide
+range of symptoms, the CDC has drawn up a list
+of 34 conditions regarded as defining AIDS. The
+physician will use the CDC list to decide whether the
+patient falls into one of these three groups:
+
+definitive diagnoses with or without laboratory evidence of HIV infection
+
+definitive diagnoses with laboratory evidence of HIV
+infection
+
+presumptive diagnoses with laboratory evidence of
+HIV infection.
+Physical findings
+Almost all the symptoms of AIDS can occur with
+other diseases. The general physical examination may
+range from normal findings to symptoms that are
+closely associated with AIDS. These symptoms are
+hairy leukoplakia of the tongue and Kaposi’s sarcoma. When the doctor examines the patient, he or
+she will look for the overall pattern of symptoms
+rather than any one finding.
+Laboratory tests for HIV infection
+BLOOD TESTS (SEROLOGY). The first blood test
+for AIDS was developed in 1985. At present, patients
+who are being tested for HIV infection are usually
+given an enzyme-linked immunosorbent assay
+(ELISA) test for the presence of HIV antibody in
+their blood. Positive ELISA results are then tested
+with a Western blot or immunofluorescence (IFA)
+assay for confirmation. The combination of the
+ELISA and Western blot tests is more than 99.9%
+accurate in detecting HIV infection within four to
+eight weeks following exposure. The polymerase
+chain reaction (PCR) test can be used to detect the
+presence of viral nucleic acids in the very small number
+of HIV patients who have false-negative results on the
+ELISA and Western blot tests. These tests are also
+used to detect viruses and bacterium other than HIV
+and AIDS.
+OTHER LABORATORY TESTS. In addition to diagnostic blood tests, there are other blood tests that are
+used to track the course of AIDS in patients that have
+already been diagnosed. These include blood counts,
+viral load tests, p24 antigen assays, and measurements
+of  2-microglobulin ( 2M).
+Doctors will use a wide variety of tests to diagnose
+the presence of opportunistic infections, cancers, or
+other disease conditions in AIDS patients. Tissue
+biopsies, samples of cerebrospinal fluid, and sophisticated imaging techniques, such as magnetic resonance
+imaging (MRI) and computed tomography scans (CT)
+are used to diagnose AIDS-related cancers, some
+opportunistic infections, damage to the central
+nervous system, and wasting of the muscles. Urine and
+stool samples are used to diagnose infections caused
+by parasites. AIDS patients are also given blood tests
+for syphilis and other sexually transmitted diseases.
+Diagnosis in children
+Diagnostic blood testing in children older than 18
+months is similar to adult testing, with ELISA screening confirmed by Western blot. Younger infants can
+be diagnosed by direct culture of the HIV virus, PCR
+testing, and p24 antigen testing.
+In terms of symptoms, children are less likely than
+adults to have an early acute syndrome. They are,
+however, likely to have delayed growth, a history of
+frequent illness, recurrent ear infections, a low blood
+cell count, failure to gain weight, and unexplained
+fevers. Children with AIDS are more likely to develop
+bacterial infections, inflammation of the lungs, and
+AIDS-related brain disorders than are HIV-positive
+adults.
+Treatment
+Treatment for AIDS covers four considerations:
+TREATMENT OF OPPORTUNISTIC INFECTIONS AND MALIGNANCIES. Most AIDS patients require complex
+long-term treatment with medications for infectious
+diseases. This treatment is often complicated by the
+development of resistance in the disease organisms.
+AIDS-related malignancies in the central nervous system are usually treated with radiation therapy.
+Cancers elsewhere in the body are treated with
+chemotherapy.
+PROPHYLACTIC TREATMENT FOR OPPORTUNISTIC INFECTIONS. Prophylactic treatment is treatment that
+is given to prevent disease. AIDS patients with a history of Pneumocystis pneumonia; with CD4+ counts
+below 200 cells/mm3 or 14% of lymphocytes; weight
+loss; or thrush should be given prophylactic medications. The three drugs given are trimethoprimsulfamethoxazole, dapsone, or pentamidine in aerosol
+form.
+ANTI-RETROVIRAL TREATMENT. In recent years
+researchers have developed drugs that suppress HIV
+replication, as distinct from treating its effects on the
+body. These drugs fall into four classes:
+
+Nucleotide analogues. These drugs work by interfering with the action of HIV reverse transcriptase
+inside infected cells, thus ending the virus’ replication
+process. These drugs include zidovudine (sometimes
+called azidothymidine or AZT), didanosine (ddI),
+zalcitabine (ddC), stavudine (d4T), lamivudine
+(3TC), and abacavir (ABC).
+
+Protease inhibitors. Protease inhibitors can be effective against HIV strains that have developed resistance to nucleoside analogues, and are often used in
+combination with them. These compounds include
+saquinavir, ritonavir, indinavir, nelfinavir, amprenavir, and lopinavir..
+
+Non-nucleoside reverse transcriptase inhibitors. This
+is a new class of antiretroviral agents. Three are
+available, nevirapine, which was approved first, delavirdine and efavirin.
+
+Fusion inhibitors, the newest class of antiretrovirals.
+They block specific proteins on the surface of the
+virus or the CD4 cell. These proteins help the virus
+gain entry into the cell.The only FDA approved
+fusion inhibitor as of spring 2004 was enfuvirtide.
+Treatment guidelines for these agents are in constant change as new medications are developed and
+introduced. Two principles currently guide doctors in
+working out drug regimens for AIDS patients: using
+combinations of drugs rather than one medication
+alone; and basing treatment decisions on the results
+of the patient’s viral load tests.
+STIMULATION OF BLOOD CELL PRODUCTION.
+Because many patients with AIDS suffer from abnormally low levels of both red and white blood cells,
+they may be given medications to stimulate blood cell
+production. Epoetin alfa (erythropoietin) may be
+given to anemic patients. Patients with low white
+blood cell counts may be given filgrastim or
+sargramostim.
+Treatment in women
+Treatment of pregnant women with HIV is particularly important in that anti-retroviral therapy
+has been shown to reduce transmission to the infant
+by 65%.
+Alternative treatment
+Alternative treatments for AIDS can be grouped
+into two categories: those intended to help the immune
+system and those aimed at pain control. Treatments
+that may enhance the function of the immune system
+include Chinese herbal medicine and western herbal
+medicine, macrobiotic and other special diets, guided
+imagery and creative visualization, homeopathy, and
+vitamin therapy. Pain control therapies include hydrotherapy, reiki, acupuncture, meditation, chiropractic
+treatments, and therapeutic massage. Alternative
+therapies can also be used to help with side effects of
+the medications used in the treatment of AIDS.
+Prognosis
+At the present time, there is no cure for AIDS.
+Treatment stresses aggressive combination drug
+therapy for those patients with access to the expensive medications and who tolerate them adequately.
+The use of these multi-drug therapies has significantly reduced the numbers of deaths, in this country,
+resulting from AIDS. The data is still inconclusive,
+but the potential exists to possibly prolong life
+indefinitely using these and other drug therapies to
+boost the immune system, keep the virus from replicating, and ward off opportunistic infections and
+malignancies.
+Prognosis after the latency period depends on the
+patient’s specific symptoms and the organ systems
+affected by the disease. Patients with AIDS-related
+lymphomas of the central nervous system die within
+two to three months of diagnosis; those with systemic
+lymphomas may survive for eight to ten months.
+Prevention
+As of 2005, there was no vaccine effective against AIDS. Several vaccines are currently being investigated, however, both to prevent initial HIV infection
+and as a therapeutic treatment to prevent HIV from
+progressing to full-blown AIDS.
+In the meantime, there are many things that can
+be done to prevent the spread of AIDS:
+
+Being monogamous and practice safe sex.
+Individuals must be instructed in the proper use of
+condoms and urged to practice safe sex. Besides
+avoiding the risk of HIV infection, condoms are
+successful in preventing other sexually transmitted
+diseases and unwanted pregnancies. Before engaging
+in a sexual relationship with someone, getting tested
+for HIV infection is recommended.
+
+Avoiding needle sharing among intravenous drug
+users.
+
+Although blood and blood products are carefully
+monitored, those individuals who are planning to
+undergo major surgery may wish to donate blood
+ahead of time to prevent a risk of infection from a
+blood transfusion.
+
+Healthcare professionals must take all necessary precautions by wearing gloves and masks when handling body fluids and preventing needle-stick injuries.
+
+If someone suspects HIV infection, he or she
+should be tested for HIV. If treated aggressively
+and early, the development of AIDS may be postponed indefinitely. If HIV infection is confirmed, it
+is also vital to let sexual partners know so that they
+can be tested and, if necessary, receive medical
+attention.
