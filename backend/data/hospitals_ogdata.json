@@ -695,7 +695,7 @@
     ]
   },
   {
-    "hospital_name": "SIMS Multi Speciality Hospital",
+    "hospital_name": "SIMS Hospital,Vadapalani",
     "address": {
       "street": "Jawaharlal Nehru Road",
       "city": "Chennai",
@@ -2085,7 +2085,7 @@
     ]
   },
   {
-    "hospital_name": "Meridian Hospital",
+    "hospital_name": "Kauvery Hospital,Alwarpet",
     "address": {
       "street": "Jawaharlal Nehru Road",
       "city": "Chennai",
@@ -2780,7 +2780,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals",
+    "hospital_name": "Apollo Hospital,Greams Road",
     "address": {
       "street": "Greams Lane",
       "city": "Chennai",
@@ -3475,7 +3475,7 @@
     ]
   },
   {
-    "hospital_name": "Wock hardt Hospital",
+    "hospital_name": "Kokilaben Dhirubhai Ambani Hospital",
     "address": {
       "street": "Mumbai central",
       "city": "Mumbai",
@@ -4865,7 +4865,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis SL Raheja Hospital",
+    "hospital_name": "P.D.Hinduja National Hospital and Medical Research Centre",
     "address": {
       "street": "Mahim west",
       "city": "Mumbai",
@@ -5560,7 +5560,7 @@
     ]
   },
   {
-    "hospital_name": "Criticare Asia Multispeciality Hospital",
+    "hospital_name": "Jaslok Hospital and Research Centre",
     "address": {
       "street": "Kurla West",
       "city": "Mumbai",
@@ -6255,7 +6255,7 @@
     ]
   },
   {
-    "hospital_name": "Lilavati Hospital and Reasearch centre",
+    "hospital_name": "Lilavati Hospital and Reasearch Centre",
     "address": {
       "street": "Bandra West",
       "city": "Mumbai",
@@ -6946,9 +6946,9 @@
     ]
   },
   {
-    "hospital_name": "Kauvery Hospital Bangalore Branch 1",
+    "hospital_name": "Manipal Hospital,Old Airport Road",
     "address": {
-      "street": "Station Road 1",
+      "street": "Old airport road",
       "city": "Bangalore",
       "state": "Karnataka",
       "pin": "554355"
@@ -7637,7 +7637,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Bangalore Branch 2",
+    "hospital_name": "Aster CMI Hospital,Hebbal",
     "address": {
       "street": "Main Road 2",
       "city": "Bangalore",
@@ -8328,7 +8328,7 @@
     ]
   },
   {
-    "hospital_name": "Kauvery Hospital Bangalore Branch 3",
+    "hospital_name": "Apollo Hospital,Bannerghatta Road",
     "address": {
       "street": "Main Road 3",
       "city": "Bangalore",
@@ -9019,7 +9019,7 @@
     ]
   },
   {
-    "hospital_name": "Manipal Hospitals Bangalore Branch 4",
+    "hospital_name": "Fortis Hospital,Bannerghatta Road ",
     "address": {
       "street": "MG Road 4",
       "city": "Bangalore",
@@ -9710,7 +9710,7 @@
     ]
   },
   {
-    "hospital_name": "Manipal Hospitals Bangalore Branch 5",
+    "hospital_name": "Sakra World Hospital,Marathahalli",
     "address": {
       "street": "MG Road 5",
       "city": "Bangalore",
@@ -10401,7 +10401,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis Hospital Hyderabad Branch 1",
+    "hospital_name": "Apollo Hospital,Jubilee Hills",
     "address": {
       "street": "Main Road 1",
       "city": "Hyderabad",
@@ -11092,7 +11092,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Hyderabad Branch 2",
+    "hospital_name": "Yashoda Hospital,Somajiguda",
     "address": {
       "street": "Main Road 2",
       "city": "Hyderabad",
@@ -11783,7 +11783,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Hyderabad Branch 3",
+    "hospital_name": "AIG Hospital,Gachibowli",
     "address": {
       "street": "Main Road 3",
       "city": "Hyderabad",
@@ -12474,7 +12474,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Hyderabad Branch 4",
+    "hospital_name": "Continental Hospital,Gachibowli",
     "address": {
       "street": "MG Road 4",
       "city": "Hyderabad",
@@ -13165,7 +13165,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis Hospital Hyderabad Branch 5",
+    "hospital_name": "Aster Prime Hospital,Ameerpet",
     "address": {
       "street": "MG Road 5",
       "city": "Hyderabad",
@@ -13856,7 +13856,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Delhi Branch 1",
+    "hospital_name": "All India Institute of Medical Sciences(AIIMS),New Delhi",
     "address": {
       "street": "Station Road 1",
       "city": "Delhi",
@@ -14547,7 +14547,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis Hospital Delhi Branch 2",
+    "hospital_name": "Sri Ganga Ram Hospital,Rajendra nagar",
     "address": {
       "street": "Main Road 2",
       "city": "Delhi",
@@ -15238,7 +15238,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Delhi Branch 3",
+    "hospital_name": "Indraprastha Apollo Hospital,Sarita Vihar",
     "address": {
       "street": "Main Road 3",
       "city": "Delhi",
@@ -15929,7 +15929,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Delhi Branch 4",
+    "hospital_name": "Max Super Speciality Hospital,Saket",
     "address": {
       "street": "MG Road 4",
       "city": "Delhi",
@@ -16620,7 +16620,7 @@
     ]
   },
   {
-    "hospital_name": "Manipal Hospitals Delhi Branch 5",
+    "hospital_name": "Safdarjung Hospital,New Delhi",
     "address": {
       "street": "Station Road 5",
       "city": "Delhi",
@@ -17311,7 +17311,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Pune Branch 1",
+    "hospital_name": "Dr. D. Y. Patil Medical College, Hospital & Research Centre",
     "address": {
       "street": "MG Road 1",
       "city": "Pune",
@@ -18002,7 +18002,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Pune Branch 2",
+    "hospital_name": "Sahyadri Super Speciality Hospital",
     "address": {
       "street": "MG Road 2",
       "city": "Pune",
@@ -18693,7 +18693,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Pune Branch 3",
+    "hospital_name": "Sancheti Hospital",
     "address": {
       "street": "Station Road 3",
       "city": "Pune",
@@ -19384,7 +19384,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Pune Branch 4",
+    "hospital_name": "Sassoon General Hospital",
     "address": {
       "street": "MG Road 4",
       "city": "Pune",
@@ -20075,7 +20075,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Pune Branch 5",
+    "hospital_name": "Jehangir Hospital",
     "address": {
       "street": "MG Road 5",
       "city": "Pune",
@@ -20766,7 +20766,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Kolkata Branch 1",
+    "hospital_name": "Apollo Multispeciality Hopital",
     "address": {
       "street": "Station Road 1",
       "city": "Kolkata",
@@ -21457,7 +21457,7 @@
     ]
   },
   {
-    "hospital_name": "Global Hospitals Kolkata Branch 2",
+    "hospital_name": "Medica Superspeciality Hospital",
     "address": {
       "street": "Main Road 2",
       "city": "Kolkata",
@@ -22148,7 +22148,7 @@
     ]
   },
   {
-    "hospital_name": "Cloudnine Hospital Kolkata Branch 3",
+    "hospital_name": "Fortis Hospital,Anandapur",
     "address": {
       "street": "Station Road 3",
       "city": "Kolkata",
@@ -22839,7 +22839,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Kolkata Branch 4",
+    "hospital_name": "Desun Hospital",
     "address": {
       "street": "MG Road 4",
       "city": "Kolkata",
@@ -23530,7 +23530,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Kolkata Branch 5",
+    "hospital_name": "Woodlands Multispeciality Hospital",
     "address": {
       "street": "MG Road 5",
       "city": "Kolkata",
@@ -24221,7 +24221,7 @@
     ]
   },
   {
-    "hospital_name": "Cloudnine Hospital Ahmedabad Branch 1",
+    "hospital_name": "Zydus Hospital,Thaltej",
     "address": {
       "street": "Station Road 1",
       "city": "Ahmedabad",
@@ -24912,7 +24912,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Ahmedabad Branch 2",
+    "hospital_name": "Marengo Asia CIMS Hospital,Sola",
     "address": {
       "street": "Station Road 2",
       "city": "Ahmedabad",
@@ -25603,7 +25603,7 @@
     ]
   },
   {
-    "hospital_name": "Global Hospitals Ahmedabad Branch 3",
+    "hospital_name": "Apollo Hospital,Bhat",
     "address": {
       "street": "MG Road 3",
       "city": "Ahmedabad",
@@ -26294,7 +26294,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Ahmedabad Branch 4",
+    "hospital_name": "Shalby Hospital,S G Road",
     "address": {
       "street": "Station Road 4",
       "city": "Ahmedabad",
@@ -26985,7 +26985,7 @@
     ]
   },
   {
-    "hospital_name": "Cloudnine Hospital Ahmedabad Branch 5",
+    "hospital_name": "Sterling Hospital,Memnagar",
     "address": {
       "street": "Station Road 5",
       "city": "Ahmedabad",
@@ -27676,7 +27676,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Jaipur Branch 1",
+    "hospital_name": "Sawai Man Singh Hospital",
     "address": {
       "street": "Station Road 1",
       "city": "Jaipur",
@@ -28367,7 +28367,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Jaipur Branch 2",
+    "hospital_name": "Narayana Multispeciality Hospital",
     "address": {
       "street": "Station Road 2",
       "city": "Jaipur",
@@ -29058,7 +29058,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Jaipur Branch 3",
+    "hospital_name": "Manipal Hospital",
     "address": {
       "street": "Station Road 3",
       "city": "Jaipur",
@@ -29749,7 +29749,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Jaipur Branch 4",
+    "hospital_name": "Shalby Mutlispeciality Hospital",
     "address": {
       "street": "Station Road 4",
       "city": "Jaipur",
@@ -30440,7 +30440,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Jaipur Branch 5",
+    "hospital_name": "Fortis Escorts Hospital",
     "address": {
       "street": "Station Road 5",
       "city": "Jaipur",
@@ -31131,7 +31131,7 @@
     ]
   },
   {
-    "hospital_name": "Yashoda Hospitals Surat Branch 1",
+    "hospital_name": "Kiran Multi Super Speciality Hospital & Reasearch Center",
     "address": {
       "street": "MG Road 1",
       "city": "Surat",
@@ -31822,7 +31822,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Surat Branch 2",
+    "hospital_name": "Shalby Mutlispeciality Hospital",
     "address": {
       "street": "Station Road 2",
       "city": "Surat",
@@ -32513,7 +32513,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis Hospital Surat Branch 3",
+    "hospital_name": "Sunshine Global Hospital",
     "address": {
       "street": "MG Road 3",
       "city": "Surat",
@@ -33204,7 +33204,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Surat Branch 4",
+    "hospital_name": "Asutosh Multi Speciality Hospital",
     "address": {
       "street": "Main Road 4",
       "city": "Surat",
@@ -33895,7 +33895,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Surat Branch 5",
+    "hospital_name": "Satva Hospital",
     "address": {
       "street": "Station Road 5",
       "city": "Surat",
@@ -34586,7 +34586,7 @@
     ]
   },
   {
-    "hospital_name": "Kauvery Hospital Lucknow Branch 1",
+    "hospital_name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences(SGPGMIS)",
     "address": {
       "street": "Main Road 1",
       "city": "Lucknow",
@@ -35277,7 +35277,7 @@
     ]
   },
   {
-    "hospital_name": "Fortis Hospital Lucknow Branch 2",
+    "hospital_name": "King George's Medical University(KGMU)",
     "address": {
       "street": "Station Road 2",
       "city": "Lucknow",
@@ -35968,7 +35968,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Lucknow Branch 3",
+    "hospital_name": "DR. Ram Manohor Lohia Institute of Medical Science(RMLIMS)",
     "address": {
       "street": "MG Road 3",
       "city": "Lucknow",
@@ -36659,7 +36659,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Lucknow Branch 4",
+    "hospital_name": "Medanta Hospital",
     "address": {
       "street": "MG Road 4",
       "city": "Lucknow",
@@ -37350,7 +37350,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Lucknow Branch 5",
+    "hospital_name": "Max Super Speciality Hospital",
     "address": {
       "street": "MG Road 5",
       "city": "Lucknow",
@@ -38041,7 +38041,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Nagpur Branch 1",
+    "hospital_name": "All India Institute of Medical Sciences(AIIMS)",
     "address": {
       "street": "Station Road 1",
       "city": "Nagpur",
@@ -38732,7 +38732,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Nagpur Branch 2",
+    "hospital_name": "Government Medical College and Hospital(GMCH)",
     "address": {
       "street": "Main Road 2",
       "city": "Nagpur",
@@ -39423,7 +39423,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Nagpur Branch 3",
+    "hospital_name": "Wock hardt Hospital",
     "address": {
       "street": "Station Road 3",
       "city": "Nagpur",
@@ -40114,7 +40114,7 @@
     ]
   },
   {
-    "hospital_name": "Sunshine Hospitals Nagpur Branch 4",
+    "hospital_name": "CARE Hospital",
     "address": {
       "street": "Station Road 4",
       "city": "Nagpur",
@@ -40805,7 +40805,7 @@
     ]
   },
   {
-    "hospital_name": "Manipal Hospitals Nagpur Branch 5",
+    "hospital_name": "Nelson Hospital",
     "address": {
       "street": "Station Road 5",
       "city": "Nagpur",
@@ -41496,7 +41496,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Indore Branch 1",
+    "hospital_name": "Kokilaben Dhirubhai Ambani Hospital",
     "address": {
       "street": "MG Road 1",
       "city": "Indore",
@@ -42187,7 +42187,7 @@
     ]
   },
   {
-    "hospital_name": "Cloudnine Hospital Indore Branch 2",
+    "hospital_name": "Jupite Hospital",
     "address": {
       "street": "MG Road 2",
       "city": "Indore",
@@ -42878,7 +42878,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Indore Branch 3",
+    "hospital_name": "Shalby Hospital",
     "address": {
       "street": "Station Road 3",
       "city": "Indore",
@@ -43569,7 +43569,7 @@
     ]
   },
   {
-    "hospital_name": "Manipal Hospitals Indore Branch 4",
+    "hospital_name": "Bombay Hospital",
     "address": {
       "street": "Main Road 4",
       "city": "Indore",
@@ -44260,7 +44260,7 @@
     ]
   },
   {
-    "hospital_name": "Rainbow Children's Hospital Indore Branch 5",
+    "hospital_name": "Sahaj Hospital",
     "address": {
       "street": "MG Road 5",
       "city": "Indore",
@@ -44951,7 +44951,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Coimbatore Branch 1",
+    "hospital_name": "Kovai Medical Center and Hospital(KMCH)",
     "address": {
       "street": "Station Road 1",
       "city": "Coimbatore",
@@ -45642,7 +45642,7 @@
     ]
   },
   {
-    "hospital_name": "MIOT International Coimbatore Branch 2",
+    "hospital_name": "PSG Hospital",
     "address": {
       "street": "MG Road 2",
       "city": "Coimbatore",
@@ -46333,7 +46333,7 @@
     ]
   },
   {
-    "hospital_name": "Apollo Hospitals Coimbatore Branch 3",
+    "hospital_name": "Ganga Hospital",
     "address": {
       "street": "MG Road 3",
       "city": "Coimbatore",
@@ -47024,7 +47024,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Coimbatore Branch 4",
+    "hospital_name": "Sri Ramakrishna Hospital",
     "address": {
       "street": "Main Road 4",
       "city": "Coimbatore",
@@ -47715,7 +47715,7 @@
     ]
   },
   {
-    "hospital_name": "Columbia Asia Coimbatore Branch 5",
+    "hospital_name": "Royal Care Super Speciality Hospital",
     "address": {
       "street": "Station Road 5",
       "city": "Coimbatore",
@@ -48406,7 +48406,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Chandigarh Branch 1",
+    "hospital_name": "Postgradute Institute of Medical Education and Research(PGIMER)",
     "address": {
       "street": "Main Road 1",
       "city": "Chandigarh",
@@ -49097,7 +49097,7 @@
     ]
   },
   {
-    "hospital_name": "Kauvery Hospital Chandigarh Branch 2",
+    "hospital_name": "Fortis Hospital,Mohali",
     "address": {
       "street": "Main Road 2",
       "city": "Chandigarh",
@@ -49788,7 +49788,7 @@
     ]
   },
   {
-    "hospital_name": "MIOT International Chandigarh Branch 3",
+    "hospital_name": "Healing Hospital",
     "address": {
       "street": "Station Road 3",
       "city": "Chandigarh",
@@ -50479,7 +50479,7 @@
     ]
   },
   {
-    "hospital_name": "Aster Hospitals Chandigarh Branch 4",
+    "hospital_name": "Ivy Hospital",
     "address": {
       "street": "Main Road 4",
       "city": "Chandigarh",
@@ -51170,7 +51170,7 @@
     ]
   },
   {
-    "hospital_name": "Continental Hospitals Chandigarh Branch 5",
+    "hospital_name": "Alchemist Hospital,Panchkula",
     "address": {
       "street": "Main Road 5",
       "city": "Chandigarh",

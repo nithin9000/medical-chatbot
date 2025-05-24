@@ -13,7 +13,7 @@ from llama_index.core import (
     Settings
 )
 from llama_index.llms.ollama import Ollama
-from model.utils import check_memory_usage, EMBEDDING_MODEL_NAME
+from utils import check_memory_usage, EMBEDDING_MODEL_NAME
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
@@ -27,8 +27,8 @@ os.environ["HF_KEY"] = hf_key
 login(token=hf_key, add_to_git_credential=True)
 
 
-papers_directory = "/Users/nithin/Developer/medical-chatbot/backend/rag_index"
-index_dir = '/Users/nithin/Developer/medical-chatbot/backend/vector_index'
+papers_directory = "./backend/rag_index"
+index_dir = './backend/vector_index'
 
 if os.path.exists(index_dir) and os.listdir(index_dir):
     print("Loading existing index from disk....")
