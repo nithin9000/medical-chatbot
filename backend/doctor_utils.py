@@ -2,6 +2,11 @@ from db import hospitals_col
 import re
 from rapidfuzz import fuzz
 
+
+GREETING_KEYWORDS = [
+    "hey","hello","hi","sup","yo","hai","hola",
+]
+
 known_specialists = [
     "cardiology", "neurology", "oncology", "orthopedics", "dermatology",
     "endocrinology", "ent", "nutrition", "fertility", "dental",
