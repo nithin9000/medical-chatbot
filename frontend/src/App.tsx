@@ -70,7 +70,10 @@ function App() {
       const res = await fetch("/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: userMsg.text }),
+        body: JSON.stringify({
+			message: userMsg.text,
+			chat_history:messages.map(m => m.text).join("\n")
+		}),
       });
 
       const data = await res.json();
@@ -131,7 +134,7 @@ function App() {
     <div className="flex flex-col h-screen bg-[#343541] text-white">
       {/* Top bar */}
       <header className="bg-[#202123] text-white py-3 text-xl font-bold shadow-md flex justify-center items-center">
-        🩺 MedBot
+        🩺 MedMistral
       </header>
 
       <div className="flex flex-1 overflow-hidden">
