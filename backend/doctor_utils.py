@@ -1,4 +1,12 @@
 from db import hospitals_col
+import re
+from rapidfuzz import fuzz
+
+known_specialists = [
+    "cardiology", "neurology", "oncology", "orthopedics", "dermatology",
+    "endocrinology", "ent", "nutrition", "fertility", "dental",
+    "pediatrics", "Obstetrics and Gynecology", "general physician"
+]
 
 SPECIALIST_SYNONYMS = {
     "cardiologist": "cardiology",
@@ -21,9 +29,28 @@ SPECIALIST_SYNONYMS = {
     "gynaecologist": "Obstetrics and Gynecology",
     "gyna": "Obstetrics and Gynecology",
     "physician": "General Physician",
-    "General Practitioner":"General Physician"
+    "General Practitioner":"General Physician",
+    "primary care physician":"General Physician",
+    "neurologist":"Neurology"
 
 }
+
+def extract_specialist_city(message:str,known_specialist:list,threshold=80):
+    message = message.lower()
+    match = re.search(r"(.*?)(?:\s+(?:in|at|from)\s+)(.+)",message)
+    if not match:
+        return None,None
+    raw_specialist,raw_city = match.group(1).strip(),match.group(2).strip()
+
+    best_match = max(
+        known_specialists,
+        key = lambda sp: fuzz.partial_ratio(sp.lower(),raw_specialist.lower()),
+        default = None
+    )
+    if fuzz.partial_ratio(best_match.lower(),raw_specialist.lower()) >= threshold:
+        return best_match,raw_city
+    return None,raw_city
+
 
 def find_specialist_doctors(city, specialist):
     results = []
