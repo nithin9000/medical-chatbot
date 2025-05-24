@@ -13,7 +13,7 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 embed_model = HuggingFaceEmbeddings(model_name = EMBEDDING_MODEL_NAME)
 Settings.embed_model = embed_model
 
-storage_context = StorageContext.from_defaults(persist_dir="./backend/vector_index")
+storage_context = StorageContext.from_defaults(persist_dir="./vector_index")
 index = load_index_from_storage(storage_context)
 
 system_prompt = """<|SYSTEM|># You are MedMistral,an AI-enabled professional medical assistant.

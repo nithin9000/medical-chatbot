@@ -13,7 +13,7 @@ from llama_index.core import (
     Settings
 )
 from llama_index.llms.ollama import Ollama
-from model.utils import check_memory_usage, EMBEDDING_MODEL_NAME
+from utils import check_memory_usage, EMBEDDING_MODEL_NAME
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))

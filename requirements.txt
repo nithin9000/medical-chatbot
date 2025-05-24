@@ -1,6 +1,11 @@
 fastapi
 uvicorn
-jinja2
-pymongo
-python-multipart
+pydantic
+requests
+llama-index
+langchain
+langchain_huggingface
+huggingface-hub
+sentence-transformers
 python-dotenv
+pymongo

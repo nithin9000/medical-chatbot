@@ -1,9 +1,27 @@
+# 🧠 MedChat AI
 
-# Project Title
+**MedChat AI** is a privacy-focused medical chatbot that uses a locally hosted Mistral 7B LLM with Retrieval-Augmented Generation (RAG) from the Gale Encyclopedia of Medicine to deliver accurate, context-aware health information. It features a responsive React UI, contextual memory, and location-based doctor recommendations—all with a strong commitment to ethical AI use.
 
-MedBot is a medical chatbot!
+---
 
+## 🚀 Features
 
+- 🔒 **Local LLM**: Runs Mistral 7B via Ollama, ensuring full privacy and offline support.
+- 📚 **RAG Knowledge Base**: Uses Gale Encyclopedia of Medicine for accurate, medical-grade responses.
+- 🧠 **Contextual Memory**: Maintains conversation history for natural multi-turn dialogue.
+- 📍 **Doctor Finder**: Recommends nearby specialists using a location-aware MongoDB dataset.
+- 💬 **React + FastAPI Stack**: Modern, mobile-friendly frontend with a robust Python backend.
+- ⚠️ **Medical Disclaimer**: Each response includes a built-in notice that it's not a substitute for professional care.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React + TypeScript + Tailwind CSS
+- **Backend**: FastAPI + Python
+- **LLM**: Mistral 7B (via [Ollama](https://ollama.com/))
+- **RAG**: Custom ingestion using Gale Encyclopedia `.txt` files + vector store
+- **Database**: MongoDB (for doctor & hospital info)
 ## Installation
 
 1. Create a Environment
